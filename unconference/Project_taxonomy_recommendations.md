@@ -141,7 +141,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Prioritize the data privacy of your users particularly those from marginalized groups who can be deidentified. Even data that is anonymised can reveal information particularly when there are few people from a non dominant group 
         * Be aware that your software might only be available in certain regions due to the regulatory framework of various nations/regions. This may limit your community. 
 * Trademarking names and logos
-    * Definition: A type of intellectual property consisting of a recognizable sign, design, or expression that identifies the project from a particular source and distinguishes them from others.[^2] A logo is a type of trademark.
+    * Definition: A type of intellectual property consisting of a recognizable sign, design, or expression that identifies the project from a particular source and distinguishes them from others.[^2] A logo is an example of an object that be trademarked.
 
 
     * Components:
