@@ -41,6 +41,7 @@ jobs:
           pip install -r requirements.txt
           WEBSITE_LANGUAGE=en sphinx-build unconference unconference/_build/en -b html
           WEBSITE_LANGUAGE=es sphinx-build unconference unconference/_build/es -b html
+          cp index.html unconference/_build/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
