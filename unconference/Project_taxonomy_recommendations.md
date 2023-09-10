@@ -346,7 +346,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Maintainers
         * Funders/sponsors
         * External formal or informal media/communications/writers
-    * Employers of any of the above categories
+        * Employers of any of the above categories
     * Recommendations
         * Listed elsewhere in the document
 * Engaging with Stakeholders 
