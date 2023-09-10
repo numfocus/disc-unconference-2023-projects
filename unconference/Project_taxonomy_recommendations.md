@@ -343,7 +343,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Users
         * Contributors
     * Developers 
-    * Maintainers
+        * Maintainers
         * Funders/sponsors
     * External formal or informal media/communications/writers
     * Employers of any of the above categories
