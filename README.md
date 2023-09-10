@@ -3,7 +3,13 @@ A collection of outputs from the projects created at the DISC Unconference 2023.
 
 ## How to build and visualize these documents
 
-This repository sets up a [JupyterBook](https://jupyterbook.org/en/stable/start/your-first-book.html). All content is markdown files stored in the `my-project` folder.
+This repository sets up a [JupyterBook](https://jupyterbook.org/en/stable/start/your-first-book.html). All content is markdown files stored in the `unconference` folder.
+
+To add a new project page:
+
+1. Add your markdown file to the `unconference` folder;
+2. Add the name of your markdown file to the `_toc.yml` file, under the `chapters` heading.
+3. Submit a pull request to this repo. Make sure to add your collaborators as co-authors on the pull request.
 
 ### Building locally
 
