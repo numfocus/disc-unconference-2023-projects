@@ -4,6 +4,7 @@
 :avatar-outline: muted
 :author: "[@kriehl](https://github.com/kriehl), [@munkm](https://github.com/munkm), [@elgravel](https://github.com/elgravel), [@jennaswa](https://github.com/jennaswa), [@monsauce](https://github.com/monsauce), [@prabhant](https://github.com/prabhant), [@TaniaHernandez23](https://github.com/TaniaHernandez23), [@danielskatz](https://github.com/danielskatz)"
 :class-container: sd-p-2 sd-outline-muted sd-rounded-1
+
 ## Working Group Members:
 
 
