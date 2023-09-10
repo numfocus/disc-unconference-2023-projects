@@ -341,7 +341,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
 * Stakeholders
 * Definition: Stakeholders can be in one or more of the following categories
         * Users
-    * Contributors
+        * Contributors
     * Developers 
     * Maintainers
     * Funders/sponsors
