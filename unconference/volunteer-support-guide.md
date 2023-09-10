@@ -22,7 +22,7 @@ providing actionable suggestions for organizations to combat these stressors and
 # Audience
 This guide is for organizations and communities that work with volunteers and individuals and groups who lead and interact with volunteers. 
 
-#Purpose
+# Purpose
 The content of this guide can be adapted by individual organizations to help them design volunteer 
 management policies and procedures to reduce burnout and improve the experience of their volunteers.     
 
