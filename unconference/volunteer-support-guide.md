@@ -51,24 +51,26 @@ in their volunteers by providing recommendations and inspiration for how organiz
 # Support
 Recognize that volunteering carries an inherent opportunity cost. Every hour spent volunteering is an hour that cannot be spent doing paid work. This opportunity cost disproportionately affects members of marginalized groups especially those who are economically disadvantaged. Organizations should be mindful of this when asking volunteers to donate their time and look for ways to offset this cost.
 
-Depending on the organization’s available resources  
-Organizations with monetary resources can help make volunteering more equitable by paying for items relevant to work-life balance
-Detail of ways to enable economically disadvantaged individuals to take advantage of volunteer opportunities, e.g. travel cost/transportation stipend, covering the cost of child care, internet, covering accommodations, per diems 
-Challenges to monetary compensation
-Tax implications - make sure you’re aware of the laws regarding payments to individuals
+Depending on the organization’s available resources:  
+- *Organizations with monetary resources* can help make volunteering more equitable by
+  paying for items relevant to work-life balance
+  - Detail of ways to enable economically disadvantaged individuals to take advantage of
+  volunteer opportunities, e.g. travel cost/transportation stipend, covering the cost of child care,
+  internet, covering accommodations, per diems 
+  - Challenges to monetary compensation:
+    Tax implications - make sure you’re aware of the laws regarding payments to individuals
 
 # Value
 Recognize why people become volunteers and understand their expectations. 
 
-Reasons why people choose to volunteer:
-Mentorship
-Upskilling
-Access to job opportunities
-Networking
-Recognition
-Event Attendance 
-Sense of contribution
-Involvement in project, organization, group, event, etc.
+*Reasons why people choose to volunteer:*
+- access to mentorship
+- upskilling
+- access to job opportunities
+- networking
+- sense of contribution
+- community recognition
+- community belonging
 
 # Structure
 Creating more and better structure around volunteering opportunities is an effective way to reduce 
@@ -77,7 +79,7 @@ to produce the same outcome. Roles and responsibilities can be more well defined
 time volunteers spend on ineffective or unproductive activities. Active management of volunteers can help 
 organizations evaluate and continually adjust how work is divided up among individuals.
 
-*Recommendations to the organizations:*
+*Recommendations to organizations:*
 - Make expectations and responsibilities explicit, bonus if there are time estimates
 - Automate (tedious) work wherever possible.
 - Make sure that the scope of work is appropriate for volunteers rather than paid contractors or employees
@@ -85,20 +87,20 @@ organizations evaluate and continually adjust how work is divided up among indiv
 # Experience
 Ensure volunteers have a positive experience when donating their time. Here are some tangible ways to support volunteers in their work and help reduce burnout. 
 
-Clear role and responsibility descriptions, with ample opportunities for follow ups
+- Clear role and responsibility descriptions, with ample opportunities for follow ups
 Article recap/summary 
 Organizational description of expected roles and responsibilities can be iterated on by integrating feedback from volunteers.
-Retrospective survey for volunteer after events/projects
+- Retrospective survey for volunteer after events/projects
 Surveying volunteers about their experiences after events is a great way of documenting lessons learned from the experience, which in turn facilitate more positive experiences for future volunteers. It is important to understand what volunteers did, how they spent their time, what were their responsibilities, any difficulties in performing those responsibilities, positive and negative aspects, and main takeaways from the experience. 
-Encourage volunteers to submit issues whenever
+- Encourage volunteers to submit issues whenever
 It is important to create a space where volunteers feel they can share questions, concerns, or comments about their experience at any time. 
 Github issues are a great way for volunteers to share their thoughts at any point.
 Organizations should consider facilitating anonymous forms of feedback as well. 
-For managers/leaders: Keep an 👁️ out for burnout 
+- For managers/leaders: Keep an 👁️ out for burnout 
 Signs of burnout in volunteers include feeling fatigue, apathetic/dissatisfied towards work, headaches, changes to sleep/diet patterns source
 If you sense or notice that a volunteer might be experiencing symptoms of burnout, offer to arrange a 1:1 meeting for a check-in. 
-Volunteer mentorship (program?)
-Include volunteers in decision making, especially making newcomers feel welcomed and appreciated
+- Volunteer mentorship (program?)
+- Include volunteers in decision making, especially making newcomers feel welcomed and appreciated
 Have multiple ways for volunteers to get in contact with you
 Volunteers can communicate consistently with one another
 Encourage them to speak up and participate in decision making
