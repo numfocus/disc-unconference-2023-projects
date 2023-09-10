@@ -340,7 +340,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Link to volunteer burnout Unconference group
 * Stakeholders
 * Definition: Stakeholders can be in one or more of the following categories
-    * Users
+        * Users
     * Contributors
     * Developers 
     * Maintainers
