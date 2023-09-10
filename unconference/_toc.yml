@@ -4,6 +4,4 @@
 format: jb-book
 root: intro
 chapters:
-  - file: project-1
-  - file: project-2
-  - file: project-3
+  - file: mentoring.md
