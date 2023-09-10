@@ -52,7 +52,17 @@ Translatable sources can be generated as `.pot` files with:
 sphinx-build unconference unconference/_build/gettext -b gettext
 ```
 
-The content can then be translated: locally with sphinx-intl or via transifex/crowdin?
+`.po` files can then be generated with sphinx-intl:
+
+```bash
+sphinx-intl update -p unconference/_build/gettext -l es
+```
+
+`.po` files should be committed to the repo. `.pot` files should not, they should be generated when
+needed with `gettext` as shown above. `-l` flag is what indicates what languages should be
+created/updated.
+
+The content can then be translated: locally with poedit or via transifex/crowdin?
 
 ## Contributing to this repository
 
