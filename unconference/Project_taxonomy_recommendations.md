@@ -366,7 +366,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Try to have stakeholders from different groups (or all stakeholders) represented on your committees and in your project leadership. 
         * Provide opportunities beyond code contribution for stakeholders to contribute to the project that match the preferences and styles of different people. 
         * Offer as many community resources in as many languages and as many accessible formats as possible
-        * Link to DISCOVER cookbook
+        * Link to [DISCOVER cookbook](https://discover-cookbook.numfocus.org/intro.html)
         * Link to contributor diversity tooling Unconference group
 * Mentorship 
     * Definition: Guidance, or direction given to contributors by more established contributors or leadership in the service of having less experienced contributors have a successful experience and growth in the project.
