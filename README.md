@@ -29,16 +29,30 @@ conda activate projects
 Then, run
 
 ```bash
-jupyter-book build unconference
+sphinx-build unconference unconference/_build/html -b html
 ```
 
-to build the book. You can then open the generated `unconference/_build/html/index.html` file in your browser to view the book.
+to build the book. You can then open the generated `unconference/_build/html/index.html` file in your browser to view the book. You can use `python -m webbrowser unconference/_build/html/index.html` to open the website directly on your default browser.
+
+By default, the English version is generated. In order to build a different language
+(provided translations are already available), set the `WEBSITE_LANGUAGE` env variable
+to the language code you want to use, e.g. `es`.
 
 ### GitHub pages
 
 This repository comes with a [pre-defined GitHub pages setup](https://github.com/melissawm/disc-unconference-project/blob/main/.github/workflows/pages.yml).
 
 You can then access this site at `https://numfocus.github.io/disc-unconference-2023-projects/`.
+
+### Translations
+
+Translatable sources can be generated as `.pot` files with:
+
+```bash
+sphinx-build unconference unconference/_build/gettext -b gettext
+```
+
+The content can then be translated: locally with sphinx-intl or via transifex/crowdin?
 
 ## Contributing to this repository
 
