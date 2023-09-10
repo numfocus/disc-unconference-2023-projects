@@ -1,4 +1,4 @@
-# Democratising LMIC open science by sharing techniques to successfully engage with global north / HIC funders
+# Knowhow: everything you wanted to know about applying for grants but didn't ask
 
 ## Project description
 **Description**: Collaboratively creating a curriculum and coaching program to ensure that "hidden curriculum" is less hidden, so that funders and potential grantees from different income levels can engage fairly.
