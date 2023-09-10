@@ -47,7 +47,7 @@ html_theme_options = {
     "use_issues_button": True,
     "article_header_start": ["toggle-primary-sidebar", "version-switcher"],
     "switcher": {
-        "json_url": "https://raw.githubusercontent.com/numfocus/disc-unconference-2023-projects/switcher.json",
+        "json_url": "https://raw.githubusercontent.com/numfocus/disc-unconference-2023-projects/main/switcher.json",
         "version_match": language,
     },
 }
