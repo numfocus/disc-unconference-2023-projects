@@ -34,16 +34,18 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - name: Setup Pages
+      - name: Setup website
         uses: actions/configure-pages@v2
       - name: Build project docs
         run: |
           pip install -r requirements.txt
-          jupyter book build unconference
+          WEBSITE_LANGUAGE=en sphinx-build unconference unconference/_build/en -b html
+          WEBSITE_LANGUAGE=es sphinx-build unconference unconference/_build/es -b html
+          cp index.html unconference/_build/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: 'unconference/_build/html'
+          path: 'unconference/_build'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
