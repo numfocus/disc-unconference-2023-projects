@@ -1,6 +1,6 @@
 name: CircleCI Artifacts redirector
 
-on: [status]
+on: push
 
 permissions: read-all
 
@@ -17,7 +17,7 @@ jobs:
         uses: larsoner/circleci-artifacts-redirector-action@master
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          api-token: ${{ secrets.CIRCLECI_TOKEN }}
+          api-token: ${{ secrets.CIRCLE_TOKEN }}
           artifact-path: 0/index.html
           circleci-jobs: build-book
           job-title: Check the rendered website here!
