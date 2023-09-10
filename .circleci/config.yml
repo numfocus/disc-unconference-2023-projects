@@ -37,7 +37,7 @@ jobs:
           # This assumes pytest is installed via the install-package step above
           command: jb build unconference 
       - store_artifacts:
-          path: /unconference/_build/html
+          path: unconference/_build/html
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/configuration-reference/#workflows
