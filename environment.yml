@@ -1,0 +1,6 @@
+name: project
+channels:
+  - conda-forge
+dependencies:
+  - jupyter-book
+  - jupyterlab
