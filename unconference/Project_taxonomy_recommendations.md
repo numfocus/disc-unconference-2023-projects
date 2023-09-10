@@ -348,7 +348,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * External formal or informal media/communications/writers
     * Employers of any of the above categories
     * Recommendations
-    * Listed elsewhere in the document
+        * Listed elsewhere in the document
 * Engaging with Stakeholders 
     * Definition: how the project works with one or more categories of stakeholders (as defined above) with the goal of keeping them engaged in the project
     * Components:
