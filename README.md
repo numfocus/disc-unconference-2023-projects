@@ -42,4 +42,4 @@ You can then access this site at `https://numfocus.github.io/disc-unconference-2
 
 ## Contributing to this repository
 
-If you find typos, incomplete or misleading instructions, or have suggestions for improvements to this template, open an issue at the [numfocus/disc-unconference-project](https://github.com/numfocus/disc-unconference-2023-projects) repo.
+If you find typos, incomplete or misleading instructions, or have suggestions for improvements to this template, open an issue at the [numfocus/disc-unconference-2023-projects](https://github.com/numfocus/disc-unconference-2023-projects) repo.
