@@ -5,3 +5,4 @@ format: jb-book
 root: intro
 chapters:
   - file: mentoring.md
+  - file: volunteer-support-guide.md
