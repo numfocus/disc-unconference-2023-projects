@@ -69,12 +69,18 @@ Recognition
 Event Attendance 
 Sense of contribution
 Involvement in project, organization, group, event, etc.
-Structure
-Creating more and better structure around volunteering opportunities is an effective way to reduce the time burden placed on volunteers. Streamline tasks to reduce the amount of volunteer labor required to produce the same outcome. Roles and responsibilities can be more well defined to reduce the amount of time volunteers spend on ineffective or unproductive activities. Active management of volunteers can help organizations evaluate and continually adjust how work is divided up among individuals.
- 
-Make expectations and responsibilities explicit, bonus if there are time estimates
-Automate (tedious) work wherever possible.
-Make sure that the scope of work is appropriate for volunteers rather than paid contractors or employees
+
+# Structure
+Creating more and better structure around volunteering opportunities is an effective way to reduce 
+the time burden placed on volunteers. Streamline tasks to reduce the amount of volunteer labor required 
+to produce the same outcome. Roles and responsibilities can be more well defined to reduce the amount of 
+time volunteers spend on ineffective or unproductive activities. Active management of volunteers can help 
+organizations evaluate and continually adjust how work is divided up among individuals.
+
+*Recommendations to the organizations:*
+- Make expectations and responsibilities explicit, bonus if there are time estimates
+- Automate (tedious) work wherever possible.
+- Make sure that the scope of work is appropriate for volunteers rather than paid contractors or employees
 
 # Experience
 Ensure volunteers have a positive experience when donating their time. Here are some tangible ways to support volunteers in their work and help reduce burnout. 
