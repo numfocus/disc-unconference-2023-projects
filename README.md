@@ -9,7 +9,7 @@ To add a new project page:
 
 1. Add your markdown file to the `unconference` folder;
 2. Add the name of your markdown file to the `_toc.yml` file, under the `chapters` heading.
-3. Submit a pull request to this repo. Make sure to add your collaborators as co-authors on the pull request.
+3. Submit a pull request to this repo. **Make sure to add your collaborators as co-authors on the pull request.** Refer to the [GitHub documentation](https://docs.github.com/pt/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) for guidance on how to do it.
 
 ### Building locally
 
