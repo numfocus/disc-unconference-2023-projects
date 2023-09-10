@@ -1,8 +1,7 @@
 import os
 
-author = "NumFOCUS DISC Unconference 2023 attendees"
+author = "NumFOCUS DISC Unconference 2023 attendees. Content is licensed under CC BY-SA 4.0 unless otherwise specified."
 comments_config = {"hypothesis": False, "utterances": False}
-copyright = "2022"
 exclude_patterns = ["**.ipynb_checkpoints", ".DS_Store", "Thumbs.db", "_build"]
 extensions = [
     "sphinx_togglebutton",
@@ -28,6 +27,7 @@ html_favicon = ""
 html_logo = "images/logo.png"
 html_sourcelink_suffix = ""
 html_theme = "sphinx_book_theme"
+html_show_copyright = False
 html_theme_options = {
     "search_bar_text": "Search this book...",
     "launch_buttons": {
