@@ -6,5 +6,5 @@ root: intro
 chapters:
   - file: mentoring_guide_projects.md
   - file: Project_taxonomy_recommendations.md
-  - file: methodologies_community_data.md
+  - file: methodologies_collecting_data.md
 
