@@ -8,6 +8,7 @@
 ```
 
 This document is aimed at:
+
 - mentors (and potential mentors);
 - mentorship program organizers/coordinators;
 - open-source maintainers or project leadership.
@@ -58,33 +59,36 @@ If your community or project is struggling with a particular area and you know y
 ### For the mentors
 
 Mentoring someone can also be a way for the mentor to learn and grow themselves. It can be:
+
 - a way to give back to a community,
 - a way to empower and guide someone's career, with potential for real impact,
 - an opportunity for self-discovery.
 
 ### For the mentees
 
-> If you want to go fast, go alone. If you want to go far, go with someone. 
+> If you want to go fast, go alone. If you want to go far, go with someone.
 
 Mentees can benefit from a mentorship program in several ways:
+
 - For career guidance (in both technical and people skills);
 - To grow your skills more effectively;
 - As an opportunity to network with open-source communities;
 - To meet with prospective employers and find other professional opportunities.
 
-By getting support from mentors, mentees can gain confidence and experience to achieve something that they are not comfortable with or do not know how to start to achieve on their own. 
+By getting support from mentors, mentees can gain confidence and experience to achieve something that they are not comfortable with or do not know how to start to achieve on their own.
 
 ## Who are mentors/mentees
 
-Mentors provide professional guidance and support to someone with the aim of helping them grow. Mentees receive guidance from people who are more experienced than them in other areas to enhance their knowledge and career growth. 
+Mentors provide professional guidance and support to someone with the aim of helping them grow. Mentees receive guidance from people who are more experienced than them in other areas to enhance their knowledge and career growth.
 
 ### Quality of mentors
 
 Mentoring can be challenging, and the focus is on the mentee's development.
+
 - Patient
 - Supportive
 - Committed
-- Empathetic 
+- Empathetic
 
 ### Quality of mentees
 
@@ -101,17 +105,18 @@ Guiding mentees takes proper planning and preparation to have a successful execu
 
 ### How to organize a mentorship program
 
-It is important to set a [SMART](https://en.wikipedia.org/wiki/SMART_criteria) and sustainable program plan. Identify your WHY, WHO, and WHAT. 
+It is important to set a [SMART](https://en.wikipedia.org/wiki/SMART_criteria) and sustainable program plan. Identify your WHY, WHO, and WHAT.
+
 - WHY: The goal of the program.
-- WHO: The target audience (mentee), Tutors (mentors), and POCs (Persons of contact) who will serve as intermediaries between the mentors and mentees. 
-- WHAT: Set the program guide, code of conduct, duration, structure, and other relevant strategies (for the before, during, and after). 
+- WHO: The target audience (mentee), Tutors (mentors), and POCs (Persons of contact) who will serve as intermediaries between the mentors and mentees.
+- WHAT: Set the program guide, code of conduct, duration, structure, and other relevant strategies (for the before, during, and after).
 
 #### For 1-on-1 mentoring
 
 In 1-on-1 mentoring, the role of an organizer would be to match up mentors and mentees according to their needs. There are some factors you can consider when matching mentors and mentees, for example, according to:
 
 - their area of interest
-- their location proximity/ timezones
+- their location proximity/timezones
 - what language they will be using
 - their educational/ career background
 
@@ -161,7 +166,7 @@ Once you have settled down the mentee's goals, both the mentor and mentee should
 
 At the start of the mentorship, you hopefully decided on timelines and the time you decide to spend on it. Making your check-ins and communications regular works best and creates opportunities for reviews and feedback.
 
-Your regular check-ins should not focus only on outputs or work done. It can also focus on people skills, feedback on communication, or guidance about how to interact with the larger community you are a part of. Being productive does not mean they are being adequately supported, and it is your job as a mentor to make sure they know how to ask for help and feel seen and valued. 
+Your regular check-ins should not focus only on outputs or work done. It can also focus on people skills, feedback on communication, or guidance about how to interact with the larger community you are a part of. Being productive does not mean they are being adequately supported, and it is your job as a mentor to make sure they know how to ask for help and feel seen and valued.
 
 [Agenda template for 1-on-1 meetings](https://hackmd.io/@melissawm/11template)
 
@@ -203,13 +208,13 @@ A mentorship program is not a guarantee of results or outputs. Keep in mind that
 
 On the other hand, it is healthy to set expectations around coming to meetings, engaging in the mentoring format you chose, and communicating.
 
-Make sure both you and your mentee decide on a timeframe for the relationship and outline your time availability for that period. 
+Make sure both you and your mentee decide on a timeframe for the relationship and outline your time availability for that period.
 
 Mentors don't have to know everything - you can call in other people to help. As a mentor, you can identify other people who can help your mentee and make those connections. See, for example, the ["Expert" role in the Open Seeds program](https://openlifesci.org/about#experts).
 
 ## Mentorship community
 
-**Mentee Support System** 
+**Mentee Support System**
 It's important to have someone else other than the mentor for the mentee to go to. Take a look at your mentors' community. It can be very useful for mentees to have a point of contact within the community other than the mentor.
 
 It can also be beneficial, when possible, to set up a "buddy" program between mentees of the same cohort, or regular meetings between them, so they also have the opportunity to interact and discuss with people in similar situations.
@@ -227,7 +232,6 @@ Here are also some useful references for you to point mentees (or potential ment
 ## Conflict Resolution
 
 Any mentorship program should have a Code of Conduct (CoC) that all mentors and mentees should follow. If there's a breakdown in the Code of Conduct (CoC) on either the mentee or mentor side, addressing it as soon as possible is essential. Report any issues according to the Code of Conduct (CoC) of your program or community.
-
 
 ---
 

@@ -1,6 +1,6 @@
 name: CircleCI Artifacts redirector
 
-on: [status]
+on: push
 
 permissions: read-all
 
