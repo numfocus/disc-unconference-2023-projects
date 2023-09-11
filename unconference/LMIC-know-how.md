@@ -9,16 +9,16 @@
 
 
 ## Dictionary:
-LMIC - Low to medium income countries
-HIC - High income countries
-ROI - return on investment
-CC - Creative Commons
-CC-BY - Creative Commons, attribution
-CC BY-NC - Creative Commons, attribution, non-commercial 
-DOI - Digital Object Identifier
-RFA -  Request for application. Also known as CFP, Call for Proposal. 
-DEI - Diversity, Equity, Inclusion. Also known as IDEA (A for accessibility), EDI, and JEDI (J for Justice). 
-Whisper network: similar to hidden curriculum, information shared by an ingroup or clique that is inaccessible to the general population
+**LMIC:** Low to medium income countries  
+**HIC:** High income countries  
+**ROI:** return on investment  
+**CC:** Creative Commons  
+**CC-BY:** Creative Commons, attribution  
+**CC BY-NC:** Creative Commons, attribution, non-commercial   
+**DOI:** Digital Object Identifier  
+**RFA:**  Request for application. Also known as CFP, Call for Proposal.  
+**DEI:** Diversity, Equity, Inclusion. Also known as IDEA (A for accessibility), EDI, and JEDI (J for Justice).  
+**Whisper network:** similar to hidden curriculum, information shared by an ingroup or clique that is inaccessible to the general population  
 
 ## Participants
 Yo Yehudi, Laura Ación, Barbara Wilk, Jesica Formoso, Jessica Greene, Kate Hertweck, Tania Allard, Mariana Meireles
@@ -99,7 +99,7 @@ At the end of this module, learners should be able to:
     * Diversity, equity, and inclusion (DEI) statement
 * Deliverables and outcomes
 * Letters of recommendation/support
-    * Formatting
+* Formatting
     * Aims/objectives/goals 
     * Questions/hypotheses
     * Methods
