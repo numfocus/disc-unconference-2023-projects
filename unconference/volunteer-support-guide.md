@@ -12,27 +12,27 @@ The authors of this guide are connected with open source communities to varying 
 can be broadly applicable to many types of organizations who interact frequently with volunteers. This guide was produced during the 
 DISC Unconference in Amsterdam, NL, 9-10 Sep 2023. 
 
-# Introduction
+## Introduction
 Volunteering is a critical form of support for many organizations. There are many benefits and opportunities available to volunteers 
 through the nature of their work, yet volunteer burnout is too common of a phenomenon. This comprehensive guide is meant to help 
 organizations reduce volunteer burnout in two ways, by:
 recognizing the many barriers to and stressors of volunteering
 providing actionable suggestions for organizations to combat these stressors and support volunteers
 
-# Audience
+## Audience
 This guide is for organizations and communities that work with volunteers and individuals and groups who lead and interact with volunteers. 
 
-# Purpose
+## Purpose
 The content of this guide can be adapted by individual organizations to help them design volunteer 
 management policies and procedures to reduce burnout and improve the experience of their volunteers.     
 
-# Definitions
+## Definitions
 *Volunteer* - someone who performs a service or work voluntarily, usually unpaid 
 *Burnout* - emotional or physical exhaustion, usually as a response to chronic emotional and interpersonal stressors on the job
 *Marginalized groups* - groups who historically have been underserved and undervalued, largely due to identity demographics
 (e.g. people who are BIPOC, women, gender minorities, etc.) 
 
-# Problem Statement
+## Problem Statement
 People get involved in volunteering for a number of reasons: as a form of self-education or skill-building, to network and 
 build community, to gain access to open spaces, etc. It is often an entry point into open source and future opportunities. 
 
@@ -48,7 +48,7 @@ Organizations have a multitude of resources available to them, e.g. monetary fun
 which can be leveraged to support volunteers. This guide aims to provide clarity on how organizations can reduce burnout 
 in their volunteers by providing recommendations and inspiration for how organizations can best utilize the resources available to them. 
 
-# Support
+## Support
 Recognize that volunteering carries an inherent opportunity cost. Every hour spent volunteering is an hour that cannot be spent doing paid work. This opportunity cost disproportionately affects members of marginalized groups especially those who are economically disadvantaged. Organizations should be mindful of this when asking volunteers to donate their time and look for ways to offset this cost.
 
 Depending on the organization’s available resources:  
@@ -60,7 +60,7 @@ Depending on the organization’s available resources:
   - Challenges to monetary compensation:
     Tax implications - make sure you’re aware of the laws regarding payments to individuals
 
-# Value
+## Value
 Recognize why people become volunteers and understand their expectations. 
 
 *Reasons why people choose to volunteer:*
@@ -72,7 +72,7 @@ Recognize why people become volunteers and understand their expectations.
 - community recognition
 - community belonging
 
-# Structure
+## Structure
 Creating more and better structure around volunteering opportunities is an effective way to reduce 
 the time burden placed on volunteers. Streamline tasks to reduce the amount of volunteer labor required 
 to produce the same outcome. Roles and responsibilities can be more well defined to reduce the amount of 
@@ -84,7 +84,7 @@ organizations evaluate and continually adjust how work is divided up among indiv
 - Automate (tedious) work wherever possible.
 - Make sure that the scope of work is appropriate for volunteers rather than paid contractors or employees
 
-# Experience
+## Experience
 Ensure volunteers have a positive experience when donating their time. Here are some tangible ways to support volunteers in their work and help reduce burnout. 
 
 - Clear role and responsibility descriptions, with ample opportunities for follow ups
@@ -109,7 +109,7 @@ Engage with them early and often
 An unwelcoming environment can be a barrier to participation
 Build their confidence by placing trust in their abilities
 
-# Resources
+## Resources
 - Survey guide
   - What specific information are you trying to gather?
   - What improvements do you hope to make after gathering the information?
