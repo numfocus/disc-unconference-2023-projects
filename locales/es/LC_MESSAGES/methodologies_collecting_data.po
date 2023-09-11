@@ -1,0 +1,577 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-11 17:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../methodologies_collecting_data.md:1 9d12d7e3dfa1406d9652f7cbf1b09e10
+msgid "Methodologies For Collecting Community Data"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:3 2b84f5dfab8449a0a68d71417efeb689
+msgid "anavelyz, @natmokval, @akcouli, @ruv7, @ashmpace"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:10
+#: ../../methodologies_collecting_data.md:37 05f3e185d3d14fc3b6a46d2c9b96f3f6
+#: 9675571984e94929ae7cde5849cac92f
+msgid "Introduction"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:11 a1e1d37743a848549a68f4fb3a265c05
+msgid ""
+"This toolkit is a first draft and work in progress. It was created at the"
+" 2023 Diversity and Inclusion in Scientific Computing (DISC) "
+"Unconference."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:13 c2de67f10503465ab3a7532f3f4a558c
+msgid ""
+"It is provided here with the intention of sharing our work but should not"
+" be considered ready for use."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:15 b9430af6a82d4a718c31d308f62ea9c8
+msgid ""
+"The five co-authors commit to continuing the development of this resource"
+" and welcome additional co-authors who are passionate about surveys and "
+"data analysis!"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:18 058044b3bf274930b839085acbef155c
+msgid "Table of Contents"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:19 8e19be115d67485bb86665910af2fc70
+msgid "Definitions - Who is a contributor? Who is a user?"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:20 246721c1dab3482d9c990c1c1dd0f84b
+msgid "Community Survey: Satisfaction Data"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:21 173e86868abc4f8bbfd94bfb7a7a421f
+msgid "Community Survey: Demographic Data - English version"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:22 7a003caa938042d0a42d7178050e4532
+msgid "Demographic Data - Translated versions"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:23 a91779b844c04986be6afd283666c6e1
+msgid "Demographic Data - Recommendations for administering"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:26 4918cf2bd70d49d89024738100b295ba
+msgid "Definitions"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:27 dca6ac1f608c473db8bd5debfcb1c808
+msgid ""
+"**Code contributor**: Once a person opens a pull request in a given "
+"project"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:28 d550533bb54e424095c6357e04dec75b
+msgid "**Non-code contributor**: A person who performs:"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:29 77e76876abd04593934745c2a0ef44eb
+msgid "Conference or event organization focused on open-source software"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:30
+#: ../../methodologies_collecting_data.md:52 41d62f15a82d4f0e968b5e5589d8de75
+#: 95caa0b0903440da970d3c158c807d74
+msgid "Writing, editing and updating documentation"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:31 5e33a551296c4cfb894db5df45c25a43
+msgid "UI/UX Design"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:32
+#: ../../methodologies_collecting_data.md:54 5bb4415bbd2f48689ad680f5cf519cec
+#: 633648aeaa3145e18d0627afd64ea123
+msgid ""
+"Operations activities that move forward the goals of a project, such as "
+"but not limited to: social media administration, communications "
+"administration, fundraising, governance"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:33 bc63d5d8f3fc4b25981ea3d3fb684068
+msgid ""
+"**Users**: A person who has downloaded software to complete a task in the"
+" past 12 months."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:35 642fbf1a3c214a6985ae2329162e9e0a
+msgid "Survey: Satisfaction Data"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:38 2a7fe00e95bb4bb6bf8fa0781846f5b4
+msgid ""
+"Have you ever wondered how satisfied the contributors and users of your "
+"project are? Open Source communities do not have a standard mechanism for"
+" collecting feedback. We invite you to gather a new perspective and "
+"collect data with the goal of measuring satisfaction trends as a measure "
+"of the health of your project."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:40 dde7b6be4d55499abdbf73b85ae9b0e1
+msgid ""
+"The two surveys included here are designed for Open Source communities in"
+" mind. Gathering data is the best method to test assumptions and "
+"objectively measure how satisfied the community is. Satisfaction can be "
+"measured from two perspectives; the people who contribute and those who "
+"use the tool."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:42 5d05ee4a89374bfd9302a0c8a657fe2c
+msgid "What can be done with results?"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:43 9810b9d9669f4ae4be31712c3dd689c6
+msgid ""
+"Identify the reasons why your contributors and users are detractors of "
+"your open source project."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:44 01ed0c7d6e5040d3beacf5df4ac15293
+msgid "Set goals that will increase the number of promoters of your project."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:45 0b9b8fa39b67453bbcad5e1e0f274057
+msgid ""
+"Compare year over the year NPS, create dashboard (pending - can we create"
+" a dashboard)"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:47 0dbf513bc30247fa828837bd4acd4fe0
+msgid "Community: Targeted Respondents"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:48 9d60a3ad327540328177217896774843
+msgid ""
+"CONTRIBUTORS: People who contribute to an OS project, this can be code, "
+"documentation or both. Contributors can also be users but for the "
+"purposes of this survey we’re asking them to evaluate their experience as"
+" Contributors."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:49 b10b2dd646a04f978f74c0a9944e7756
+msgid "Code contributor - a person who opens a pull request"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:50 97beb577d542471ea9ae06313823b6b9
+msgid "Non-code contributor"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:51 ed80ad0dd8e5404aacc1a7641f6629a7
+msgid "Organizers of events, meetings, conferences"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:53 75b4f25c79194f1e8effb33fc6862c0a
+msgid "UI or UX Design"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:56 d2e04ba6bc734fd6ae95f7fc723b12fe
+msgid ""
+"USERS: People who use OS software but don’t contribute to it. Has "
+"downloaded software and completed a task in the past 12 months"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:59 b3f052760780477cb130c6938a763324
+msgid "Documentation: How to conduct an NPS Survey"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:61 0eb6e8c9d0d14f5fba2e749ce6619296
+msgid "Survey Checklist"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:62 8a51e98382ce45b2b0b322b92111ee97
+msgid "Familiarize yourself with NPS, read documentation"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:63 3490568afb0a4db58ca53efe53139c84
+msgid ""
+"Socialize the idea of using NPS among your project’s leadership to secure"
+" support or consensus for your idea including a project plan for open and"
+" close dates for the survey and a process for analyzing data"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:64 8eab830c08b9434da7abcde313833c33
+msgid "Create a survey in any software you prefer - see the questions below"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:65 9a8f622969b148068a06bf78e64526f9
+msgid "Define collection methods and where you will promote the survey"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:66 c4b39be6d1a84987951854f708ae585a
+msgid "Invite your community to answer"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:67 06e95b9bee144159a7590d7c230777e2
+msgid ""
+"Once you have data in hand you will need to spend some time analyzing and"
+" summarizing results"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:68 46e88553d04e4a80b45b7e688a68d3da
+msgid "Share results with your community"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:70 5f899ecbe9fa4f7ebd357175a532ee90
+msgid "What is Net Promoter Score?"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:71 bc4bc6c032e64aebb044a948cda41cdf
+msgid ""
+"The NPS assumes a subdivision of respondents into \"promoters\" who "
+"provide ratings of 9 or 10, \"passives\" who provide ratings of 7 or 8, "
+"and \"detractors\" who provide ratings of 6 or lower. The net promoter "
+"score results from a calculation that involves subtracting the percentage"
+" of detractors from the percentage of promoters collected by the survey "
+"item. The result of the calculation is typically expressed as an integer "
+"rather than a percentage."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:73 374963c620bb4f309d8eaebb9680a0e3
+msgid ""
+"[What is Net Promoter Score and When to Use It](https://chartio.com/learn"
+"/product-analytics/what-is-net-promoter-score-nps/)"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:75 a485ac065b074087b6125d207b7332ed
+msgid ""
+"[Wikipedia Article about "
+"NPS](https://en.wikipedia.org/wiki/Net_promoter_score)"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:77 b2c7bc1d3a6245f49301a231281ed825
+msgid "Contributor Survey Questions"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:78 540de4268fb24bdf9201dbc7af66545e
+msgid ""
+"Are your contributions to Project X code, non code, both?  Hypothesis - "
+"NPS for those who contribute both is higher and we can use that as a way "
+"to demonstrate the value of encouraging engineers to make non code "
+"contributions."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:81 19960b00c3b4485eabc9553ceed50a9d
+msgid ""
+"On a scale of 0 to 10, how likely is it that you would recommend "
+"contributing to project x to a friend or colleague?"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:83
+#: ../../methodologies_collecting_data.md:88 cd3d5410aa0f4103ace42f3a8c91e74e
+#: cf7fd548d6db469883bfe4def1dd06d9
+msgid "Please tell us more about why you provided this rating."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:85 3a593f42ceb241869d9eba0a76d58265
+msgid "User Survey Questions"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:86 977cde2b48ae486f87e6cffaf39eb57d
+msgid ""
+"On a scale of 0 to 10, On a scale of 0 to 10, how likely is it that you "
+"would recommend using project x to a friend or colleague?"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:90 2a3e9b74f44143799ee31cac3c5a652a
+msgid "How to analyze results of your survey"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:91 f0cd1b23243d4527b50350e9fdd77999
+msgid "Calculate NPS (pending)"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:92 313c66bc7c9240a8a582ad77003d3d71
+msgid "Manually evaluate open ended comments"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:93 14119f5cf090485ba051603cdf824f14
+msgid "Compare segments (for Contributors survey only)"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:95 c36d1e67214f41d286bc336269e2089e
+msgid "Challenges"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:96 2a3a457235894da6b7bc99821ac1bdc7
+msgid ""
+"**Collecting a representative sample.** The size of an OS community can "
+"be hard to quantify therefore the percentage of response will be hard to "
+"quantify. How can we define what the target number of respondents is?"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:98 98b9476103f34eb58ced5235dce01ba0
+msgid ""
+"**Survey should be conducted once a year.** There is no benchmark for NPS"
+" in Open Source (that we’re aware of) Therefore the value that we propose"
+" is in comparing year over year satisfaction data. This means the survey "
+"will need to be conducted more than once in order to be valuable."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:100 95f81a63acbd407db6031ee166597ad8
+msgid "Next Steps"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:101 dbbbc5a676c347d197b33ece13526fee
+msgid ""
+"Collaboration will continue past the event. Anavelyz Perez and Ana "
+"Ruvalcaba will work together to continue refining the documentation."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:102 a5923a6929a848d688523cb1f25f9a8f
+msgid ""
+"Connect with others who have expertise in NPS, if you have conducted NPS "
+"in any context or you would like to join us please open an issue."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:105 cf9d4fe7cc51403b970ec35b2d2b6656
+msgid "Survey: Demographic Data"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:106
+#: ../../methodologies_collecting_data.md:110 17f96e3216d840bda219b7b63fec36f8
+#: 88edd26cce614c96b5caeee318e651a5
+msgid ""
+"These questions are based on questions 100-112 in the quantitative "
+"section of the NumFOCUS Contributor Diversification and Retention "
+"Research Project Baseline Survey (*link pending*)."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:109 586202ecfa05428d9bdd2437bed05916
+msgid "English version"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:112 f2c0488a59ac4a479dcb3d3380ed8035
+msgid ""
+"Here is an [English version of the survey in Google "
+"Forms](https://docs.google.com/document/d"
+"/1Lz__kuSaO2YUhRkUtxOX_KnHCi6Vyo-4j7Ftxyrg9ak/edit)."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:114 d5668b9543574a6598ad1a28b5a6ad99
+msgid "Translated versions"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:115 d7d8d9e4260a404e8ffd28c748272ab6
+msgid ""
+"Here are preliminary versions of the survey in "
+"[French](https://docs.google.com/document/d/1i3nV7vXM0M-"
+"amqvSnICMu9u6RT_QPF2wYCThLWyIxkI/edit?usp=drive_link), "
+"[Spanish](https://docs.google.com/document/d"
+"/1FHhpfGxxddIBt_CR8mgOu20_Y0Ca42ByKUr8Zwd-PA4/edit?usp=drive_link), and "
+"[Russian](https://docs.google.com/document/d/1hGPxYZGTVLQaiXEHWXG6dFjhOB5oRTmo25sw9lRLDjs/edit?usp=drive_link)."
+" Additional translations are encouraged!"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:117 2cfa4734ce5f4dd89867d288e6c751f6
+msgid "Recommendations for admininstering"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:119 7526fd69315a461ca7ed8537f0cee1f8
+msgid "For NumFOCUS"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:120 27264105fbc841bd8c71f1bd7ba6af11
+msgid ""
+"**Administration of a pilot version** - An initial campaign would be made"
+" to the 20 projects that participated in the CDR project, with a goal of "
+"confirming five projects who will commit to issuing the Demographic "
+"Survey to their contributor bases and provide feedback on the "
+"administration process and completion rate."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:122 4bd8d8c09b264f99958075c2e0f0d670
+msgid "For open-source projects"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:123 c42ad9e3088a41eaa75740a05d841e03
+msgid ""
+"**Timing** - When first beginning to collect demographic data on the "
+"contributor base, a project should encourage as much of the existing "
+"contributor base to complete the survey. Following the initial survey, "
+"the survey should be delivered on an individual basis as part of an "
+"onboarding package to new contributors to a project, or within a certain "
+"time frame of opening a first pull request."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:124 6745f4419511461ab8848441a1622408
+msgid ""
+"**Channel of delivery** - Project leads can send the survey questions to "
+"contributors via platforms such as Google Forms or Survey Monkey."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:125 43700adb977a471485b1d7bc00d8333b
+msgid ""
+"**Voluntary participation** - Project leads should emphasize that "
+"completing the survey is not mandatory in order to participate as an "
+"open-source contributor. Suggested language:"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:126 16a7ac7845234dff9ed6bf6c43e9b1d5
+msgid ""
+"E.g of introductory statements that can be used by the project. Thank you"
+" for your time to participate in the [Survey]. [project] is collecting "
+"this data in order to guide our strategy in attracting and retaining "
+"diverse contributors. Your participation will require approximately 10 "
+"minutes. There are no known risks or discomforts associated with this "
+"survey. Your responses will be kept strictly confidential. Taking part in"
+" this study is completely voluntary, but your views are very important to"
+" us. Thank you in advance for your collaboration. Do you agree to "
+"proceed?"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:128 181eea6412ff49d0a181bfced2bfc750
+msgid ""
+"**Reminders** - To ensure a higher level of survey completion, project "
+"leads could schedule automated follow-up communications to remind "
+"contributors to complete the survey upon opening a new PR. Linking survey"
+" reminders to the opening of pull requests can help ensure that both "
+"existing and new contributors are prompted to complete the survey."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:130 c3395a71ac514c8eaf0bfd9963c3277b
+msgid "Looking Forward: Dashboard for contributor metrics"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:132 156352c68d0c4e0a86979f7c00aed396
+msgid "Motivation"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:133 7207191ee4d14553a82245fdddef8206
+msgid ""
+"Such a tool would give project leads a greater ability to distinguish the"
+" variety of new contributors’ experience levels and how that experience "
+"maps to the project’s needs with the goal of knowing how to support new "
+"contributors and growing their community."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:135 c3e766267b794d258e8adf273a80b57e
+msgid ""
+"Project leads can use the statistical analysis available in this tool "
+"both to analyze the project’s historical progress and to plan key "
+"performance metrics for the future."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:137 462683f631084a57acacd63d3babd44a
+msgid "Metrics to consider in evaluating contributors:"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:138 99a11bf0a6f742dda2afc9350989b1c2
+msgid "Experienced in open-source / Inexperienced in open-source"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:139 ecf198385d714472a3b7f83cbed0cf05
+msgid ""
+"Regular frequency of contribution to a single project / Irregular "
+"frequency of contribution to a single project"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:140 66ba146aa6a442c39b201c8901bfa153
+msgid "Newly joined the project / Joined the project earlier"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:142 3bb7ac46e7834a19b340897e867310b9
+msgid "Classes of contributor:"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:143 da789ba047394da6bb62b565698804fc
+msgid "Experienced, regular contribution, newly joined"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:144 da4b29a6e2eb4d33b97aa4257682d15f
+msgid "Experienced, regular contribution, joined earlier"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:145 7fd2c4fb74464515993faa37595b98bd
+msgid "Experienced, irregular contribution, newly joined"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:146 0efb315ec5a54679a24961ee2ef27c4a
+msgid "Experienced, irregular contribution, joined earlier"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:147 0d5a9381a98042189a1a4530d161096c
+msgid "Inexperienced, regular contribution, newly joined"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:148 d0b96ce3d95c417b93b393906d9ec2cc
+msgid "Inexperienced, regular contribution, joined earlier"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:149 153262879fa14e25be6f5844c0eeb735
+msgid "Inexperienced, irregular contribution, newly joined"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:150 2892f487d1864f80aaf5db17b1574a50
+msgid "Inexperienced, irregular contribution, joined earlier"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:152 e1e5dafdf55a498f8b97ba0829149352
+msgid "Challenge to data access"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:153 e7d28894d7c24680ad0edea11943886a
+msgid ""
+"Currently, contributor statistics exist in GitHub, but these are publicly"
+" available on an individual project level only. This presents a challenge"
+" to analysis spanning multiple projects. For example, one individual may "
+"be a new contributor to one project, but a core maintainer of a second "
+"project, and a regular contributor to a third project. Having "
+"programmatic visibility into the entire span of many contributors’ "
+"experience across projects can help project leads/maintainers better "
+"navigate and nurture the relationships with their contributor base."
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:155 7c0a15c572a04299b932baef3f57b431
+msgid "Recommended actions to take based on data insights"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:156 627982e6ed7c49b286f5c009c1a75956
+msgid "Provide support for beginning contributors (mentorship, skill sharing)"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:157 1ae53da803f74b1497d446714feab4b2
+msgid "Organize sprints for beginner contributors"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:158 5f9e2492c06c49e48bbfe919999f15d5
+msgid ""
+"Provide support for advanced contributors (appreciation, recognition, "
+"labels or badges)"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:159 f368b434a7fc42e6af978e0605ce378b
+msgid "Provide funding support or grant opportunities"
+msgstr ""
+
+#: ../../methodologies_collecting_data.md:160 b280899718804380af530839c6cf2f88
+msgid ""
+"Invitation to join organizations, committees, opportunities for greater "
+"involvement"
+msgstr ""
+

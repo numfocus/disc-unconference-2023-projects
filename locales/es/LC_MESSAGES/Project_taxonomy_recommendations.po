@@ -1,0 +1,2587 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-11 17:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../Project_taxonomy_recommendations.md:1 3fcfdf4de53e46d2a8f85bc4c44cac51
+msgid "Project taxonomy and recommendations for Diversity Equity and Inclusion"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:3 ab02ac8956be4bd5a8309e4b12faa7b5
+msgid ""
+"@kriehl, @munkm, @elgravel, @jennaswa, @monsauce, @prabhant, "
+"@TaniaHernandez23, @danielskatz"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:11
+#: 874e9cd57b914e479d47ab04b3d09a34
+msgid "Working Group Members:"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:13
+#: c8f85888b6de40edbbb5559fb0a490ec
+msgid "Katrina Riehl (@kriehl)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:14
+#: 71d27d32f45041e987f84950555dde40
+msgid "Madicken Munk (@munkm)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:15
+#: a195b39bb1e2488291ace177548d7ea8
+msgid "Rafal Malanij (@elgravel)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:16
+#: ffb426cb6975494bb45fd4073cc49dd7
+msgid "Jenna Swarthout Goddard (@jennaswa)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:17
+#: c4cd531c79084ed783e38a9d0f5dd40b
+msgid "Monica Granados (@monsauce)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:18
+#: bcc11f868aa34db3addb9690d5426fe4
+msgid "Prabhant Singh (@prabhant)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:19
+#: 565260b712f44573bbf15137b9fcfa76
+msgid "Tania Hernandez (@TaniaHernandez23)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:20
+#: 7c5fe907c95740c2a45623d0a4f78209
+msgid "Daniel S. Katz (@danielskatz)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:22
+#: d711304d109d4078b4a1a904dc31fc28
+msgid "Emeritus Working Group Members:"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:24
+#: 153ab80f455e49368608583c7c20ac23
+msgid "Cheuk Ting Ho"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:26
+#: 277d889aff2744e1a4809314a5820338
+msgid "Roles:"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:28
+#: 4cc8cb8cc8714f2dabe0e8747639b3fc
+msgid "Lead"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:29
+#: c1cd48247357468f9e10feb9b8ad7c70
+msgid "Tania"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:30
+#: a4a7c73c60fd4237a68bb64a9cf1d712
+msgid "Note taker(s)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:31
+#: bd81596d68cc4cabbde047a3cd16edef
+msgid "Jenna"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:32
+#: d54fc48140e54bbfb3c31b4838a54b8d
+msgid "Understudy Notetaker:"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:33
+#: bd1ac4533bef44b381276455d9484e78
+msgid "Madicken"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:34
+#: 30d2037580b848bbbe18de4a74f7300e
+msgid "Reporter/Socializer"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:35
+#: 1dda2cdc669a4739b00e89e363b5e126
+msgid "Monica"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:36
+#: 119fa0c343e9421087ef5e7053b6602d
+msgid "GitHub: https://github.com/numfocus/disc-unconference-2023-projects"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:38
+#: 87929bfcb62a4f74b3e232c537c7d7da
+msgid "Goals"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:40
+#: 83977aa66ff94e2381b1827c8b4a5c09
+msgid "**Develop a framework as a case study for a model inclusive project**"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:42
+#: 87f537bb5cb6423a9285fb462adb8c8f
+msgid "Topics and Categories"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:44
+#: 88dbf301a092426ea28957a9ea61b46d
+msgid ""
+"What are the key elements we want to have in this case study? Develop a "
+"matrix of 2 axes:"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:46
+#: 6bd84c9fff434e07a08476939a54d611
+msgid ""
+"Deconstructing what a project is (need to develop definitions for each "
+"category). _What are key parts of a **diverse** and **sustainable** "
+"project?"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:47
+#: 63e90a53f424422da27089fd88ea6c4e
+msgid "THEMES"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:48
+#: b02c8ae3d8374a9da86c55b36792f721
+msgid "Sustainability"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:49
+#: a6c8f435b7f248fdbbf34e964dc44dec
+msgid "Openness"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:50
+#: 8e31c58ac7f74b279bcb92aea31e36d7
+msgid "Diversity"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:51
+#: f84434853a954f6a91719615c133520c
+msgid "Equity"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:52
+#: 32b2617438614432b6136f7cbb2b228a
+msgid "Inclusion"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:53
+#: c38882d73af24ea28cd715e6e3ec49d9
+msgid "CATEGORIES"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:54
+#: 75a46c401f654e8baf47299d89a97103
+msgid "Mission/vision"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:55
+#: ../../Project_taxonomy_recommendations.md:329
+#: 40b859d7d65e4272a42524b82fed6308 5e8832ee35394adb997f2f663cb7e9f9
+msgid "Stakeholders"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:56
+#: 58372490605d45b881d3f8c613ac7bbd
+msgid "Legal"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:57
+#: ../../Project_taxonomy_recommendations.md:109
+#: 279931cd90054a8d98857b63af0e29e5 c15da33765c049da980f18cc103aa122
+msgid "License"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:58
+#: ../../Project_taxonomy_recommendations.md:124
+#: 063ab24c1f344ee5ae84daf24ce29a29 9b0dfa35dc094c63ab4ecc3eaa484cb6
+msgid "Regulatory compliance"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:59
+#: ../../Project_taxonomy_recommendations.md:135
+#: 291c71a8476b4845ae403ca89c0ac44c b6f46f6644ad48e0bf3667b081e33eb2
+msgid "Trademarking names and logos"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:60
+#: 31908562e0ef4548a9ea79cf67864bc1
+msgid "Governance"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:61
+#: ../../Project_taxonomy_recommendations.md:172
+#: b22368c67a624b6cb5347b35291b6c41 daf27ea3c3f24723990ff8641724b7a7
+msgid "Leadership"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:62
+#: ../../Project_taxonomy_recommendations.md:176
+#: ../../Project_taxonomy_recommendations.md:191
+#: 5bcdc1cc3efa417e9b92257fe37696ca 5cbdd4403f5c47f88a508df5fdd3fa3e
+#: e9a97b028d9d45e389fb20e2ae2db13a
+msgid "Committees"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:63
+#: ../../Project_taxonomy_recommendations.md:154
+#: 961e784414a742c8890551dd875ba6a5 b4302b5dad4d40bfb64960294f167310
+msgid "Roles and responsibilities"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:64
+#: ../../Project_taxonomy_recommendations.md:213
+#: 181478ecf7fc4898a2b79b07fd0634f4 7f05bd3078ca44e2b229e0ce0b70b1ca
+msgid "Decision-making"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:65
+#: ../../Project_taxonomy_recommendations.md:228
+#: ../../Project_taxonomy_recommendations.md:315
+#: 2e4edbcad21c46618288d6b0f9012899 62232f3df98e427bae5efa29650cdf3f
+#: 73faa0c95d664adab7abb3631ea30944
+msgid "Conflict resolution"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:66
+#: ../../Project_taxonomy_recommendations.md:242
+#: 3ac95530402c42e29918fe6da4988483 8a9a05a728294a32ab9b71473eab1d0f
+msgid "Staffing"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:67
+#: ../../Project_taxonomy_recommendations.md:265
+#: 466ff08ddade493db157428a659c8533 7ac3d0d9084b4b4481c90b5c15f46115
+msgid "Funding and finances"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:68
+#: 28282f1c0c7d4ad1bbeeef2d7e453096
+msgid "CoC (policies, enforcement, EXISTENCE)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:69
+#: dfe59ecd653d4100813c9b010a40da5b
+msgid "Community"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:70
+#: f0caa8279afa452e8cb33a5d3eb05207
+msgid "People management"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:71
+#: 19114cacc8c045d9b7201f55c6c2e692
+msgid "Engaging with users/contributors/developers/maintainers"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:72
+#: a93fa49632aa4ba8956ad0e2968e793e
+msgid "Mentorship (link to mentorship group’s work)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:73
+#: ../../Project_taxonomy_recommendations.md:312
+#: ../../Project_taxonomy_recommendations.md:370
+#: 2b323dc3c4d948d3b2f54b920abecdc0 972399fd1d1143c29fb9f8f5fed0a52c
+#: 9737f0b279174fa9a1fd9bd31c5c6535
+msgid "Training"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:74
+#: ../../Project_taxonomy_recommendations.md:387
+#: 644e0b3d9cb14189a398b8c61fccdbb6 88667d1b57ce4938927795e820214172
+msgid "Marketing"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:75
+#: ../../Project_taxonomy_recommendations.md:510
+#: c306c378cb0e49729348394878f76570 dfb5361e20e948de90466df75a11b04f
+msgid "Communication channels"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:76
+#: 76c5c8446b0d4105a1e64bac73a75fd4
+msgid "Technical (Infrastructure)/Technology"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:77
+#: ../../Project_taxonomy_recommendations.md:426
+#: 6444d3ff1bcd4606a4ba533d77376d53 ddfc2384972e4ef5a0f05a8d267877f0
+msgid "Documentation"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:78
+#: 48d5ce927ce744a699e8e7e5b73761d0
+msgid "Roadmap"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:79
+#: ../../Project_taxonomy_recommendations.md:458
+#: c87ecb32cd71475293da01cfb330dd91 eb50dccc9feb44e39394f9fd56d293f1
+msgid "Hardware (e.g., OS)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:80
+#: ../../Project_taxonomy_recommendations.md:476
+#: 9082024bcc6d45cc98069e4bfef55db9 a74b89b8f7834ea7af291b8e6c75e10d
+msgid ""
+"Software (e.g., repo, CI/CD pipelines, quality/security measures, "
+"webhooks)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:81
+#: 72390dbe700442e6babd463adc7ba7f8
+msgid "Access management"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:82
+#: 7897e1f8156f44af8689a7d7d8f31f5a
+msgid "Release practices"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:83
+#: 4ee2a71fbce24930952bd3168484a1c2
+msgid "Stages of project life cycle/timeline"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:85
+#: ce915124fa0a41549e4d5b8d781ac1b7
+msgid "Next steps:"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:87
+#: 1e0870e265374b5f8f01a180bcb7a1c5
+msgid "Define language and make consistent throughout the document"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:88
+#: 1143bff8f49742daac0965252df989ca
+msgid "Pull out general themes that apply throughout"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:89
+#: a20c500138c04488a4fef70d04fd69a4
+msgid "Ensure recommendations truly relate back to DEI and are actionable items"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:90
+#: 7ee616053ede4103bf4bcbf073fc5e32
+msgid ""
+"Assess how recommendations support openness/transparency and can be done "
+"in a sustainable manner"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:91
+#: 84c4919e343e407b9e62aae1fc904688
+msgid ""
+"Build out as a matrix of how recommendations apply to projects at "
+"different life stages"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:92
+#: 826b783bdea8489993de83f700f00d1e
+msgid "Find citations/references to evaluate where diversity is missing"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:94
+#: 45c69afe63024bc09532e98b275e4add
+msgid "Resources (from Slack)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:96
+#: 87899fa6a53c4f40b5fc2f6d3be7f513
+msgid ""
+"[https://github.com/badging/project-diversity-and-"
+"inclusion](https://github.com/badging/project-diversity-and-inclusion)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:97
+#: dd911cf2a079450b9c197e51423d187b
+msgid ""
+"[https://doctorow.medium.com/the-title-card-from-sumana-harihareswaras-"
+"github-talk-what-would-open-source-look-like-if-it-were-"
+"35b0360f8b89](https://doctorow.medium.com/the-title-card-from-sumana-"
+"harihareswaras-github-talk-what-would-open-source-look-like-if-it-were-"
+"35b0360f8b89)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:98
+#: 8bad5799dc33419097d74388dda5b831
+msgid ""
+"[https://www.jmlr.org/mloss/mloss-info.html](https://www.jmlr.org/mloss"
+"/mloss-info.html)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:99
+#: 83506cf362da42a38bc6e492a755bb26
+msgid ""
+"[https://goblin.tools/](https://goblin.tools/) Goblin Tools: Break down "
+"to-do list items into more granular tasks"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:101
+#: ad6ab293f7cc46de838467a1738f6d85
+msgid "TITLE OF OUR DOCUMENT (PARTY PARTY PARTY - Work Hard, Party Harder!)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:103
+#: ab7c3b47380f4c35a995dda3a8728f10
+msgid "GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:105
+#: 88b0e069db8e42a5849a95f7af33e27e
+msgid "Themes Appearing Throughout"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:107
+#: 69d9609f6db947f3847b0940614c837d
+msgid "Legal Category"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:110
+#: d43e19316b014ce0abf848cced395d34
+msgid ""
+"Definition: A **license** is an official permission or permit to do, use,"
+" or own something as well as the document of that permission or "
+"permit.[^1]"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:113
+#: ../../Project_taxonomy_recommendations.md:126
+#: ../../Project_taxonomy_recommendations.md:139
+#: ../../Project_taxonomy_recommendations.md:156
+#: ../../Project_taxonomy_recommendations.md:174
+#: ../../Project_taxonomy_recommendations.md:193
+#: ../../Project_taxonomy_recommendations.md:217
+#: ../../Project_taxonomy_recommendations.md:230
+#: ../../Project_taxonomy_recommendations.md:244
+#: ../../Project_taxonomy_recommendations.md:267
+#: ../../Project_taxonomy_recommendations.md:289
+#: ../../Project_taxonomy_recommendations.md:311
+#: ../../Project_taxonomy_recommendations.md:342
+#: ../../Project_taxonomy_recommendations.md:362
+#: ../../Project_taxonomy_recommendations.md:372
+#: ../../Project_taxonomy_recommendations.md:389
+#: ../../Project_taxonomy_recommendations.md:415
+#: ../../Project_taxonomy_recommendations.md:428
+#: ../../Project_taxonomy_recommendations.md:448
+#: ../../Project_taxonomy_recommendations.md:460
+#: ../../Project_taxonomy_recommendations.md:478
+#: ../../Project_taxonomy_recommendations.md:512
+#: ../../Project_taxonomy_recommendations.md:534
+#: 0055cafa9c8646c1bee0b70d2c4a6938 02df953b0b574f1ab6a8486e132366b6
+#: 062f2365dfa5493e9a6747a9fd13f076 1524e8b236a946a0931ce96ea3561e14
+#: 1d5b05f9030f49eab2688276b0fbfb3c 2072690a58304956b896737ecbdbc50d
+#: 23c3eea1a53a45bb988f83cf6c90eaec 2432d91637dd4e4e8a72e1458c101271
+#: 3723c1637da94dd1b4e85c90485cfede 4406fc5c978241f2933171a4b6f73f98
+#: 58d5c59bec96437a95d0821d1c41529e 7a5760b9a0f745b8b37e73b4df58099e
+#: 7f2e620c1a064c2a8afeab1e28a12c5e 90eadf49312741f593ebe657b21c0b91
+#: 97adefe1e0cc4c618fd1f307f1b4afee a3380e2f570f460a9162ae63a63562d0
+#: a4a47c1b92af4565a89dc589ea78f5d4 b9fa8c5762b1448b966b7a2b5a20cdab
+#: dcb51a678367409d978a22b6f228a018 e48b440bc93e405db32ea7f4c8c312b6
+#: e631542b38f14539804bc73b92876fa1 e6629a91473949ca9e7d821aa2e3b008
+#: f81dbc2988c947edb74a8fe5b74ebfb7
+msgid "Components:"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:114
+#: e2c07fbdf97547b690264a216a1979ce
+msgid "Use of the software/tool"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:115
+#: fd6ec483cd0845c6903a3b34f7185bf6
+msgid "Modification of the tool"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:116
+#: b4fee159d6404a629ed3235cdfc19ca3
+msgid "Sharing the tool"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:117
+#: 5de4bd27e69c4b4ba8d2d83314452d22
+msgid "Building products on top of the tool"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:118
+#: b6f51e53c2004a809a0124fffecd6bad
+msgid "Profiting from the use of the tool"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:119
+#: b51bc742367b428d883a1536af776740
+msgid "Attribution / credit"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:120
+#: b2dfd41cb5ff4c7a814032328aa16e58
+msgid "Sharing of license"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:121
+#: ../../Project_taxonomy_recommendations.md:130
+#: ../../Project_taxonomy_recommendations.md:143
+#: ../../Project_taxonomy_recommendations.md:161
+#: ../../Project_taxonomy_recommendations.md:182
+#: ../../Project_taxonomy_recommendations.md:204
+#: ../../Project_taxonomy_recommendations.md:222
+#: ../../Project_taxonomy_recommendations.md:239
+#: ../../Project_taxonomy_recommendations.md:252
+#: ../../Project_taxonomy_recommendations.md:281
+#: ../../Project_taxonomy_recommendations.md:298
+#: ../../Project_taxonomy_recommendations.md:321
+#: ../../Project_taxonomy_recommendations.md:348
+#: ../../Project_taxonomy_recommendations.md:367
+#: ../../Project_taxonomy_recommendations.md:379
+#: ../../Project_taxonomy_recommendations.md:399
+#: ../../Project_taxonomy_recommendations.md:419
+#: ../../Project_taxonomy_recommendations.md:500
+#: ../../Project_taxonomy_recommendations.md:538
+#: 0285d583e9c24753aff69442b2b6e6c9 097d6d05affd41e6b8e7319627541860
+#: 21eb8fd2692940e3ab5065baa06e20aa 506b0d83b37248a1a49f5026825430a8
+#: 53453f9014464023894bfbc797bd42d9 56ef9754a0334189a6ef15c5e34ba3a1
+#: 659b901520a6446098170771e745ef51 663733cc828d472dba95070face41e2a
+#: 73189619075d4b72aece506dc45c2ffc 7cd9d8f1d9a24ce1b4510f299565d87d
+#: 85dedf594e3b4c18b4acfd04e8a408de b79e1d8730734e3ca19eb46e65b6183b
+#: c2538a17d9b94c19a8ca426ffe442e3f d48c022526e54394b7f9b6c7683cf6f1
+#: d5dcc73188e6409b8b80a73490d8beb4 dceb0db16ecb400990e4e790a6982767
+#: e6ffe3cc64654abf90f69b29f84ed87c fe5a1c834fd74770bd053b5f41e2df14
+#: ff39dd59f2434c948d4d52c0684f6b08
+msgid "Recommendations:"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:122
+#: 411a801524894337a9a0f270dc4bb332
+msgid ""
+"Use an open license from "
+"[https://choosealicense.com/appendix/](https://choosealicense.com/appendix/)"
+" which allow for reuse"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:123
+#: 762f8fb80b2c456694e6f5ae7230bcc9
+msgid ""
+"Try to choose a license that allows for re-mix like translation, text and"
+" data mining. For example, the CC-BY-ND license doesn’t allow for "
+"derivatives."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:125
+#: 02b36a3391924969bd271aac147f08d2
+msgid ""
+"Definition: Regulatory compliance is how the software, project, and "
+"community adheres to the legal constructs that govern it. The legal "
+"frameworks in which a project operates may be local, national, or "
+"international."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:127
+#: 6f383ea13e7749d1847b44f634c78b7d
+msgid "Licenses of upstream software"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:128
+#: aa762db5c9744773b5efecffd740af17
+msgid "National laws governing user privacy, data sharing and dissemination"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:129
+#: baf46f36c7e94a85831986d0170eafe7
+msgid "Export control laws"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:131
+#: d4173f6e925247c6a4ad8c094b28b220
+msgid ""
+"Be aware that regulations vary from country/region, think about how your "
+"project will work in a country/region outside where the dominant groups "
+"of the project is located"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:132
+#: d22862cd30204aecb281510ff2ff4f6a
+msgid ""
+"Consider how laws will affect major components such as data, hardware and"
+" software"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:133
+#: 03620e90f04048399a3d947ac46ff184
+msgid ""
+"Prioritize the data privacy of your users particularly those from "
+"marginalized groups who can be deidentified. Even data that is anonymised"
+" can reveal information particularly when there are few people from a non"
+" dominant group"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:134
+#: 207963735f1f4a59b4a9184437723273
+msgid ""
+"Be aware that your software might only be available in certain regions "
+"due to the regulatory framework of various nations/regions. This may "
+"limit your community."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:136
+#: 56dfadda47be47a897277f1cb3a685a6
+msgid ""
+"Definition: A type of intellectual property consisting of a recognizable "
+"sign, design, or expression that identifies the project from a particular"
+" source and distinguishes them from others.[^2] A logo is an example of "
+"an object that be trademarked."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:140
+#: 74f2a9eabc3a4cfb9cf7194d9288cd75
+msgid "Design"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:141
+#: e351650822e34adf934fab07874388d9
+msgid "Content"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:142
+#: 6e47073323f14b09b83392c21f6014d3
+msgid "Copy"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:144
+#: 26d0ffbf68dd4af5bf64d553bbf44746
+msgid "Consider having trademarks and logos reviewed for cultural awareness"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:145
+#: 3bf2794984404537965a05a11dee221b
+msgid ""
+"Consider that symbols are not universal and things may not translate to "
+"audiences outside of your group"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:148
+#: 382a805748d4442da32978270bbf72e1
+msgid "Governance Category"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:152
+#: aad8e6337fb0419c9c89aa257a5cd2aa
+msgid "Preamble"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:153
+#: 59ca47cf136d41efb398664be6fa8823
+msgid ""
+"Example: "
+"[https://docs.openml.org/Governance/](https://docs.openml.org/Governance/)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:155
+#: ceb843c1e32841eb8690a03718082aac
+msgid ""
+"Definition: Any specification you make to the way somebody/group might "
+"behave in your community or if somebody/group has a position of power, "
+"what are the expectations in what you do and how you relate to the "
+"community?"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:157
+#: 620a6071a5404da2a17e19357956618f
+msgid "Steering Committee"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:158
+#: 047ff83d931842db90b567ae1aba1ada
+msgid "Community Manager"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:159
+#: 1627ac8d1bee4933b41a3b3147cd39a7
+msgid "DEI Manager"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:160
+#: 151bbfef151e4bc0b36a1bf6707e0a87
+msgid "Technical rolesClear"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:162
+#: f9bee6875ebe477587f2978bb7bdc9c4
+msgid ""
+"Steering committee should not only consist of developers. Try to maximize"
+" perspectives of your individuals on the steering committee. For example,"
+" include an individual who is a user and isn’t interested in contributing"
+" code upstream."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:163
+#: 3bd7352d66d9424fb946041e6aacbd99
+msgid ""
+"Make roles visible/transparent (and well defined) and open to everybody. "
+"This makes it easier for people to know what is expected of them and "
+"reduces the chances of people missing out on “unwritten rules” of the "
+"community."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:164
+#: 23afe50d598c4630a3530a9a80fabc3b
+msgid ""
+"Create a DEI manager position. Consider not drawing from only "
+"marginalized groups."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:165
+#: 96b56556e62d4e4d9a0af13f9c3ca75f
+msgid ""
+"Consider which axes of marginalization you are considering when "
+"nominating individuals for roles in the community. When considering "
+"people for leadership roles, look at the makeup of your existing "
+"committee and choose individuals who are outside of the dominant group."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:166
+#: ../../Project_taxonomy_recommendations.md:189
+#: ../../Project_taxonomy_recommendations.md:211
+#: 83a6c1bd3ef740bfa54cb4db5ca79455 c0e21056b3d049a9b76c22fbd7b3425d
+#: ec15e72db2a242dcabbce5aab24fb344
+msgid ""
+"Consider having an anonymous nomination system open to the community to "
+"allow people to self-nominate to reduce bias introduced by leadership "
+"nominating others"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:167
+#: cfc3a41e9ae24fdab00fe5fc29fa89a8
+msgid ""
+"Create an onboarding procedure for roles in your community bring "
+"everybody to the same level of knowledge and expectations regardless of "
+"background."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:168
+#: 80054620fda8477fa6733d62093e34a6
+msgid ""
+"Have a plan for term limits, individuals rotating through different "
+"roles, and succession planning"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:169
+#: ../../Project_taxonomy_recommendations.md:328
+#: 0c618d28d76744cdad8c5fd836b3354e 48710d2e871e44ec8847990b0497578d
+msgid "Link to volunteer burnout Unconference group"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:170
+#: ../../Project_taxonomy_recommendations.md:261
+#: ../../Project_taxonomy_recommendations.md:303
+#: ../../Project_taxonomy_recommendations.md:444
+#: 32e3ee94d4d4430c9f7d2c88fcc91dba 68a412f9276543258ca5ebdce6c0d73c
+#: dbdbe72168f34c00b2d880a3a4d3a5d4 ea43e97e74524e6f9cb649bc706171d0
+msgid "Resources:"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:171
+#: 60783ef39a504a2d9377d2d5062cbf09
+msgid ""
+"I (Jenna) like to look at the Astropy team page for inspiration: "
+"[https://www.astropy.org/team.html#astropy-"
+"team](https://www.astropy.org/team.html#astropy-team)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:173
+#: e82ec4b2ace842738b1e22072735aac3
+#, python-format
+msgid ""
+"Definition: Management approach in which leaders help set mission, "
+"vision, and strategic goals for the project while motivating individuals "
+"within the group to successfully carry out assignments in service to "
+"those goals ([Source](https://www.snhu.edu/about-us/newsroom/business"
+"/what-is-organizational-"
+"leadership#:~:text=Organizational%20leadership%20is%20a%20management,Sofia%20Tokar))"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:175
+#: 6c4746c86bc94cd8b5a9f30c9801de08
+msgid "Technical Board vs. non-technical board"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:177
+#: 992b797ea89a4b12b5e4934b6fde34d5
+msgid ""
+"The open source leadership mindset involves thinking about: "
+"([Source](https://www.linuxfoundation.org/resources/open-source-guides"
+"/building-leadership-in-an-open-source-community))"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:178
+#: 33faaecb035b4fc3930198062ac59a7b
+msgid "Influence, not control"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:179
+#: e5dfb63be17143e391df280c9e69a86f
+msgid "Transparency as a means of crowd-sourcing solutions, not as exposure"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:180
+#: d62ab0e13228482eb5b5bdfae14bcc60
+msgid "Leading, not herding"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:181
+#: 6418ae025b6942d4919fde0d4a542e8d
+msgid "Seeking community consensus is more important than being right"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:183
+#: 0c09808c15c842338f592475ab2390e2
+msgid "Have a defined path to leadership for all community members"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:184
+#: 3e50f8b33424470eaa13b9dabd499022
+msgid "Have leadership reflective of your community"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:185
+#: 561f3cf0979047448d69c4a45ce0c34a
+msgid ""
+"Reflect on how the decisions you make in leadership may affect or "
+"exacerbate inequality for marginalized groups."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:186
+#: 5da6bc549ad149a0a111ed52ee16cd8a
+msgid ""
+"Define expectations to remove unwritten rules and ensure that all "
+"leadership members are set up to succeed as leaders, including people "
+"from underrepresented groups in the project"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:187
+#: 29508f7256d848e285cfd31c9eb29a12
+msgid "Training DEI for leadership to raise awareness of systems of oppression"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:188
+#: c8422381f52f4b30bb0369b8a85e0f38
+msgid ""
+"Consider which axes of marginalization you are considering when "
+"nominating individuals for leadership roles. When considering people for "
+"leadership roles, look at the makeup of your existing team and choose "
+"individuals who are outside of the dominant group."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:190
+#: 426f98939aaa48bcb12c9364e94b025b
+msgid "Step in if there is a clear violation"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:192
+#: a2a4264ce06240d7b6a5e25e1925d824
+msgid ""
+"Definition: a group of people that works together on a specific topic or "
+"question and may report to leadership with recommendations or having a "
+"specific role within the project governance. Any combination of board "
+"members, staff members, and volunteers can make up a committee. "
+"([Source](https://www.boardeffect.com/blog/nonprofit-board-committee-"
+"structure/))"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:194
+#: 577cd4eb9a65401e8bcc4f6a3f07c795
+msgid ""
+"Here is a list of some of the typical board committees for nonprofit "
+"organizations ([Source](https://www.boardeffect.com/blog/nonprofit-board-"
+"committee-structure/)):"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:195
+#: 9130550cf6514d78a4a4da2842aff90f
+msgid "Executive Committee"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:196
+#: f9debb49e88f487f8e9c829eee514c63
+msgid "Standing Committee"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:197
+#: 7040e48e132c414d9a81e8199e953475
+msgid "Ad-Hoc Committee"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:198
+#: cf9bde2a20a34770b54800b0af3c066f
+msgid "Fundraising Committee"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:199
+#: 5762a1b167cc4e199e4a67fe27442da3
+msgid "Finance Committee"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:200
+#: 25cd3e87592c4224967af5299a6627ea
+msgid "Governance and Nominating Committees"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:201
+#: 2d676d2f8e054fcc98343d931a2d80eb
+msgid "Communications and Public Relations Committees"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:202
+#: 2fc15ac4e01f437597de3857775ea1b1
+msgid "Audit Committee"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:203
+#: bf2b1e1153ff475cbbf3825957846a02
+msgid ""
+"Other technical project committees can also exist, such as domain-"
+"specific committees in projects like astropy or committees governing "
+"specific subsets of the project (e.g. project jupyter)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:205
+#: d22ad8f97aea4c908f680eca6339970b
+msgid ""
+"Have code of conduct committee, to foster a safe space for all community "
+"members"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:206
+#: aae0f5fe5afe4519aac5aa54e951219f
+msgid ""
+"Use defined best practices that support DEI, including formal training of"
+" CoC members"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:207
+#: 9548d53aa04a4fdc8643bc4a88ad426b
+msgid "Have a defined path to committees for all community members"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:208
+#: 33d84aabd46243c9a42c2b2ccbbd1396
+msgid ""
+"Have a clear objectives and process defined for every Committee (e.g., "
+"charters, terms of reference)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:209
+#: ee61032b4d1c481db685477688233648
+msgid ""
+"Communicate decision making transparently; when possible publish minutes "
+"or decision - making process publicly."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:210
+#: 104d49de0af14c0fb0f37a0404c250d1
+msgid ""
+"Consider which axes of marginalization you are considering when "
+"nominating individuals for committees. When considering people for "
+"committee positions, look at the makeup of your existing committee and "
+"choose individuals who are outside of the dominant group."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:212
+#: 63efa072493644bcb4a775c0809b5157
+msgid ""
+"Ensuring individuals, especially those belonging to an underrepresented "
+"group, do not disproportionately serve on multiple committees"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:214
+#: 0760f96ca4ea45ddb2a9683d67776ed6
+msgid ""
+"Definition: The process of making choices in a project by identifying the"
+" need for a decision, gathering information, and assessing alternative "
+"resolutions.[^3] In a project, decision making may be limited to specific"
+" groups as defined in the project governance."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:218
+#: 34c934e55c6f4813aa518c0333549bfe
+msgid ""
+"Defining different types of decisions (e.g., technical vs. CoC vs. future"
+" of project, roadmap, governance)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:219
+#: b5f1be8d9f604bd3a4ed48ec98447770
+msgid ""
+"Defining what method will be used to reach a decision (e.g. lazy "
+"consensus, a simple majority, a fixed percentage, unanimity)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:220
+#: 3df2996fc4ce47838c3aed7dd1291fd0
+msgid "What is done if a decision is not agreed upon by the decision making group"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:221
+#: d5dbe515554444a1beb33098593caf2b
+msgid "Who can make decisions and how those people are chosen."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:223
+#: 15e17b5fcffd4738ac483b8d245307d7
+msgid "Reach decisions by consensus (perhaps lazy consensus) when possible"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:224
+#: fc2336a26a2547cbb7bf0000c443fe60
+msgid ""
+"Make and publish minutes public to promote inclusivity through "
+"transparency"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:225
+#: 4048a9888a5343afaa5290a4e708426b
+msgid "Have processes to challenge decisions"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:226
+#: 5478ae99708b4660a447520cbc18407f
+msgid "Have a process for resolution in case of decisions deadlock"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:227
+#: 8f2f9426d5664993823748d4c48e62d6
+msgid ""
+"Ensure the decision-making process (e.g., which group/people makes the "
+"decision, how they make it, timeline) is well-defined, documented, and "
+"public, to be clear about who should be in the room to make decisions at "
+"different levels"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:229
+#: 9fe5429d0b6c4ad69d91b58c3462c38b
+msgid "Definition: a way between two or more parties to come to agreement."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:231
+#: e0d1001c17f64989b1c52f67f5d561f8
+msgid "Awareness of the problem"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:232
+#: 097b11d2cd504c83bc5cea97bf04ff13
+msgid "Conflict of interests"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:233
+#: 21a2a1333ca2446db4edee2a6b13582f
+msgid "What are the conflicts we are talking about?"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:234
+#: 82bfdc3f051c4ef28f4408b57e82861e
+msgid "Person-to-person"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:235
+#: f3ed10410599436d9afd53f51ebdca77
+msgid "Personal conflicts/personality differences"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:236
+#: 38f0a1c1d92f48e696b3945222546d2b
+msgid "Interaction with contributors"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:237
+#: a6b3574b0ed94b5c9016e3d2fc482c39
+msgid "Technical decisions"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:238
+#: d19ace5535ad42d6840aaaf0fe3e495e
+msgid "Conflicts with a policy (& conflicting policies)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:240
+#: 3aa28e185a11491490e6233a892a42ac
+msgid ""
+"Conflict resolution is separate from CoC violations and should be treated"
+" as such."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:243
+#: c58d565771f74492bff719cb6281b001
+msgid ""
+"Definition: The process of recruiting and hiring individuals to fill "
+"roles defined for the project, including leadership positions"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:245
+#: e0d43930bc44439881f55d511fdd5052
+msgid "Clearly define role requirements"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:246
+#: 84c65b4284b2494abe362ee4eddd28f2
+msgid "Who should fill the role"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:247
+#: 1bca6ffb6e7f4660aa6a4cb5c90e8b30
+msgid "Recruitment pipelines"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:248
+#: 8b3e3cd7533944e1b3a14765fcd361db
+msgid "Whether/who to pay"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:249
+#: bf3c87a85d5a4f8f89c3055109384d71
+msgid "How much to pay"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:250
+#: c852960093df48c7ab70f414f1c46ba6
+msgid ""
+"Logistical procedures for hiring (e.g., contracts, full-time vs. part-"
+"time vs. contractors)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:251
+#: bc2990e4448f458d84cc49eaf8020576
+msgid "Succession planning"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:253
+#: 02d1dc07185d48b092891563731cc69b
+msgid ""
+"Reach out to spaces to recruit in spaces that are underrepresented in "
+"your project. Do this in a meaningful way by building in a relationship "
+"with these groups."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:254
+#: 6943c8384fff42a69de472af631dac60
+msgid "Be aware that this may involve a cost ($ or time) and plan for this cost"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:255
+#: ddadcfc55df0456594ac1b91fd858710
+msgid ""
+"Leverage network to reach marginalized and non-dominant groups (e.g., "
+"events)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:256
+#: 97d15190eab14cf0b9fb7f4151fd7409
+msgid ""
+"Do NOT publish pay associated with specific names!! This can put "
+"individuals at risk"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:257
+#: 8085c30615ac4333b684291b9032a470
+msgid "But payment for tasks can be public"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:258
+#: 22aa02a8bad24840ac55017664ca7239
+msgid ""
+"Have transparency in pay levels. Marginalized groups historically are "
+"paid less in positions without pay transparency."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:259
+#: 83971d71f19c4b94aa53c4fe0320f6d5
+msgid "Clearly define role requirements to avoid staff over working"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:260
+#: 1419f1938d694507a943f02506adab95
+msgid "Use tooling to check job posting for inclusive language"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:262
+#: dc1373eff76a4c7eaf9e0fa9889c2284
+msgid ""
+"[https://about.gitlab.com/handbook/total-"
+"rewards/compensation/](https://about.gitlab.com/handbook/total-"
+"rewards/compensation/)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:263
+#: 4face8f1076d4e78ad8aa37331fc7091
+msgid ""
+"“**Diversity, Inclusion & Belonging** - People with the same attributes "
+"should earn the same. The Compensation Calculator reduces unconscious "
+"bias or giving higher pay to individuals who can negotiate better. The "
+"Compensation Calculator allows us to take a data-driven approach to "
+"compensation where there's fairness across all teams, levels and "
+"countries.”"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:264
+#: e0c35e9242e944509d64f09f7e14fed6
+msgid ""
+"“Your compensation = SF benchmark x Location Factor x Level Factor x "
+"Exchange Rate”"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:266
+#: 7d5fbb0947af4402b4318dc1485e3554
+msgid ""
+"Definition: Assembling the resources needed to develop, maintain, and "
+"sustain the project, and then using them to actually do the work of the "
+"project, as determined by the project’s governance and decision-making "
+"processes."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:268
+#: 560ab01969a8420e9d0ef8a977a51092
+msgid "Resources: Funding"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:269
+#: 3f1ad532347b432ebf6e5c5458bb6b22
+msgid "Grants"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:270
+#: bdf4b35180a845e0bbb3ffcd281b85eb
+msgid "Gifts/donations"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:271
+#: dc984acefa0d454991291e02ebf9d110
+msgid "Contracts"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:272
+#: b1c4b7cffbb24152a4a8824d83f8a6d6
+msgid "Resources: People"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:273
+#: 10c333cdfbf34ab1a121888e4ec0c6e3
+msgid "Volunteers (people who are not paid for their work at all)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:274
+#: f498a839ea1442e885d3e4b4b2ebf7d5
+msgid ""
+"Employees (people who are paid for their work by their employer, but not "
+"by the project)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:275
+#: 6f91ae2d68894955a8b51f34975df010
+msgid "Expenses: People"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:276
+#: 60c0747c8ea14bbab2b90aacadce4f95
+msgid "See staffing for people who the project pays"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:277
+#: 937dfec0d8bb4cf586edba3c275e2cf7
+msgid "Volunteers"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:278
+#: def8e3f454bd405cad46e697e75e2765
+msgid "Expenses: Infrastructure"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:279
+#: 9df74fdac8ad422d8dd950ac9883f19b
+msgid ""
+"Technical infrastructure - see below, noting that some may have costs and"
+" some may not"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:280
+#: 03486c13ae584b85ab7297c1d227d217
+msgid ""
+"May include physical infrastructure (must be purchased and then "
+"maintained) as well as services (can have regularly scheduled expenses)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:282
+#: 4ce47bf7f3d044ddb6fe83420f7c873d
+msgid ""
+"Consider the sources of resources; some may not match the projects "
+"principles and should not be accepted"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:283
+#: 5ae1e75f24d341828546ba8f6c9c7729
+msgid ""
+"Consider sharing proposals, perhaps and their reviews, to allow broader "
+"communities understand them and use them as examples, in order to broader"
+" the set of potential proposers"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:284
+#: 93bbb007dbda4614aa9aa28362048dab
+msgid ""
+"Consider making both the principles/processes and the decisions you make "
+"regarding projects resources (both financial and volunteer) and project "
+"resource usage (both financial and volunteer) public"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:285
+#: cb94f6416c76440b92ea0cec20dafbee
+msgid "Consider principles of DEI in making decisions about resource allocation"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:286
+#: 4d4bde9ef4c54f718c4f763147ab22fd
+msgid "Support the LMIC group’s work (link to outputs)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:287
+#: fbce04b88f6c49dabc4b0c6cc3d8f89c
+msgid "Code of Conduct (CoC)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:288
+#: 7a8921f306644abda31cc9d2bf1c9f63
+msgid ""
+"Definition: A code of conduct is a set of rules outlining the norms, "
+"rules, and responsibilities or proper practices of an individual party, "
+"project, or an organization, and the means to enforce it."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:290
+#: 3da60b674b8a4af1bbeed69c91f82980
+msgid ""
+"Code of Conduct document which includes defined goals, principles, "
+"policies, and processes"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:291
+#: 52b5343baac04bfa988e22ecbb97e1c5
+msgid "Code of Conduct committee/process"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:292
+#: 2372231410bd43cb9cd288bea1ac0675
+msgid "Reporting and Documenting Violations"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:293
+#: 95be90b601754afa84929b52de1488bb
+msgid "Confidentiality"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:294
+#: 981af413cb4748e8bcae4b539a0c160d
+msgid "Inquiry / Investigation"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:295
+#: a7648e0e5eeb4493bde8afafa5ccf317
+msgid "Bias and Impartiality"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:296
+#: 7620e007dd8a4dd1b4a1dec5f8305a24
+msgid "Resolution"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:297
+#: 183f50699101487e8af9084f356e9b56
+msgid "Checks and Balances"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:299
+#: d7aa7097722f4939be09382d084a6fad
+msgid ""
+"Base a CoC document on existing documents rather than starting from "
+"scratch"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:300
+#: d9ed67f18e094b288ca2b682e6538afa
+msgid "Consider professional training for CoC members"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:301
+#: dfce236be6c14e61a73194eaa466d7ee
+msgid "CoC committee should not consist of one person or even numbers"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:302
+#: 884ffc0e90894ca3848126fdfffc0870
+msgid ""
+"Consider what information will and will not be shared, and with who, in "
+"the CoC process"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:304
+#: ee9687ef299449789d89d27d3a88f445
+msgid ""
+"“[How to Respond to Code of Conduct "
+"Reports](https://frameshiftconsulting.com/2018/12/10/free-code-of-"
+"conduct-enforcement-book-available-now/)”, by Valerie Aurora and Mary "
+"Gardiner"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:306
+#: 6aaf44b1a2af41e68d3998019a521298
+msgid "Community Engagement"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:308
+#: a3924dea5cdf47e3bb91c3d8c611c5e3
+msgid "Managing people"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:309
+#: dde3fd2fb5b34f4ab58bf15e3a200579
+msgid ""
+"Definition: The process of training, motivating, and directing "
+"employees/staff/volunteers for progress, growth, and "
+"employee/staff/volunteer satisfaction[^4]"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:313
+#: 5dd00dcd2ad149eb8f385627499cc1e5
+msgid "Task management (could be delegation)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:314
+#: 7dbf6ed1add64214b2175005ebaf0ff6
+msgid "Meeting deadlines"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:316
+#: 34c01d67bcb749c1a38cdefd34f8bcdc
+msgid "Building culture"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:317
+#: a4eb4d3de5bd43dcb968436e64ad5f7a
+msgid "Communication"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:318
+#: 9eb0bb5ae41c47218af8add68e896b97
+msgid "Recognition"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:319
+#: f0378510652a4913abd3ebd1c196bc83
+msgid "Growth (personal, professional)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:320
+#: 1d9e6fa5e1554bfa8e1f0cb139652f4d
+msgid "Mentorship/coaching"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:322
+#: abcb11ec108e475bb6c91e3b127d1e55
+msgid ""
+"Consider providing resources for project leadership on how to manage a "
+"diverse team"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:323
+#: d939b23ee1ca4b3b8c7e7845027149d9
+msgid ""
+"Transparent task management system that allows people to state task "
+"assignments, preferences, and progress"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:324
+#: 7310140b5b0b420eb5ad55e398668d8e
+msgid "Tasks can be term-limited or ongoing"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:325
+#: 6f71581fbcee4b629eb6c5f5a8cb6f1f
+msgid ""
+"Make invisible work into visible tasks, if possible to recognize work of "
+"people that may be outside of traditional visible work. Many "
+"underrepresented people end up doing invisible work to support their "
+"community and this provides some equity into recognition of tasks"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:326
+#: 98a6519dbc4645709455269a5cc17d4b
+msgid ""
+"When a person does something that they think is not currently listed as a"
+" task, they should be able to record it"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:327
+#: cc50d864aada4adb970f83e597db37ec
+msgid ""
+"Be aware of your team’s personal preferences and distribute the work "
+"based on that (project is not just code!)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:330
+#: 7cc074e14a6d4d69bf900387697767d7
+msgid ""
+"Definition: Stakeholders can be in one or more of the following "
+"categories       * Users       * Contributors       * Developers       * "
+"Maintainers       * Funders/sponsors       * External formal or informal "
+"media/communications/writers       * Employers of any of the above "
+"categories"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:338
+#: ../../Project_taxonomy_recommendations.md:435
+#: ../../Project_taxonomy_recommendations.md:454
+#: ../../Project_taxonomy_recommendations.md:469
+#: ../../Project_taxonomy_recommendations.md:486
+#: ../../Project_taxonomy_recommendations.md:523
+#: 07c91dfb36054085b1399070c35afd57 2de51961fdaf4641bb9aef2514ae6cb5
+#: 4233107ccad241aba9f3e73a78957e9e 87d3fe26d32844b5917a15b2204b9a02
+#: 9047a84eb1954e7dbabea7dec30f2026 c6640073c79d45c0a616419033b8da7e
+msgid "Recommendations"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:339
+#: 00d126ef027543ffb16f9919ff7419fe
+msgid "Listed elsewhere in the document"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:340
+#: b835b7044b624af18298143863d92ad8
+msgid "Engaging with Stakeholders"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:341
+#: 40de3c8eec5c4f2f9d474b824af85418
+msgid ""
+"Definition: how the project works with one or more categories of "
+"stakeholders (as defined above) with the goal of keeping them engaged in "
+"the project"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:343
+#: c6756062f6de41858a7b0d1f31f3a85b
+msgid "Onboarding"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:344
+#: 18888dcb144f4cc295e1e98c77d93ad5
+msgid "Maintaining engagement"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:345
+#: ee15d40c341e4653b9814f3aeb53cfd4
+msgid "Increasing engagement"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:346
+#: 97322ece42644de6affb0c53532b3a5f
+msgid ""
+"Planning for stakeholder turnover (when stakeholders leave, succession "
+"planning) - tied to staffing (above)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:347
+#: f2373d18c3334e6dbfb1380d122e0425
+msgid "Recognition and attribution"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:349
+#: fd03205055e7482c99f56b052c8af6ba
+msgid ""
+"Allow individuals that performed work to represent themselves if "
+"possible. If leadership presents that work, ensure that correct "
+"attribution is given."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:350
+#: e9a3477bd4d04211a14340e3f76c3da4
+msgid ""
+"Formal and informal reporting to funders/sponsors that include DEI "
+"aspects on the schedule that they request"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:351
+#: 754387b3f8d549afac73d51af9898c47
+msgid "Be time conscious, make the best use of everyone’s time."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:352
+#: aa94bcd33d784a129ed5f09a1006c2d5
+msgid ""
+"When scheduling, be aware of time zones putting people outside of working"
+" hours and be aware of religious holidays, including religions outside of"
+" the dominant group of the project."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:353
+#: 0772fb09c28e4901af145075451c5683
+msgid ""
+"Have different methods of recognition for stakeholders so that there are "
+"multiple pathways individuals can be recognized for their work and so "
+"that different stakeholders can recognize it. This helps improve "
+"visibility of work, including invisible work from non-dominant groups."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:354
+#: bad0b7987ef4416893c474794103f3eb
+msgid ""
+"Try to have stakeholders from different groups (or all stakeholders) "
+"represented on your committees and in your project leadership."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:355
+#: 6c38655a2e6149e2b81972fa1ded7247
+msgid ""
+"Provide opportunities beyond code contribution for stakeholders to "
+"contribute to the project that match the preferences and styles of "
+"different people."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:356
+#: b894512e239343068b10e17889421f76
+msgid ""
+"Offer as many community resources in as many languages and as many "
+"accessible formats as possible"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:357
+#: 798d4d4e126742a999c8a3b30ca135d8
+msgid ""
+"Link to [DISCOVER cookbook](https://discover-"
+"cookbook.numfocus.org/intro.html)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:358
+#: 16ecbc1d3ac243a284fd4de57941e62d
+msgid "Link to contributor diversity tooling Unconference group"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:359
+#: a9b91a93188048f48d4780e4f1c6ea72
+msgid "Mentorship"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:360
+#: 7518ed7c5f904c8eabeeb6fe5d452eb7
+msgid ""
+"Definition: Guidance, or direction given to contributors by more "
+"established contributors or leadership in the service of having less "
+"experienced contributors have a successful experience and growth in the "
+"project."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:361
+#: 097bb15364a148bd986ddcc7d627ef9e
+msgid ""
+"Definition 2: A relationship between two people that helps both of them "
+"grow via regular communication. Typically one is the mentor who has "
+"particular skills and experiences, and the other is the mentee, who has a"
+" particular goal for the relationship."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:363
+#: d042a06f60104002bf57f8d5fad08ccb
+msgid "Assessment"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:364
+#: 63e7f63964cd4b3f9651fbc44cb70624
+msgid "Timing"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:365
+#: 833d1c97506048a791c33adcf08ae90d
+msgid "Goals/Setting expectations"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:366
+#: 0bddfc6fb94d49c3818b695d8da61946
+msgid "Informal vs. formal mentorship programs (e.g., GSoC, Outreachy)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:368
+#: 2991f3fefc1944c1838c5ee64020d4e3
+msgid "Link to mentorship group work"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:369
+#: a2a9cdec868748af8c7fed2dc0bb4958
+msgid ""
+"Think about the way you recognize the stakeholders that would benefit "
+"from mentorship"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:371
+#: 2055569694c14849a0ed6099abce99b3
+msgid ""
+"Definition: Teaching skills or knowledge of the components of the project"
+" in a structured manner."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:373
+#: 1cf3d372ba4840c9bcff9938e652aab7
+msgid "Purpose"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:374
+#: 2939df3db977476fa61bfba987b077ea
+msgid "Development of material"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:375
+#: 441af554ad3a40e0a428e7df69416c05
+msgid "Delivery"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:376
+#: a7ec9eade4144bbc8a806b9748c61fa0
+msgid "Measuring results"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:377
+#: bd8cad9d3c6c4c9f9cdf7304fedba41e
+msgid "Continuous education"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:378
+#: 868905e1483c47e69c6fe2bd36eaad03
+msgid "Synchronous vs. asynchronous"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:380
+#: e6c591940f73431d9708eb453fd74771
+msgid "Try to remove language barriers"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:381
+#: 911a7123a47e4a0081e8e31ecccba400
+msgid ""
+"Think about different audiences, define them and target proper level of "
+"advancement"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:382
+#: 265e9fb9eb9b43e487ae6741600d9484
+msgid ""
+"Consider modes of delivery of your training when designing it. "
+"Asynchronous vs. synchronous training may require different tooling, "
+"explanations, documentation, etc."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:383
+#: b299ef256c18456bacefac6ac2ca0b40
+msgid ""
+"Ensure that training work isn't mostly performed by particular groups of "
+"people and that all groups have opportunities to be involved in all "
+"aspects of the project. (tied to managing people)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:384
+#: 49bddb6da6e4439dbce79c7dab1e957a
+msgid "Recognize all contributors to training."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:385
+#: 259c6e2641da4c61aebddec8a6d24dc5
+msgid ""
+"Have accessible tutorial templates (slides, Jupyter notebook, code) and "
+"infrastructure for trainers/instructors."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:386
+#: 478f9046537440b4a66448f7fe273026
+msgid "Reflect on how what biases might be ingrained in your training"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:388
+#: 7dfb0cdd8b394e2eaa2af39374629b44
+msgid ""
+"Definition: The methods by which the project engages with society outside"
+" of the project community and their execution."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:390
+#: e6d29e6b04504079afee843d7b6ffa03
+msgid "Defining your audience"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:391
+#: a664aba410b343f1bcb5feba4ecc4a6a
+msgid "Academic and software publications"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:392
+#: c36397d806dc49aeba24682b81ec1d3a
+msgid "Conference presentations"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:393
+#: e4231d2682b74707aa9f20c4d1fc2ebe
+msgid "Blog posts and interviews"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:394
+#: a665b22a17a446df96dab6b1a617f142
+msgid "Community alliances (e.g. participation in NumFOCUS or Scientific Python)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:395
+#: 92d93e8c287a4319b8240e7d7207b7d6
+msgid "Logos and trademarks of project components (branding)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:396
+#: 61e323a672b346bcbf52d54200732bb4
+msgid "Events (workshops, training events)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:397
+#: ../../Project_taxonomy_recommendations.md:516
+#: 0f40a43771d54a969b6a70327e9a8ec5 32fb94e2dee84589a68862ffaa16eba5
+msgid "Social media"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:398
+#: 4df0e1150ff44b238945d5f73b05de2e
+msgid "Brand awareness"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:400
+#: 804008619590421698951511101dd833
+msgid ""
+"First step: Make sure that you have clearly defined your audience, and "
+"use that to guide every branding/marketing decision you make"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:401
+#: c6cf70e633864139b3596f98db0f3074
+msgid ""
+"Provide clear definitions on who/what get authorship and attribution, "
+"rather than having unwritten rules about it."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:402
+#: c1474cb1b424482cb84749fccf26a3a6
+msgid ""
+"The people who do the work should get the credit for the work, and have "
+"the opportunity to be named in the marketing (e.g., authorship, being "
+"interviewed). These decisions should be made without considering people's"
+" membership in particular groups."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:403
+#: f9b6ca6e1869431e8595d41024665809
+msgid ""
+"Consider and examine what “work” you are considering valuable for "
+"attribution and recognition in your materials."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:404
+#: 39d74b0dfb60430089bb6036a7e4f88d
+msgid ""
+"Consider having external facing materials (e.g., a brand book) reviewed "
+"for cultural awareness"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:405
+#: 6554fc719c3b4dbe89cc7c58c6d06fe9
+msgid "Have images that represent the project be meaningful and accurate"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:406
+#: 5ff448dd5a8f4667b58a9d0ebfbdf298
+msgid ""
+"When using materials that are broadly disseminated, consider that symbols"
+" are not universal and things may not translate to audiences outside of "
+"your group."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:407
+#: 6cb1f22f517e449bb7d2368d041e2368
+msgid ""
+"Consider that some social media platforms may not be accessible in "
+"certain regions (e.g., Threads in the EU)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:408
+#: 9264058df43147f1a5eee5b2306599d1
+msgid "Consider using accessibility features (e.g., alt-text, subtitled videos)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:409
+#: d4cf8a595f374c3fa1e8fa0ce02162e7
+msgid ""
+"Link to DISCOVER cookbook - [https://discover-"
+"cookbook.numfocus.org/intro.html](https://discover-"
+"cookbook.numfocus.org/intro.html)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:411
+#: 535335a9e83f4ed48ba4a380d5ddee31
+msgid "Mission/Vision Category"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:413
+#: 30374f29fd0b460ea799d114e16577dc
+msgid ""
+"Definition: The mission and vision statements should define what the "
+"project aims to achieve, its purpose, and its target audience and where "
+"it aims to be.  \\ \"Project\" includes the community, code, software, "
+"and governance of a project."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:416
+#: 31a0ab10e3c94a80a5bd83b72fda3b84
+msgid "What are the questions that you ask?"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:417
+#: cf102e7244cd486e8c9d5275c966a04a
+msgid "Strategic goals"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:418
+#: 18bba3ef6b3144a8887c3c0b8bb03e97
+msgid "Vision statement (where the project wants to be)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:420
+#: 79c857dc44764034a728771c952cd06c
+msgid ""
+"Consider weaving in aspects of inclusion, equity, and diversity to a "
+"mission and vision at the inception of a project or before significant "
+"growth happens ensures that the project can grow with these principles, "
+"rather than them being added later. These aspects are built into aspects "
+"of the project’s culture."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:421
+#: 2ca5b18b720048abae9fe2f09cf4938b
+msgid ""
+"Stating your project’s values explicitly and how they align with your "
+"mission and vision help reinforce and clarify your ideals of diversity "
+"and inclusion."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:422
+#: f5395fac66b9435992a3a5d6119f2667
+msgid ""
+"Ensure that the group developing the mission/vision is representative not"
+" only of your stakeholder but also the stakeholders that you want to "
+"recruit including underrepresented groups"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:424
+#: 6e01362e4a01425fbf4561faff49e782
+msgid "Technical"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:427
+#: 1d2e4ead05ac4f5c94c6b2e4dc36689b
+msgid ""
+"Definition: Documentation refers to the set of written materials "
+"accompanying a software that describes how to use it, how it works, and "
+"how it is developed and maintained."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:429
+#: 194f5999c25d44a9baf1441c3d66200c
+msgid "User docs (Installation, how to get started)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:430
+#: 36c9325da8ed43f38fb0cb6dc3160892
+msgid "Developer/technical docs (API, contribution documentation)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:431
+#: 6e64e68e1864480e90f45bbdb394448a
+msgid "Narrative documentation (tutorials, how-to guides)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:432
+#: 599c6bc798af42bb8a85e1d05975c6bc
+msgid "Release notes, changelog"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:433
+#: a76c6bf1b50e46e887675899a51a2c28
+msgid "Design docs, taxonomy and definitions"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:434
+#: 3edc9b6b06564f7d950f5153ed3a7f5b
+msgid "Terms of use"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:436
+#: 0c24288e81e34fd084ba964b65c960d5
+msgid "Translated documentation for different communities"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:437
+#: 5526538dde3d4d9e937721774300382d
+msgid ""
+"Choose tooling consciously so that your documentation can be used easily "
+"by people with different accessibility tools and/or languages with unique"
+" characters"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:438
+#: 73bce0ea412e4dfcbba5f9004b20dd16
+msgid ""
+"Try to use inclusive language in your documentation. Don’t assume unique "
+"aspects of your audience’s individuality when"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:439
+#: 434f216850144a5b9cfbe9b61cd370b5
+msgid ""
+"Accessibility for people with disabilities. Eg: visualization for people "
+"with disabilities, transcripts, follow something like WCAG Guidelines "
+"[https://www.w3.org/WAI/standards-"
+"guidelines/wcag/wcag3-intro/](https://www.w3.org/WAI/standards-"
+"guidelines/wcag/wcag3-intro/)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:440
+#: 4ac5d110957342038135c308bcb06638
+msgid ""
+"Having different documentation for different audiences (beginner, "
+"advanced, expert)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:441
+#: 6e5276282e70455c9ac19fe714dbbb6a
+msgid "Include links to CoC, technical standards and other relevant documents."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:442
+#: aa7e5412ecbd4734bf83d918f220c0c7
+msgid "Refer to [https://www.writethedocs.org/](https://www.writethedocs.org/)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:443
+#: 27c4228700d447b28974573bce5a1e06
+msgid ""
+"Being able to compile documentation offline, with available directions on"
+" how to compile it - people in closed rooms or in the areas with very "
+"poor internet connection."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:445
+#: dd7a3e7f5c1c4e39bebd1819a8791514
+msgid "[https://diataxis.fr/](https://diataxis.fr/)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:446
+#: c38f7286623744559187490d2cfab515
+msgid "Project Roadmap"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:447
+#: f01dc08afff64516973f0da0ad7a2739
+msgid ""
+"Definition: An Open Source Software (OSS) roadmap refers to a strategic "
+"plan or timeline that outlines the goals, objectives, and planned "
+"activities for the development and evolution of an open-source software "
+"project"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:449
+#: f87d0b53fcce45b193d9d535f85a6472
+msgid "Timeline"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:450
+#: 84c46b9f8d29479396e5f4e06da9ebb4
+msgid "Milestones"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:451
+#: 4a4e8b418bb74678b5b94a35011aa04e
+msgid "Current status"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:452
+#: 4eeb7d9ba6aa4fa997ad98a13028bf12
+msgid "Long term goals"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:453
+#: bf6e781fbeb3404dadfad5ec525c6ab0
+msgid "Developer roadmap"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:455
+#: 6afd6806b26c4438be8fdc3398bdbbf9
+msgid "Accessibility to Roadmap for OSS projects."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:456
+#: ec30cd5d0b1e4d35bea58b0d81f6fcb0
+msgid ""
+"Consider biases in constructing the roadmap, pay attention to developer "
+"roadmap but as well as  a community and strategic roadmap."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:457
+#: 606b2f9f6dae4ea396be2888ad42e213
+msgid "Make sure all stakeholders are contributing to the project roadmap"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:459
+#: 1e3c845919cb479da843dbc91611d886
+msgid ""
+"Definition: Includes a physical components of a computer that the "
+"software should work on "
+"[https://en.wikipedia.org/wiki/Computer_hardware](https://en.wikipedia.org/wiki/Computer_hardware)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:461
+#: e28a57fa39ae45fbac92eed3efad7c6e
+msgid "CPU"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:462
+#: bb856ea4856b4da086f708189de483da
+msgid "GPU"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:463
+#: d2141b8ac24d4349beb05b6e29b7a1c5
+msgid "Physical memory"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:464
+#: 6048cea449404cda94d8b9f6e18c7306
+msgid "Operating system"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:465
+#: 7d0333f086d4493bb5cad1643cc59af9
+msgid "Computer storage"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:466
+#: 3ebbdd9ab47e4925b68d7d06fcfa8f0b
+msgid "Specific appliance"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:467
+#: 63475502f98849dea20fd1f8f4a197b1
+msgid "Operating System"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:468
+#: 465638f09cd34393b2ce990fbb5b5576
+msgid "Cloud Dependencies"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:470
+#: a2ae0cccb899464798cd6b178c487261
+msgid ""
+"Consider supporting major OS - Linux, Windows, MacOS (and make sure your "
+"core development team includes those who are able [and willing] to work "
+"towards this support)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:471
+#: 6ff328a37ec548db8a58fd6f18039be2
+msgid "Consider cloud vendor independence for interoperability between regions"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:472
+#: e3cb8fc0bfa745318cef2d96f8e2de40
+msgid "Hardware independence - supporting different platforms"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:473
+#: 2de2e22c525e47e4bbcfaec54d4bb718
+msgid "Ensure backward compatibility"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:474
+#: 3550b7d0c99748469c529550b4298e3a
+msgid "Consider running your software on low cost hardware."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:475
+#: c349c5ff643b4e47b1ebe1b5ed45df5d
+msgid ""
+"Modular software with options to make sure a part of software can still "
+"run without specialized or high cost hardware."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:477
+#: 0f561ca9e7dd4426a2206f513fddbf76
+msgid ""
+"Definition: Set of computer programs and associated documentation and "
+"data /https://en.wikipedia.org/wiki/Software"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:479
+#: aff8cac2ea05481b81224b6a21f7a29d
+msgid "Software dependencies"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:480
+#: 6d7f5c9d96644e5a9e175e20480e12f3
+msgid "CI/CD"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:481
+#: 42505bae01864f55a2f4fd48651c0439
+msgid "Software metrics"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:482
+#: da18fd5a6f354f92962f740034d93670
+msgid "Testing infrastructure"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:483
+#: 3f136eb266e348df84b531f84c2dba5d
+msgid "Bootstrap scripts"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:484
+#: 4d639866780e419bb9183509d4423d15
+msgid "Examples (including required input and output data when appropriate)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:485
+#: 5f61a669a7b748faa2871f91e0ef130d
+msgid "Accessibility requirements"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:487
+#: a9b68d155cd446228851c104f3a9018a
+msgid "Consider not having closed source dependencies"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:488
+#: 0f893c987c7e4b54a9f01e9162b3304c
+msgid "Consider not being dependant on proprietary services"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:489
+#: 79ee5a8fb5e54b9691c71396ba70c713
+msgid "Keep old binaries accessible"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:490
+#: 7cd4336f132f46bd9f8c20ea52014380
+msgid "Be cautious with metrics"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:491
+#: 89f0d5afecf0455e92df75ee1a47133f
+msgid ""
+"Consider sharing metrics that demonstrate inclusion or diversity "
+"successes or challenges"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:492
+#: 14300c3dd14f4012a6c5c8902d256e8e
+msgid "Create CI/CD to cover major platforms and usage scenarios (libraries)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:493
+#: 4ab80c66d6f546b2a35ba4f206130152
+msgid "Data"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:494
+#: 9d48556c63d04a3f99efb0c8fe820462
+msgid ""
+"Definition: All data that was required for the project - training data, "
+"example data"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:495
+#: c9233ec115a848c09ec283cc0593f4ec
+msgid "Components"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:496
+#: 88ad7faaff0f491188f9aa02d491ca1e
+msgid "Associated data"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:497
+#: fc53d029e5754f119b78633412bc77ba
+msgid "Derived data"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:498
+#: 1b0a440cb1b54b0bb432e73d3ef28761
+msgid "Analysis"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:499
+#: 5a820c955bad48feaaa24a4264c69b27
+msgid "Data applications"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:501
+#: 8ac8d9d590104c64a4d5f770cb259061
+msgid "Be mindful of bias in data:"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:502
+#: 5fe783d39a274d7f9fcc91cf32489919
+msgid "Sampling skew"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:503
+#: 198c61a659c242ac8ca25a7209c3b1ec
+msgid "Oversampling and boosting bias data"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:504
+#: d301b387fe7d4ed3bb4f6f34b0b7dfd9
+msgid "Cultural bias"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:505
+#: 3da4bb71aae84bf98f3358d8b05733f1
+msgid "Features relying on gender, race, geolocation etc"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:506
+#: 9708236ac5f14e4ea1d403b7fd699081
+msgid "Fitting data to person worldview"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:507
+#: 023544cb1a6a4bc19bf6d2ca42d23730
+msgid "Affirmation bias"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:508
+#: a937ddc1762a4d48ae39ae92947e5493
+msgid "Add versioning to data sources"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:509
+#: 1634774194b94800877b66c2e2ef63b2
+msgid "Repeatability testing"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:511
+#: b004eb951a7944e4b5c2f5d770d28d30
+msgid ""
+"Definition: the means by which the project and its stakeholders "
+"communicate with each other"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:513
+#: 6f1da8da5f764e0ea05a68eba45921e9
+msgid "Email (One-on-One, group mailing lists)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:514
+#: 7ae43087a2fe4dbdb962da7d58a41394
+msgid "Chat tools (e.g., Slack, Discord, Rocket.Chat)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:515
+#: f1b187938b754a1886ff5f1bf13f4887
+msgid "Developer forum (e.g., Discourse, Stack Overflow)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:517
+#: 4aa7715c3ac94aa5819ac4efe47a2902
+msgid "Newsletter"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:518
+#: a9218a7148e144df803ad971213cddba
+msgid "Source code repository files (e.g., README, CoC, Contributing)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:519
+#: 3cf018c685374a2ab4bab95a340f8e55
+msgid "Source code repository system (e.g., issues, PR discussion)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:520
+#: 7a8f422abc944ea881bddde5ba1f9ea4
+msgid "Traditional media (newspapers, press releases, radio/tv, etc.)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:521
+#: dbe2b6a4a64c41748c7a3fbb3b12b82a
+msgid "Blogs/videos"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:522
+#: 9a276f9c0b8b44a899a2c7c7511757d5
+msgid "Scholarly activities (e.g., papers, talks)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:524
+#: 64b6487ebe424c259ae66b878b005e0c
+msgid ""
+"Support asynchronous discussions to allow for diverse timezones and "
+"schedules"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:525
+#: 6655410de4764a7080ad9e6c6d22729a
+msgid "Support diverse channels to support the styles of different stakeholders"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:526
+#: d3b8f42e412b4691b2982b9efe41efa1
+msgid "Use accessible channels and their features (e.g., alt text)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:527
+#: 856d183e6563414aabc66b6f64ea22fc
+msgid ""
+"Be sure to have a plan to remain engaged and monitor communications "
+"channels so that stakeholders are \"heard\""
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:528
+#: 1a4e4352e767416989318d4293577f9e
+msgid ""
+"Develop guidelines for the project's use of channels, recognizing that "
+"community members have diverse schedules and needs that affect when and "
+"how they can use the channels (e.g., respond to messages)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:529
+#: 6c8899e7e94947ba891a5f276eb2c3ec
+msgid "Be certain that CoC is applied to all channels"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:530
+#: f9fc82bcf67044539dd46b86b4198c19
+msgid ""
+"Develop a welcoming and inclusive culture for use of communications "
+"channels, such as using intentional language (e.g., avoiding slang, "
+"stereotypes, abbreviations, jargon)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:531
+#: f0cbaaf4e45442e4879adba5b2f1bf8f
+msgid "Make communications public whenever possible, for inclusiveness"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:532
+#: 397e469fa5064d5185c932ebc00635a1
+msgid "Release policies"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:533
+#: 3d67834bade148dcb081ca5af0d57e4f
+msgid ""
+"Definition: The way new functionalities and product fixes are being "
+"released"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:535
+#: 31acbfe4aad7460e86632338f35aaa3d
+msgid "Changelog"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:536
+#: 637c8526525a477b86ea8a5b8317e23a
+msgid "Trainings update"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:537
+#: 8ef833bdfe1e4982aa3d849054594511
+msgid "Documentation updates"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:539
+#: 6b39e2986cc548a59178448b27c64d43
+msgid "Include your community in defining a release scope"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:540
+#: 124023a96d744165aff9ec7e01e72405
+msgid ""
+"Include proper attribution that can be broader than just software "
+"contribution. You can include an author contribution statement defining "
+"different contributions by authors. Consider a framework similar to "
+"[CRediT](https://beta.elsevier.com/researcher/author/policies-and-"
+"guidelines/credit-author-statement?trial=true)."
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:543
+#: 85df1eee6b1b4e999eca074e538a384d
+msgid "Notes"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:547
+#: 88f82e7625764731a5c83b1876cdd27a
+msgid "https://en.wikipedia.org/wiki/License"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:551
+#: 4e9714ce936e42e8b087e1c75c92a322
+msgid "https://en.wikipedia.org/wiki/Trademark"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:555
+#: 8f540d7226b34937b569ef31f9df8fd6
+#, python-format
+msgid ""
+"[https://www.umassd.edu/fycm/decision-"
+"making/process/#:~:text=Decision%20making%20is%20the%20process,information%2C%20and%20assessing%20alternative%20resolutions](https://www.umassd.edu/fycm"
+"/decision-"
+"making/process/#:~:text=Decision%20making%20is%20the%20process,information%2C%20and%20assessing%20alternative%20resolutions)"
+msgstr ""
+
+#: ../../Project_taxonomy_recommendations.md:559
+#: b3cee6ec134840068083f12d0c8ccaeb
+#, python-format
+msgid ""
+"[https://www.indeed.com/career-advice/career-development/guide-to-people-"
+"management#:~:text=People%20management%20is%20the%20process,boost%20employee%20performance%20every%20day](https://www.indeed.com"
+"/career-advice/career-development/guide-to-people-"
+"management#:~:text=People%20management%20is%20the%20process,boost%20employee%20performance%20every%20day)"
+msgstr ""
+
