@@ -4,5 +4,5 @@
 format: jb-book
 root: intro
 chapters:
-  - file: mentoring.md
+  - file: mentoring_guide_projects.md
   - file: Project_taxonomy_recommendations.md
