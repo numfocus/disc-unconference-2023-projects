@@ -1,0 +1,28 @@
+name: CircleCI Artifacts redirector
+
+on: push
+
+permissions: read-all
+
+jobs:
+  circleci_artifacts_redirector_job:
+    runs-on: ubuntu-latest
+    if: "${{ github.event.context == 'ci/circleci: build-book' }}"
+    permissions:
+      statuses: write
+    name: Run CircleCI artifacts redirector
+    steps:
+      - name: GitHub Action step
+        id: step1
+        uses: larsoner/circleci-artifacts-redirector-action@master
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          api-token: ${{ secrets.CIRCLECI_TOKEN }}
+          artifact-path: 0/index.html
+          circleci-jobs: build-book
+          job-title: Check the rendered website here!
+      - name: Check the URL
+        if: github.event.status != 'pending'
+        run: |
+          curl --fail ${{ steps.step1.outputs.url }} | grep $GITHUB_SHA
+            

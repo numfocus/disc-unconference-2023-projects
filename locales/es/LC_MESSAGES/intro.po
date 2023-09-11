@@ -1,0 +1,24 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Python \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-10 14:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../intro.md:1 06ed389510d64c7798007140e50650c9
+msgid "DISC Unconference 2023 Projects"
+msgstr "Proyectos de la DISC Unconference de 2023"
+
+#: ../../intro.md:3 83986847462b49629ea01a157936d418
+msgid "This website collects all the outputs from the DISC Unconference 2023."
+msgstr "Esta web contiene todos los resultados generados en la DISC Unconference de 2023."
+
