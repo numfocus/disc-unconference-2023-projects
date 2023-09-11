@@ -1,10 +1,11 @@
-# Group 3: Project taxonomy and recommendations for Diversity Equity and Inclusion
 ```{article-info}
 :avatar: images/disc-icon.jpg
 :avatar-outline: muted
 :author: "[@kriehl](https://github.com/kriehl), [@munkm](https://github.com/munkm), [@elgravel](https://github.com/elgravel), [@jennaswa](https://github.com/jennaswa), [@monsauce](https://github.com/monsauce), [@prabhant](https://github.com/prabhant), [@TaniaHernandez23](https://github.com/TaniaHernandez23), [@danielskatz](https://github.com/danielskatz)"
 :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 ```
+
+# Group 3: Project taxonomy and recommendations for Diversity Equity and Inclusion
 
 ## Working Group Members:
 
@@ -46,7 +47,7 @@ What are the key elements we want to have in this case study? Develop a matrix o
 
 
 
-* Deconstructing what a project is (need to develop definitions for each category). _What are key parts of a **diverse **and **sustainable **project?_
+* Deconstructing what a project is (need to develop definitions for each category). _What are key parts of a **diverse** and **sustainable** project?
     * THEMES
         * Sustainability
         * Openness
