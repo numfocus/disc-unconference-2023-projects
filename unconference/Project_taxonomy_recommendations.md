@@ -37,11 +37,11 @@ Roles:
     * Monica
 * GitHub: https://github.com/numfocus/disc-unconference-2023-projects
 
-# Goals
+## Goals
 
 **Develop a framework as a case study for a model inclusive project**
 
-# Topics and Categories
+## Topics and Categories
 
 What are the key elements we want to have in this case study? Develop a matrix of 2 axes:
 
@@ -87,7 +87,7 @@ What are the key elements we want to have in this case study? Develop a matrix o
 * Stages of project life cycle/timeline
 
 
-# Next steps:
+## Next steps:
 
 * Define language and make consistent throughout the document
 * Pull out general themes that apply throughout
@@ -98,7 +98,7 @@ What are the key elements we want to have in this case study? Develop a matrix o
 
 
 
-# Resources (from Slack)
+## Resources (from Slack)
 
 
 
@@ -108,7 +108,7 @@ What are the key elements we want to have in this case study? Develop a matrix o
 * [https://goblin.tools/](https://goblin.tools/) Goblin Tools: Break down to-do list items into more granular tasks
 
 
-# TITLE OF OUR DOCUMENT (PARTY PARTY PARTY - Work Hard, Party Harder!)
+## TITLE OF OUR DOCUMENT (PARTY PARTY PARTY - Work Hard, Party Harder!)
 
 GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
 
