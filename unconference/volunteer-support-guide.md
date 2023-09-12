@@ -3,8 +3,7 @@
 ```{article-info}
 :avatar: images/disc-icon.jpg
 :avatar-outline: muted
-:author: "[Abigail Dogbe](https://github.com/mesrenyamedogbe), [Nicole Foster](https://github.com/nicole-numfocus),
-[Hana Frluckaj](https://github.com/hfrlucka), [Inessa Pawson](https://github.com/inessapawson), [Leah Silen](https://github.com/lsilen)"
+:author: "[Abigail Dogbe](https://github.com/mesrenyamedogbe), [Nicole Foster](https://github.com/nicole-numfocus), [Hana Frluckaj](https://github.com/hfrlucka), [Inessa Pawson](https://github.com/inessapawson), [Leah Silen](https://github.com/lsilen)"
 :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 ```
 
