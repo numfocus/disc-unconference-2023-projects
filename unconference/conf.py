@@ -50,6 +50,7 @@ html_theme_options = {
         "json_url": "https://raw.githubusercontent.com/numfocus/disc-unconference-2023-projects/main/switcher.json",
         "version_match": language,
     },
+    "announcement": "All documents in this repository are in draft status, and work is expected to continue on improvements, additions, and corrections.",
 }
 html_title = "DISC Unconference 2023 Projects"
 latex_engine = "pdflatex"
