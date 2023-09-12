@@ -1,0 +1,804 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-11 17:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../mentoring_guide_projects.md:1 48725ee0a90c44e4b8b6f88310c63cbf
+msgid "A mentoring guide for open projects"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:3 65da157b05b5429dacdc89053a774f40
+msgid "@melissawm, @Chuekting, @LucyJimenez, @ElegantTolly, @OriolAbril"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:10 49ea93fee54f4e2ea185ce7738d8d256
+msgid "This document is aimed at:"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:12 aa4277f734e24c60afb9c7f57dbd5059
+msgid "mentors (and potential mentors);"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:13 bde5c2b1ec0b40f4809bb8540b5df8d6
+msgid "mentorship program organizers/coordinators;"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:14 14aa712c4cc941b995cd4aa4b066b9cc
+msgid "open-source maintainers or project leadership."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:16 6d6caed65ffa46229a5507d6fc05dddb
+msgid "What is mentoring?"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:18 d5d0e9dbbd2d4ca0b0bb2ca8143c9ead
+msgid ""
+"Mentoring is a relationship between people (mentor and mentee) that helps"
+" identify and develop skills needed for growth, especially but not "
+"limited to roles in open-source projects. Being a mentor can be highly "
+"rewarding, as you have the chance to create a lasting impact in your "
+"mentee's life."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:20 331139d50ad7488aa611956361fd5c3b
+msgid ""
+"Mentoring is not restricted to new contributors. People can be mentored "
+"at different levels, and senior folks may also need mentoring from time "
+"to time."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:22 fe93a08955884aeb831c0c4106e9746a
+msgid ""
+"Mentoring does not have to be restricted to project tasks or technical "
+"subjects. It also involves helping your mentee navigate their career "
+"development, learning about your own processes and motivations, and "
+"seeing the big picture of your project, program, group, or community. A "
+"mentor can also act as a middle layer between the mentee and the project "
+"or community they are involved in."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:24 a9a6128f78214e2da8c0a079dfc17af8
+msgid ""
+"Mentoring does not have to be 1-1. Cohort-style mentorship programs can "
+"be useful, particularly for short periods of time, as mentees can also "
+"support each other."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:26 bfae746cb3e742fc88b64436c3e276bc
+msgid "Kinds of mentorship"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:28 9673293c53c84096b88102368ab9786f
+msgid "In this document, we will be discussing two types of mentorship:"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:30 4d45265c59a040f69ac07df3830d0e0d
+msgid ""
+"**1-1 mentoring**   In this mode, a mentor and a mentee get together "
+"regularly to talk about career prospects, individual goals and skills. "
+"There is not necessarily a project to be completed. Example of such "
+"mentorship program includes [Tupu](https://www.tupu.io/) and [Women in "
+"Tech mentorship](https://women-in-tech.org/mentoring-program/). In such a"
+" program, mentors will be matched to a mentee and start a 1-1 mentoring "
+"over a set period of time."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:32 619ef1e1bf054321a1e090aa5f072001
+msgid ""
+"**Cohort mentoring/program**   Mentoring programs such as "
+"[Outreachy](https://www.outreachy.org/), [Google Summer of "
+"Code](https://summerofcode.withgoogle.com/), [Linux Kernel Mentorship "
+"Program](https://wiki.linuxfoundation.org/lkmp) and "
+"[SheCodeAfrica](https://shecodeafrica.org/) do cohort-style mentoring, "
+"where you have some structure supporting mentors and mentees and a "
+"defined timeframe for the duration of the mentorship. In this case, there"
+" is usually a program coordinator who will also be involved in the "
+"mentoring."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:35 94a641762c214cb4bfeba54eb9ef8749
+msgid ""
+"Mentorship programs do not need to be either 1-1 mentoring or Cohort "
+"mentoring/program; they can consist of both. For example, the [EuroPython"
+" Speaker Mentorship Program](https://ep2023.europython.eu/mentorship) "
+"consists of 1-1 mentoring and cohort mentoring workshops."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:37 c46920b9cd8a4232878dba0d40d14f76
+msgid ""
+"For some programs, mentors or mentees can get paid for their work during "
+"the mentorship. In that case, keep in mind that the mentoring "
+"relationship should not be seen as a commercial relationship: your mentee"
+" is not your employee."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:39 f4872f57876541febd3ea118f67d4bd4
+msgid ""
+"You will find useful information in this guide whether you are planning "
+"on running a mentorship program or if you want to become an individual "
+"mentor - but not all sections of this document will apply."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:41 5cc5e536e9ed4800836c2708e04c22a0
+msgid "Why is mentoring needed?"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:43 c951c2cc0e8b428688fe68d989fff12c
+#, python-format
+msgid ""
+"Mentorship programs help to solve the problem of ensuring robust "
+"succession and growth, where many new contributors become part of the "
+"community. [Mentorship in Open Source (Linux "
+"Foundation)](https://project.linuxfoundation.org/hubfs/LF%20Research/LFX%20Mentorship%20in%20Open%20Source%20-%20Report.pdf?hsLang=en)"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:45 fcedc8a7d6b34812921f0ccb565d3f38
+msgid ""
+"Many open-source projects and volunteer communities grew organically over"
+" the years, with no intentional effort on recruiting or onboarding new "
+"people. While this can be sufficient for some groups, you may want to "
+"build mentoring capacity in your community to address specific issues. "
+"For example, you may need to recruit more maintainers, increase diversity"
+" in your group, or create a pathway for folks with different backgrounds "
+"or expertise."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:47 75cd56e5e6454669ac52229db383761c
+msgid ""
+"Mentoring can also be a way to help your mentee build confidence. For "
+"example, it can help them become more comfortable with their open-source "
+"contributions. This is particularly important for people from "
+"underrepresented or marginalized groups."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:49 166fff28313b41908c829a8ba82ea625
+msgid ""
+"Mentees are not all newcomers. Moving across roles in a project (for "
+"example, from regular contributor to maintainer or from maintainer to "
+"leadership) may also require some level of mentoring and guidance."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:51 dc5cb8a63e1e45b0abdbdb4a061b7512
+msgid "Benefits of mentorship"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:53 ec05ca51a7bf4b74acc67842dfcfa63d
+msgid ""
+"Mentoring can be a great way to give back to the community, even if you "
+"are not a maintainer or an expert. Depending on the scope of the "
+"mentorship you are doing, you can offer support and guidance to your "
+"peers in specific areas where you have more experience."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:55 778d462b65f04103b6326724c5c0eac4
+msgid "For the community"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:57 7f6a9216bb8748209a7a45d25b7d16d1
+msgid ""
+"If your community or project is struggling with a particular area and you"
+" know you need to intentionally onboard someone for that role, mentoring "
+"is the solution. You can also define the scope of the mentorship around "
+"organizational or community goals, such as increasing diversity in your "
+"group."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:59 a1b9f940fcf04b209bb9fcb456007027
+msgid "For the mentors"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:61 36e60458345645c3b6c100c1b9ec230b
+msgid ""
+"Mentoring someone can also be a way for the mentor to learn and grow "
+"themselves. It can be:"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:63 7080e809017e4f389a76c3cc190d59ef
+msgid "a way to give back to a community,"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:64 7fe023aeda5748749b9beaf2e14b9e25
+msgid ""
+"a way to empower and guide someone's career, with potential for real "
+"impact,"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:65 6dc6c3dba7b14511b97e8f61ebfa9cc3
+msgid "an opportunity for self-discovery."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:67 e4e2c1bee8d44414b9fc46fb936a3eed
+msgid "For the mentees"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:69 7d15782a5ef4411ca090dbe6d60bc4c7
+msgid "If you want to go fast, go alone. If you want to go far, go with someone."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:71 efe94fb75d114a78b0ddec5bb3729939
+msgid "Mentees can benefit from a mentorship program in several ways:"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:73 e3078f60e8e84d8bb9597efae4886769
+msgid "For career guidance (in both technical and people skills);"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:74 68ba271e588d4b45a074f87f1d5e91d9
+msgid "To grow your skills more effectively;"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:75 03210f22031e4b68ba1c4fe72163d30e
+msgid "As an opportunity to network with open-source communities;"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:76 1f954124d1cf4191bcf848a2224dd3b4
+msgid ""
+"To meet with prospective employers and find other professional "
+"opportunities."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:78 028541d3aeef4a58ad351cc1f0df2409
+msgid ""
+"By getting support from mentors, mentees can gain confidence and "
+"experience to achieve something that they are not comfortable with or do "
+"not know how to start to achieve on their own."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:80 333598abaf744731ad92310a31b2a7f3
+msgid "Who are mentors/mentees"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:82 8567868fc0954181a0be1e9c847b52fb
+msgid ""
+"Mentors provide professional guidance and support to someone with the aim"
+" of helping them grow. Mentees receive guidance from people who are more "
+"experienced than them in other areas to enhance their knowledge and "
+"career growth."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:84 912a6e3c03a3433a867b15da7b1cd077
+msgid "Quality of mentors"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:86 c6a0345600874113a9ef4b73eb38d85f
+msgid ""
+"Mentoring can be challenging, and the focus is on the mentee's "
+"development."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:88 a9c1bcb1ad7a4838a29aa2e13ca43a3d
+msgid "Patient"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:89 456c403b7ad243748d65441eefdc7abe
+msgid "Supportive"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:90 ../../mentoring_guide_projects.md:96
+#: 26f5486527b94f93af4c37bdab9e48b8 ae491055560744368e57bfd1cde4bf66
+msgid "Committed"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:91 e4182ecd30624f568c43fbf02999c2b2
+msgid "Empathetic"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:93 0f4d68689d5f41419eef33fc1048dc15
+msgid "Quality of mentees"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:95 a359330f578f4cf5926d69a6e411fc76
+msgid "Open-minded"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:98 f16cf2d0d0314db0b333d97a0f19f09d
+msgid "Relationship between mentors and mentees"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:100 4ee142a72e1e4dfdb556eebd29e81f3e
+msgid ""
+"Mentors and mentees are buddies, but mentors have a bit more experience "
+"in certain aspects of things and would be taking on a more supportive "
+"role of the two."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:102 0c1e9e9026e547f99f2c37bae61a7766
+msgid "How to guides"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:104 94c732d6f9974523bdc72e9dcd93df7f
+msgid ""
+"Guiding mentees takes proper planning and preparation to have a "
+"successful execution."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:106 ba870a7ad03b45298a10fe19db5f0ea3
+msgid "How to organize a mentorship program"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:108 3c7a790c9cc6480b964a19d116c45e91
+msgid ""
+"It is important to set a "
+"[SMART](https://en.wikipedia.org/wiki/SMART_criteria) and sustainable "
+"program plan. Identify your WHY, WHO, and WHAT."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:110 b3825a2c386b4a5793fb424b7a957fd0
+msgid "WHY: The goal of the program."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:111 8caca442b8314e389f71ced627d7a8b8
+msgid ""
+"WHO: The target audience (mentee), Tutors (mentors), and POCs (Persons of"
+" contact) who will serve as intermediaries between the mentors and "
+"mentees."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:112 5909737b8de64952b1e3fca3d5adebfd
+msgid ""
+"WHAT: Set the program guide, code of conduct, duration, structure, and "
+"other relevant strategies (for the before, during, and after)."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:114 40ad776cb48344208b8511f25f68604e
+msgid "For 1-on-1 mentoring"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:116 b5c1c209ff704087b2cd6bd99f1a0efc
+msgid ""
+"In 1-on-1 mentoring, the role of an organizer would be to match up "
+"mentors and mentees according to their needs. There are some factors you "
+"can consider when matching mentors and mentees, for example, according "
+"to:"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:118 e5840b39db054753b9c465201c117eeb
+msgid "their area of interest"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:119 192eb633c77b46ba9560a3fdfc9342c2
+msgid "their location proximity/timezones"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:120 c9721a3b909146bbae03f929fab140be
+msgid "what language they will be using"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:121 c6635632715942d593d3e75fcc8d1a85
+msgid "their educational/ career background"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:123 a37ad33125d94e8cbc5580e9f0089b0c
+msgid ""
+"Matching mentors and mentees would be the first step to success. After "
+"that, support can be provided to mentors and mentees by explaining to "
+"them what they will be expecting and committed to do (e.g., need to meet "
+"regularly, write a report at the end, etc.) during the program. "
+"Organizers may also set an overall timeframe for the mentorship (e.g., "
+"six months with the potential to extend for another six months)."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:125 05ccbd45ef9f4a9cbe9db145576ff99d
+msgid ""
+"Compared to cohort mentoring, mentor and mentee pairs will have more "
+"autonomy on when and how often they want to meet and what goal they want "
+"to achieve. Organizers are only needed to act as a coordinator when "
+"mentors or mentees need extra support. Organizers may also be those who "
+"handle Code of Conduct issues."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:127 88919656b28444529d0259ca25fe88df
+msgid "For cohort mentoring"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:129 543daffbf9884eea8e293791d443e9be
+msgid ""
+"To organize cohort mentoring, besides being a coordinator, organizers "
+"will need to have more presence in the mentorship program. Organizers "
+"will have to set time frames for everyone in the program and, in some "
+"cases, arrange and host the cohort meetings."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:131 e9f7604c509d4928a12757ae46d02ee7
+msgid ""
+"A cohort can consist of one mentor and a few mentees, or it can be 2-3 "
+"mentors and several mentees. Choose a mentor-to-mentee ratio that works "
+"for the program."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:133 14de7ee180264c2db6f7e52977b9c548
+msgid ""
+"In the cohorts, there can be a lead, who can be one of the mentors, to "
+"help arrange and host the meeting, guide the cohort to set the goals, "
+"etc. However, more support will have to be given to this lead mentor "
+"compared to other mentors as they are taking up an organizing role within"
+" the cohort. It may be beneficial to have regular cohort leads meetings "
+"to talk about organizing issues."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:135 60b7e936587d43b4aca771ff9bd41df8
+msgid "How to mentor"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:137 125e7471591241439c2ebf1541b30231
+msgid ""
+"You can choose the format you want for your mentorship program or "
+"individual mentoring. Here are some guidelines, best practices and ideas "
+"for how to proceed."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:139 13f2239077834067b17ab6867b4c6234
+msgid "Before the start of the mentorship"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:141 aaf404f6439b4d19b3944b36c0ca4f76
+msgid "**Set the scope of the mentorship**"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:143 80475f383488493797a1c9a0686ef0cd
+msgid ""
+"Before the start of the mentorship, the scope of the mentorship needs to "
+"be clear to both the mentor and the mentee. Explore the personal "
+"motivations of both the mentee and mentor. Would it be a general "
+"mentoring regarding building a career in open-source? Or would it be "
+"project-specific mentoring? This needs to be clear to both parties before"
+" committing to the mentorship."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:145 ecdd5a0115704227816cebd8719547d3
+msgid "**Define length and commitment**"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:147 8ffd74beea3646d6ae0e9e628d90bd12
+msgid ""
+"Before the start of the mentorship, it is important to agree on the "
+"length and commitment of the participants. They should then ensure that "
+"both the length and commitment are adequate for the scope chosen and that"
+" everyone is on the same page when it comes to time and resource "
+"investment into the mentorship. This should be reviewed if anything "
+"changes (on periodic reviews, for example, see below). Agree on a meeting"
+" cadence."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:149 f09d77cf65ad47a1870a989e14c3e9e2
+msgid "At the start of the mentorship"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:151 af55dfe4a44a46e588f751fd69b0ee1f
+msgid "[Checklist for mentee onboarding](https://hackmd.io/@melissawm/onboarding)"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:153 047e988a485145059f66ad9756aeee27
+msgid "**Setting goals**"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:155 c5821e835df645648b8bb42ee9ffac24
+msgid ""
+"It is recommended at the beginning of the mentorship to set goals "
+"together. Goals are not just for the benefit of mentees. Think of the "
+"mentor and mentee as a team: what would be the desired outcome after the "
+"duration of the mentorship, and what goals that this team would like to "
+"achieve together? Goals should be coming out from the point of view of "
+"the development of the mentee rather than what they are actually doing."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:157 255ebab1f1ce476f9ff03a89a8f8f3d7
+msgid ""
+"For example, a goal can be \"mentee becomes more confident in fixing "
+"bugs\" but not \"mentee fixing five bugs.\""
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:159 00ec6f167d42485ead4aac3ffffa5ae3
+msgid "**Develop a plan according to the goals**"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:161 be570363bbd743e0a982a4e2e5d0a112
+msgid ""
+"Once you have settled down the mentee's goals, both the mentor and mentee"
+" should collaboratively set clear and achievable objectives. You can use "
+"the [SMART criteria]((https://en.wikipedia.org/wiki/SMART_criteria) so "
+"that these objectives should be specific, measurable, attainable, "
+"relevant, and time-bound (SMART). To support the mentee's journey, the "
+"mentor will identify the necessary resources, recommend educational "
+"materials like books and courses, create a timeline with milestones, and "
+"define specific, actionable steps to help them achieve their goals "
+"effectively."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:163 791a2e6e332b47b3809a3b7a717e6788
+msgid "During the mentorship"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:165 25bb3092b5d4405789a29741dd754cf1
+msgid "**Regular check-ins**"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:167 6234df57e17a471c93f32b78f5198b1a
+msgid ""
+"At the start of the mentorship, you hopefully decided on timelines and "
+"the time you decide to spend on it. Making your check-ins and "
+"communications regular works best and creates opportunities for reviews "
+"and feedback."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:169 45eb951ab3e24c0f98d8f083294033af
+msgid ""
+"Your regular check-ins should not focus only on outputs or work done. It "
+"can also focus on people skills, feedback on communication, or guidance "
+"about how to interact with the larger community you are a part of. Being "
+"productive does not mean they are being adequately supported, and it is "
+"your job as a mentor to make sure they know how to ask for help and feel "
+"seen and valued."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:171 b778b8ed98ea4b049e1797b0e83dbdd7
+msgid ""
+"[Agenda template for 1-on-1 "
+"meetings](https://hackmd.io/@melissawm/11template)"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:173 96900826681d4aedba745dda717c2261
+msgid "**Reviews and feedback**"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:175 71e5af5b85c6445bb3fc4e7db24546c8
+msgid ""
+"Regular reviews are beneficial to act as checkpoints to see if the "
+"mentorship is working and going to achieve the goals. Mentors and mentees"
+" can use the review to decide if they want to keep going, make changes to"
+" mentoring approaches, or move on from this mentorship. Mentors and "
+"mentees can decide on the frequency of the review, and the frequency can "
+"be changed according to needs during the mentorship."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:177 b1282e0e60774b898d3b617bf2763088
+msgid ""
+"While withholding feedback is generally not a good idea, saying "
+"everything as it comes to mind tends to be even worse. Again, keep in "
+"mind that the development of the mentee should have priority over the "
+"mentorship tasks and outcomes. Therefore, when giving feedback it is "
+"important to acknowledge the work done and the challenges overcome by the"
+" interns, and if something wasn't done correctly or didn't reach the "
+"standards set, the focus should then be put on how to improve, not so "
+"much on the actual mistake."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:179 5d9a1d36315c4aada05b92fac0699e76
+msgid ""
+"It is also important to ensure you are on the same page and know the "
+"intended scope and context of the work being reviewed before reviewing. "
+"It is not the same to review a first draft or a page outline proposal or "
+"to instead review a PR that already passes CI, has tests and "
+"documentation, or is a social media publication ready for publishing."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:181 e94895ceed79417fbe212f501d3e28a4
+msgid ""
+"_Extra note: for open source-related mentorships, feedback generally "
+"happens on public venues (i.e., GitHub), which can be intimidating, "
+"especially for newcomers. In such cases, there should also be a private "
+"channel between mentee and mentor (or at the very least semi-private "
+"between mentee and project team) for the mentee to ask questions without "
+"the added pressure of knowing whatever they write will be stored publicly"
+" for posterity._"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:184 10da78cb38e5418fba2abd0654368328
+msgid "**Supporting the mentee**"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:186 2e20d4bb82664910ac5c2c5fa8f67994
+msgid ""
+"While the mentor needs to guide the mentee through their tasks, they "
+"should not expect to be able to always do it by themselves. We see a "
+"mentor's support tasks divided into four different roles, which will "
+"generally be distributed among multiple people. These roles are:"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:188 87ea463559474104bfe12796a134b4cd
+msgid ""
+"_Onboarder_: supports the mentee in their onboarding onto the project or "
+"community where the mentorship takes place (if any)."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:189 a7b8e04dd53148dba7ecb7bde6b21ca4
+msgid ""
+"_Mentor_: the main point of contact for the mentee when it comes to "
+"mentorship goals and tasks."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:190 b841084bca1a4281a6933fc63a7e7394
+msgid ""
+"_Expert_: answers questions and provides specific teaching on topics that"
+" are outside the mentor's area of expertise."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:191 6493c2124aea457e93fd4f8b1917fa3f
+msgid "_Coach_: guides the mentee on life and career decisions."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:193 f3c577e9d1f14335b309dae9e8121ddc
+msgid ""
+"These roles do not necessarily need to be present at all programs, and "
+"one mentor may fulfill multiple roles depending on how the mentorship is "
+"structured. Mentors can also identify different roles needed for "
+"different mentees depending on their skills, experience, and goals."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:195 af478f24372849d38732ab6161f01c33
+msgid "After the mentorship"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:197 9ca8910c969e4fd39cd407d656f5af42
+msgid ""
+"Again, remember that the mentee doesn't owe anything to the mentor, "
+"project, or community. On the contrary, mentors could be mentoring as a "
+"volunteer and they also do not owe anything to the project or community. "
+"Both parties are only expected to fulfill their commitments made when "
+"joining the mentorship."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:199 442708d163d94ece9bbe40bbff20fa1e
+msgid ""
+"Have a formal wrap-up where you check the progress of the goals and "
+"agreements that were given through the mentoring program."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:201 841d6356b35d45828acfbfcfc0930d60
+msgid "It is also recommended to collect feedback."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:203 5e35d918fdfe49c7a602ec33dd42ba06
+msgid "Managing expectations (from mentors, mentees, and coordinators)"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:205 01c8120d0dde4254b81bab225d9d7b0d
+msgid ""
+"Mentoring can be time-consuming, and it requires effort and dedication. "
+"Make sure you set expectations early and often to avoid frustration on "
+"all parts."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:207 d4a47a7fffd047bc8caa9ebc44b18c83
+msgid ""
+"A mentorship program is not a guarantee of results or outputs. Keep in "
+"mind that the main goal of a mentoring relationship should be the "
+"mentee's development. Projects and tasks are the means to get there. This"
+" applies to both volunteer and paid programs."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:209 b107a5c80617481d8107d0ca8c1ab2d5
+msgid ""
+"On the other hand, it is healthy to set expectations around coming to "
+"meetings, engaging in the mentoring format you chose, and communicating."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:211 84f7d8c913fb469298adb0033d277da2
+msgid ""
+"Make sure both you and your mentee decide on a timeframe for the "
+"relationship and outline your time availability for that period."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:213 89e3fde9daff40c0886ebad88e44332c
+msgid ""
+"Mentors don't have to know everything - you can call in other people to "
+"help. As a mentor, you can identify other people who can help your mentee"
+" and make those connections. See, for example, the [\"Expert\" role in "
+"the Open Seeds program](https://openlifesci.org/about#experts)."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:215 63046857010349e9bb1c416a5ff1a8d1
+msgid "Mentorship community"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:217 cc162ccb0f9b46d7bed42275c220e67e
+msgid ""
+"**Mentee Support System** It's important to have someone else other than "
+"the mentor for the mentee to go to. Take a look at your mentors' "
+"community. It can be very useful for mentees to have a point of contact "
+"within the community other than the mentor."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:220 3ea8cbd40b5648d58a76a96ca1a8f770
+msgid ""
+"It can also be beneficial, when possible, to set up a \"buddy\" program "
+"between mentees of the same cohort, or regular meetings between them, so "
+"they also have the opportunity to interact and discuss with people in "
+"similar situations."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:222 a7f42fb86f404edda79524946c00b156
+msgid ""
+"**Mentor Support System** Mentors need support as well. It is beneficial "
+"to have a mentors community so mentors can \"mentor\" and support each "
+"other."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:225 f9bd5fd9ac8c4c7790224418d55e9f4a
+msgid "Resources for Mentees"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:227 cdadc4b07bc44b6192ab00feab10bbcd
+msgid ""
+"Here are also some useful references for you to point mentees (or "
+"potential mentees) to if they want to read about mentorship relationships"
+" and what to expect. Keep in mind, however, that these references should "
+"never replace the explicit discussion of expectations we mentioned above "
+"before the mentorship begins."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:229 f8fc4a1da8e34c63a61752f87d5522d4
+msgid "https://google.github.io/gsocguides/student"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:230 ad10b35fbca94e8ba09b724607598f44
+msgid "https://www.outreachy.org/docs/internship"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:232 114fbea872c74f9a9bdc155de30373d8
+msgid "Conflict Resolution"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:234 c83e6e98791241a485205ce2a96f9a40
+msgid ""
+"Any mentorship program should have a Code of Conduct (CoC) that all "
+"mentors and mentees should follow. If there's a breakdown in the Code of "
+"Conduct (CoC) on either the mentee or mentor side, addressing it as soon "
+"as possible is essential. Report any issues according to the Code of "
+"Conduct (CoC) of your program or community."
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:238 21b87a79d2934c099b0bcbbe01206095
+msgid "Useful links"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:240 fa4a891f5124415e8006d06f8803264a
+msgid "https://ropensci.org/blog/2021/12/20/inclusive-leadership-program/"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:241 3bb8a463b42947e1a4661d58831471c2
+msgid "https://ropensci.org/champions/"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:242 4a72626b49bd43f5a00f3f86dbc992e5
+msgid "[Video on 1-on-1 meetings](https://www.youtube.com/watch?v=JbIl70Nn3kU)"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:243 ae39cb6123a240cf940b07c6ca6b19d1
+msgid "https://www.linuxfoundation.org/research/mentorship-in-open-source"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:244 98a733c29dd54446ba3fb791d12a44ef
+msgid "https://www.fosslife.org/value-mentorship-open-source"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:245 55ada907e9c644dd98d29d447fc42956
+msgid "https://wiki.linuxfoundation.org/lkmp"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:246 442f1a2f42e44efeb8e98b7136afe95c
+msgid "[Outreachy program mentor guide](https://www.outreachy.org/mentor/#mentor)"
+msgstr ""
+
+#: ../../mentoring_guide_projects.md:247 dde3d3599a744911b1fe5a96839833ec
+msgid ""
+"[Workshop about How to Submit a Call for "
+"Proposal](https://github.com/Cheukting/CfP-workshop)"
+msgstr ""
+
