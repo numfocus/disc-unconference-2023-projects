@@ -5,6 +5,8 @@ format: jb-book
 root: intro
 chapters:
   - file: mentoring_guide_projects.md
+  - file: mentoring_onboarding_checklist.md
+  - file: mentoring_meeting_template.md
   - file: Project_taxonomy_recommendations.md
   - file: methodologies_collecting_data.md
   - file: volunteer-support-guide.md
