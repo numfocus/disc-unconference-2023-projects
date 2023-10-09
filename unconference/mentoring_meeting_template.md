@@ -22,7 +22,7 @@ You can just ask about the project's current status, inform yourself about its p
     - How? Is there anything that could be improved to help with the process for the next time you are blocked?
     - Do you know which requires extra help and discussion?
 
-### Career guidance/expectations
+## Career guidance/expectations
 
 - New thing you learned
 - Upcoming events you're interested in (workshops, conferences...)
