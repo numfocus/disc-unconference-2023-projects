@@ -1,7 +1,7 @@
 # Agenda template for 1-on-1 meetings
 
 
-### Personal update
+## Personal update
 You can start the 1:1 meeting by asking what the mentee feels and other information outside the task/project (more like an icebreaker).
 
 As a mentor, you should take the lead by sharing so your mentee feels comfortable to follow the lead. Please keep in mind potential cultural differences when sharing to ensure everyone is comfortable with the topics discussed. Here are a few suggestions that you would like to start the meeting:
