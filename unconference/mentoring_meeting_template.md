@@ -31,7 +31,7 @@ You can just ask about the project's current status, inform yourself about its p
 - Give intentional and constructive feedback.
 - Reassure them of their growth, impact, and potential.
 
-### Wrapping up
+## Wrapping up
 
 Check if there is anything that needs to be re-evaluated. It is important to ensure the initial goals, timeline, frequency meeting are still valid.
 
