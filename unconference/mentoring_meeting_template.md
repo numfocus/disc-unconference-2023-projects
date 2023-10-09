@@ -10,7 +10,7 @@ As a mentor, you should take the lead by sharing so your mentee feels comfortabl
 - Share weekend fun activities (this helps both parties to know more about each other's interests)
 - For remote mentorship, share updates on the season, weather, and how you feel about it
 
-### Ongoing project(s)
+## Ongoing project(s)
 
 You can just ask about the project's current status, inform yourself about its progress, and offer valuable support. Here are some questions that can help guide the conversation
 
