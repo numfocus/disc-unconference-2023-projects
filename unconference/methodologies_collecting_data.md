@@ -3,7 +3,7 @@
 ```{article-info}
 :avatar: images/disc-icon.jpg
 :avatar-outline: muted
-:author: "[anavelyz](https://github.com/Anavelyz), [@natmokval](https://github.com/natmokval), [@akcouli](https://github.com/akcouli), [@ruv7](https://github.com/Ruv7946), [@ashmpace](https://github.com/ashmpace)"
+:author: "[anavelyz](https://github.com/Anavelyz), [@natmokval](https://github.com/natmokval), [@akcouli](https://github.com/akcouli), [@ruv7](https://github.com/Ruv7), [@ashmpace](https://github.com/ashmpace)"
 :class-container: sd-p-2 sd-outline-muted sd-rounded-1
 ```
 
