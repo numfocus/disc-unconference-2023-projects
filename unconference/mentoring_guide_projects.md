@@ -148,7 +148,7 @@ Before the start of the mentorship, it is important to agree on the length and c
 
 #### At the start of the mentorship
 
-[Checklist for mentee onboarding](https://hackmd.io/@melissawm/onboarding)
+[Checklist for mentee onboarding](mentoring_onboarding_checklist.md)
 
 **Setting goals**
 
@@ -168,7 +168,7 @@ At the start of the mentorship, you hopefully decided on timelines and the time 
 
 Your regular check-ins should not focus only on outputs or work done. It can also focus on people skills, feedback on communication, or guidance about how to interact with the larger community you are a part of. Being productive does not mean they are being adequately supported, and it is your job as a mentor to make sure they know how to ask for help and feel seen and valued.
 
-[Agenda template for 1-on-1 meetings](https://hackmd.io/@melissawm/11template)
+[Agenda template for 1-on-1 meetings](mentoring_meeting_template.md)
 
 **Reviews and feedback**
 
