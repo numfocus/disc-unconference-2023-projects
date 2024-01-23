@@ -22,8 +22,8 @@ pip install -r requirements.txt
 or
 
 ```bash
-conda create -f environment.yml
-conda activate projects
+conda env create -f environment.yml
+conda activate project
 ```
 
 Then, run
