@@ -26,7 +26,7 @@ Roles:
 
 * Lead
     * Tania
-* Note taker(s)
+* Notetaker(s)
     * Jenna
 * Understudy Notetaker:
     * Madicken
@@ -83,21 +83,13 @@ What are the key elements we want to have in this case study? Develop a matrix o
 
 ## Next steps:
 
-* Define language and make consistent throughout the document
+* Define language and make it consistent throughout the document
 * Pull out general themes that apply throughout
-* Ensure recommendations truly relate back to DEI and are actionable items
+* Ensure recommendations truly relate to DEI and are actionable items
 * Assess how recommendations support openness/transparency and can be done in a sustainable manner
-* Build out as a matrix of how recommendations apply to projects at different life stages
+* Build out a matrix of how recommendations apply to projects at different life stages
 * Find citations/references to evaluate where diversity is missing
 
-## Resources (from Slack)
-
-* [https://github.com/badging/project-diversity-and-inclusion](https://github.com/badging/project-diversity-and-inclusion)
-* [https://doctorow.medium.com/the-title-card-from-sumana-harihareswaras-github-talk-what-would-open-source-look-like-if-it-were-35b0360f8b89](https://doctorow.medium.com/the-title-card-from-sumana-harihareswaras-github-talk-what-would-open-source-look-like-if-it-were-35b0360f8b89)
-* [https://www.jmlr.org/mloss/mloss-info.html](https://www.jmlr.org/mloss/mloss-info.html)
-* [https://goblin.tools/](https://goblin.tools/) Goblin Tools: Break down to-do list items into more granular tasks
-
-## TITLE OF OUR DOCUMENT (PARTY PARTY PARTY - Work Hard, Party Harder!)
 
 GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
 
@@ -115,24 +107,24 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Sharing the tool
         * Building products on top of the tool
         * Profiting from the use of the tool
-        * Attribution / credit
+        * Attribution/credit
         * Sharing of license
     * Recommendations:
         * Use an open license from [https://choosealicense.com/appendix/](https://choosealicense.com/appendix/) which allow for reuse
-        * Try to choose a license that allows for re-mix like translation, text and data mining. For example, the CC-BY-ND license doesn’t allow for derivatives.
+        * Try to choose a license that allows for re-mix like translation, text, and data mining. For example, the CC-BY-ND license doesn’t allow for derivatives.
 * Regulatory compliance
     * Definition: Regulatory compliance is how the software, project, and community adheres to the legal constructs that govern it. The legal frameworks in which a project operates may be local, national, or international.
     * Components:
         * Licenses of upstream software
-        * National laws governing user privacy, data sharing and dissemination
+        * National laws governing user privacy, data sharing, and dissemination
         * Export control laws
     * Recommendations:
-        * Be aware that regulations vary from country/region, think about how your project will work in a country/region outside where the dominant groups of the project is located
-        * Consider how laws will affect major components such as data, hardware and software
-        * Prioritize the data privacy of your users particularly those from marginalized groups who can be deidentified. Even data that is anonymised can reveal information particularly when there are few people from a non dominant group
+        * Be aware that regulations vary from country/region, think about how your project will work in a country/region outside where the dominant groups of the project are located
+        * Consider how laws will affect major components such as data, hardware, and software
+        * Prioritize the data privacy of your users particularly those from marginalized groups who can be de-identified. Even data that is anonymized can reveal information particularly when there are few people from a non-dominant group
         * Be aware that your software might only be available in certain regions due to the regulatory framework of various nations/regions. This may limit your community.
 * Trademarking names and logos
-    * Definition: A type of intellectual property consisting of a recognizable sign, design, or expression that identifies the project from a particular source and distinguishes them from others.[^2] A logo is an example of an object that be trademarked.
+    * Definition: A type of intellectual property consisting of a recognizable sign, design, or expression that identifies the project from a particular source and distinguishes it from others.[^2] A logo is an example of an object that be trademarked.
 
 
     * Components:
@@ -156,14 +148,14 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Steering Committee
         * Community Manager
         * DEI Manager
-        * Technical rolesClear
+        * Technical roles clear
     * Recommendations:
-        * Steering committee should not only consist of developers. Try to maximize perspectives of your individuals on the steering committee. For example, include an individual who is a user and isn’t interested in contributing code upstream.
-        * Make roles visible/transparent (and well defined) and open to everybody. This makes it easier for people to know what is expected of them and reduces the chances of people missing out on “unwritten rules” of the community.
+        * The steering committee should not only consist of developers. Try to maximize the perspectives of your individuals on the steering committee. For example, include an individual who is a user and isn’t interested in contributing code upstream.
+        * Make roles visible/transparent (and well-defined) and open to everybody. This makes it easier for people to know what is expected of them and reduces the chances of people missing out on “unwritten rules” of the community.
         * Create a DEI manager position. Consider not drawing from only marginalized groups.
         * Consider which axes of marginalization you are considering when nominating individuals for roles in the community. When considering people for leadership roles, look at the makeup of your existing committee and choose individuals who are outside of the dominant group.
             * Consider having an anonymous nomination system open to the community to allow people to self-nominate to reduce bias introduced by leadership nominating others
-        * Create an onboarding procedure for roles in your community bring everybody to the same level of knowledge and expectations regardless of background.
+        * Create an onboarding procedure for roles in your community to bring everybody to the same level of knowledge and expectations regardless of background.
         * Have a plan for term limits, individuals rotating through different roles, and succession planning
         * Link to volunteer burnout Unconference group
     * Resources:
@@ -173,7 +165,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
     * Components:
         * Technical Board vs. non-technical board
         * Committees
-        * The open source leadership mindset involves thinking about: ([Source](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community))
+        * The open source leadership mindset involves thinking about ([Source](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community))
             * Influence, not control
             * Transparency as a means of crowd-sourcing solutions, not as exposure
             * Leading, not herding
@@ -188,7 +180,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
             * Consider having an anonymous nomination system open to the community to allow people to self-nominate to reduce bias introduced by leadership nominating others
         * Step in if there is a clear violation
 * Committees
-    * Definition: a group of people that works together on a specific topic or question and may report to leadership with recommendations or having a specific role within the project governance. Any combination of board members, staff members, and volunteers can make up a committee. ([Source](https://www.boardeffect.com/blog/nonprofit-board-committee-structure/))
+    * Definition: a group of people that works together on a specific topic or question and may report to leadership with recommendations or have a specific role within the project governance. Any combination of board members, staff members, and volunteers can make up a committee. ([Source](https://www.boardeffect.com/blog/nonprofit-board-committee-structure/))
     * Components:
         * Here is a list of some of the typical board committees for nonprofit organizations ([Source](https://www.boardeffect.com/blog/nonprofit-board-committee-structure/)):
             * Executive Committee
@@ -199,13 +191,13 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
             * Governance and Nominating Committees
             * Communications and Public Relations Committees
             * Audit Committee
-        * Other technical project committees can also exist, such as domain-specific committees in projects like astropy or committees governing specific subsets of the project (e.g. project jupyter)
+        * Other technical project committees can also exist, such as domain-specific committees in projects like AstroPy or committees governing specific subsets of the project (e.g. project Jupyter)
     * Recommendations:
-        * Have code of conduct committee, to foster a safe space for all community members
+        * Have a code of conduct committee, to foster a safe space for all community members
             * Use defined best practices that support DEI, including formal training of CoC members
         * Have a defined path to committees for all community members
-        * Have a clear objectives and process defined for every Committee (e.g., charters, terms of reference)
-        * Communicate decision making transparently; when possible publish minutes or decision - making process publicly.
+        * Have a clear objective and process defined for every Committee (e.g., charters, terms of reference)
+        * Communicate decision making transparently; when possible publish minutes or the decision-making process publicly.
         * Consider which axes of marginalization you are considering when nominating individuals for committees. When considering people for committee positions, look at the makeup of your existing committee and choose individuals who are outside of the dominant group.
             * Consider having an anonymous nomination system open to the community to allow people to self-nominate to reduce bias introduced by leadership nominating others
         * Ensuring individuals, especially those belonging to an underrepresented group, do not disproportionately serve on multiple committees
@@ -217,15 +209,15 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Defining different types of decisions (e.g., technical vs. CoC vs. future of project, roadmap, governance)
         * Defining what method will be used to reach a decision (e.g. lazy consensus, a simple majority, a fixed percentage, unanimity)
         * What is done if a decision is not agreed upon by the decision making group
-        * Who can make decisions and how those people are chosen.
+        * Who can make decisions and how those people are chosen?
     * Recommendations:
         * Reach decisions by consensus (perhaps lazy consensus) when possible
         * Make and publish minutes public to promote inclusivity through transparency
         * Have processes to challenge decisions
-        * Have a process for resolution in case of decisions deadlock
+        * Have a process for resolution in case of decision deadlock
         * Ensure the decision-making process (e.g., which group/people makes the decision, how they make it, timeline) is well-defined, documented, and public, to be clear about who should be in the room to make decisions at different levels
 * Conflict resolution
-    * Definition: a way between two or more parties to come to agreement.
+    * Definition: a way between two or more parties to agree.
     * Components:
         * Awareness of the problem
         * Conflict of interests
@@ -255,11 +247,11 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Do NOT publish pay associated with specific names!! This can put individuals at risk
             * But payment for tasks can be public
         * Have transparency in pay levels. Marginalized groups historically are paid less in positions without pay transparency.
-        * Clearly define role requirements to avoid staff over working
-        * Use tooling to check job posting for inclusive language
+        * Clearly define role requirements to avoid staff overworking
+        * Use tooling to check job postings for inclusive language
     * Resources:
         * [https://about.gitlab.com/handbook/total-rewards/compensation/](https://about.gitlab.com/handbook/total-rewards/compensation/)
-        * “**Diversity, Inclusion & Belonging** - People with the same attributes should earn the same. The Compensation Calculator reduces unconscious bias or giving higher pay to individuals who can negotiate better. The Compensation Calculator allows us to take a data-driven approach to compensation where there's fairness across all teams, levels and countries.”
+        * “**Diversity, Inclusion & Belonging** - People with the same attributes should earn the same. The Compensation Calculator reduces unconscious bias or gives higher pay to individuals who can negotiate better. The Compensation Calculator allows us to take a data-driven approach to compensation where there's fairness across all teams, levels, and countries.”
         * “Your compensation = SF benchmark x Location Factor x Level Factor x Exchange Rate”
 * Funding and finances
     * Definition: Assembling the resources needed to develop, maintain, and sustain the project, and then using them to actually do the work of the project, as determined by the project’s governance and decision-making processes.
@@ -278,13 +270,13 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
             * Technical infrastructure - see below, noting that some may have costs and some may not
                 * May include physical infrastructure (must be purchased and then maintained) as well as services (can have regularly scheduled expenses)
     * Recommendations:
-        * Consider the sources of resources; some may not match the projects principles and should not be accepted
-        * Consider sharing proposals, perhaps and their reviews, to allow broader communities understand them and use them as examples, in order to broader the set of potential proposers
-        * Consider making both the principles/processes and the decisions you make regarding projects resources (both financial and volunteer) and project resource usage (both financial and volunteer) public
+        * Consider the sources of resources; some may not match the project principles and should not be accepted
+        * Consider sharing proposals, perhaps and their reviews, to allow broader communities to understand them and use them as examples, to broader the set of potential proposers
+        * Consider making both the principles/processes and the decisions you make regarding project resources (both financial and volunteer) and project resource usage (both financial and volunteer) public
         * Consider principles of DEI in making decisions about resource allocation
         * Support the LMIC group’s work (link to outputs)
 * Code of Conduct (CoC)
-    * Definition: A code of conduct is a set of rules outlining the norms, rules, and responsibilities or proper practices of an individual party, project, or an organization, and the means to enforce it.
+    * Definition: A code of conduct is a set of rules outlining the norms, rules, and responsibilities or proper practices of an individual party, project, or organization, and the means to enforce it.
     * Components:
         * Code of Conduct document which includes defined goals, principles, policies, and processes
         * Code of Conduct committee/process
@@ -298,7 +290,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Base a CoC document on existing documents rather than starting from scratch
         * Consider professional training for CoC members
         * CoC committee should not consist of one person or even numbers
-        * Consider what information will and will not be shared, and with who, in the CoC process
+        * Consider what information will and will not be shared, and with whom, in the CoC process
     * Resources:
         * “[How to Respond to Code of Conduct Reports](https://frameshiftconsulting.com/2018/12/10/free-code-of-conduct-enforcement-book-available-now/)”, by Valerie Aurora and Mary Gardiner
 
@@ -321,9 +313,9 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Consider providing resources for project leadership on how to manage a diverse team
         * Transparent task management system that allows people to state task assignments, preferences, and progress
             * Tasks can be term-limited or ongoing
-        * Make invisible work into visible tasks, if possible to recognize work of people that may be outside of traditional visible work. Many underrepresented people end up doing invisible work to support their community and this provides some equity into recognition of tasks
+        * Make invisible work into visible tasks, if possible to recognize the work of people that may be outside of traditional visible work. Many underrepresented people end up doing invisible work to support their community and this provides some equity in recognition of tasks
             * When a person does something that they think is not currently listed as a task, they should be able to record it
-        * Be aware of your team’s personal preferences and distribute the work based on that (project is not just code!)
+        * Be aware of your team’s personal preferences and distribute the work based on that (the project is not just code!)
         * Link to volunteer burnout Unconference group
 * Stakeholders
 * Definition: Stakeholders can be in one or more of the following categories
@@ -337,7 +329,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
     * Recommendations
         * Listed elsewhere in the document
 * Engaging with Stakeholders
-    * Definition: how the project works with one or more categories of stakeholders (as defined above) with the goal of keeping them engaged in the project
+    * Definition: how the project works with one or more categories of stakeholders (as defined above) to keep them engaged in the project
     * Components:
         * Onboarding
         * Maintaining engagement
@@ -345,18 +337,18 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Planning for stakeholder turnover (when stakeholders leave, succession planning) - tied to staffing (above)
         * Recognition and attribution
     * Recommendations:
-        * Allow individuals that performed work to represent themselves if possible. If leadership presents that work, ensure that correct attribution is given.
+        * Allow individuals who performed work to represent themselves if possible. If leadership presents that work, ensure that correct attribution is given.
         * Formal and informal reporting to funders/sponsors that include DEI aspects on the schedule that they request
-        * Be time conscious, make the best use of everyone’s time.
+        * Be time-conscious, and make the best use of everyone’s time.
         * When scheduling, be aware of time zones putting people outside of working hours and be aware of religious holidays, including religions outside of the dominant group of the project.
-        * Have different methods of recognition for stakeholders so that there are multiple pathways individuals can be recognized for their work and so that different stakeholders can recognize it. This helps improve visibility of work, including invisible work from non-dominant groups.
+        * Have different methods of recognition for stakeholders so that there are multiple pathways individuals can be recognized for their work and so that different stakeholders can recognize it. This helps improve the visibility of work, including invisible work from non-dominant groups.
         * Try to have stakeholders from different groups (or all stakeholders) represented on your committees and in your project leadership.
-        * Provide opportunities beyond code contribution for stakeholders to contribute to the project that match the preferences and styles of different people.
+        * Provide opportunities beyond code contribution for stakeholders to contribute to the project that matches the preferences and styles of different people.
         * Offer as many community resources in as many languages and as many accessible formats as possible
         * Link to [DISCOVER cookbook](https://discover-cookbook.numfocus.org/intro.html)
         * Link to contributor diversity tooling Unconference group
 * Mentorship
-    * Definition: Guidance, or direction given to contributors by more established contributors or leadership in the service of having less experienced contributors have a successful experience and growth in the project.
+    * Definition: Guidance or direction given to contributors by more established contributors or leadership in the service of having less experienced contributors have a successful experience and growth in the project.
     * Definition 2: A relationship between two people that helps both of them grow via regular communication. Typically one is the mentor who has particular skills and experiences, and the other is the mentee, who has a particular goal for the relationship.
     * Components:
         * Assessment
@@ -377,7 +369,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Synchronous vs. asynchronous
     * Recommendations:
         * Try to remove language barriers
-        * Think about different audiences, define them and target proper level of advancement
+        * Think about different audiences, define them, and target the proper level of advancement
         * Consider modes of delivery of your training when designing it. Asynchronous vs. synchronous training may require different tooling, explanations, documentation, etc.
         * Ensure that training work isn't mostly performed by particular groups of people and that all groups have opportunities to be involved in all aspects of the project. (tied to managing people)
         * Recognize all contributors to training.
@@ -397,9 +389,9 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Brand awareness
     * Recommendations:
         * First step: Make sure that you have clearly defined your audience, and use that to guide every branding/marketing decision you make
-        * Provide clear definitions on who/what get authorship and attribution, rather than having unwritten rules about it.
+        * Provide clear definitions on who/what gets authorship and attribution, rather than having unwritten rules about it.
         * The people who do the work should get the credit for the work, and have the opportunity to be named in the marketing (e.g., authorship, being interviewed). These decisions should be made without considering people's membership in particular groups.
-        * Consider and examine what “work” you are considering valuable for attribution and recognition in your materials.
+        * Consider and examine what “work” you consider valuable for attribution and recognition in your materials.
         * Consider having external facing materials (e.g., a brand book) reviewed for cultural awareness
         * Have images that represent the project be meaningful and accurate
         * When using materials that are broadly disseminated, consider that symbols are not universal and things may not translate to audiences outside of your group.
@@ -409,27 +401,27 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
 
 ### Mission/Vision Category
 
-* Definition: The mission and vision statements should define what the project aims to achieve, its purpose, and its target audience and where it aims to be.  \
+* Definition: The mission and vision statements should define what the project aims to achieve, its purpose, its target audience, and where it aims to be.  \
 "Project" includes the community, code, software, and governance of a project.
 * Components:
     * What are the questions that you ask?
     * Strategic goals
     * Vision statement (where the project wants to be)
 * Recommendations:
-    * Consider weaving in aspects of inclusion, equity, and diversity to a mission and vision at the inception of a project or before significant growth happens ensures that the project can grow with these principles, rather than them being added later. These aspects are built into aspects of the project’s culture.
-    * Stating your project’s values explicitly and how they align with your mission and vision help reinforce and clarify your ideals of diversity and inclusion.
-    * Ensure that the group developing the mission/vision is representative not only of your stakeholder but also the stakeholders that you want to recruit including underrepresented groups
+    * Consider weaving in aspects of inclusion, equity, and diversity to a mission and vision at the inception of a project or before significant growth happens ensuring that the project can grow with these principles, rather than them being added later. These aspects are built into aspects of the project’s culture.
+    * Stating your project’s values explicitly and how they align with your mission and vision helps reinforce and clarify your ideals of diversity and inclusion.
+    * Ensure that the group developing the mission/vision is representative not only of your stakeholders but also of the stakeholders that you want to recruit including underrepresented groups
 
 ### Technical
 
 * Documentation
-    * Definition: Documentation refers to the set of written materials accompanying a software that describes how to use it, how it works, and how it is developed and maintained.
+    * Definition: Documentation refers to the set of written materials accompanying software that describes how to use it, how it works, and how it is developed and maintained.
     * Components:
         * User docs (Installation, how to get started)
         * Developer/technical docs (API, contribution documentation)
         * Narrative documentation (tutorials, how-to guides)
         * Release notes, changelog
-        * Design docs, taxonomy and definitions
+        * Design docs, taxonomy, and definitions
         * Terms of use
     * Recommendations
         * Translated documentation for different communities
@@ -437,7 +429,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Try to use inclusive language in your documentation. Don’t assume unique aspects of your audience’s individuality when
         * Accessibility for people with disabilities. Eg: visualization for people with disabilities, transcripts, follow something like WCAG Guidelines [https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/](https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/)
         * Having different documentation for different audiences (beginner, advanced, expert)
-        * Include links to CoC, technical standards and other relevant documents.
+        * Include links to CoC, technical standards, and other relevant documents.
         * Refer to [https://www.writethedocs.org/](https://www.writethedocs.org/)
         * Being able to compile documentation offline, with available directions on how to compile it - people in closed rooms or in the areas with very poor internet connection.
     * Resources:
@@ -452,10 +444,10 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Developer roadmap
     * Recommendations
         * Accessibility to Roadmap for OSS projects.
-        * Consider biases in constructing the roadmap, pay attention to developer roadmap but as well as  a community and strategic roadmap.
+        * Consider biases in constructing the roadmap, pay attention to the developer roadmap as well as  a community and strategic roadmap.
         * Make sure all stakeholders are contributing to the project roadmap
 * Hardware (e.g., OS)
-    * Definition: Includes a physical components of a computer that the software should work on [https://en.wikipedia.org/wiki/Computer_hardware](https://en.wikipedia.org/wiki/Computer_hardware)
+    * Definition: Includes the physical components of a computer that the software should work on [https://en.wikipedia.org/wiki/Computer_hardware](https://en.wikipedia.org/wiki/Computer_hardware)
     * Components:
         * CPU
         * GPU
@@ -471,7 +463,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Hardware independence - supporting different platforms
         * Ensure backward compatibility
         * Consider running your software on low cost hardware.
-        * Modular software with options to make sure a part of software can still run without specialized or high cost hardware.
+        * Modular software with options to make sure a part of the software can still run without specialized or high cost hardware.
 * Software (e.g., repo, CI/CD pipelines, quality/security measures, webhooks)
     * Definition: Set of computer programs and associated documentation and data /https://en.wikipedia.org/wiki/Software
     * Components:
@@ -484,7 +476,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
         * Accessibility requirements
     * Recommendations
         * Consider not having closed source dependencies
-        * Consider not being dependant on proprietary services
+        * Consider not being dependent on proprietary services
         * Keep old binaries accessible
         * Be cautious with metrics
         * Consider sharing metrics that demonstrate inclusion or diversity successes or challenges
@@ -502,7 +494,7 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
             * Oversampling and boosting bias data
             * Cultural bias
             * Features relying on gender, race, geolocation etc
-            * Fitting data to person worldview
+            * Fitting data to a person's worldview
             * Affirmation bias
         * Add versioning to data sources
         * Repeatability testing
@@ -510,25 +502,25 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
     * Definition: the means by which the project and its stakeholders communicate with each other
     * Components:
         * Email (One-on-One, group mailing lists)
-        * Chat tools (e.g., Slack, Discord, Rocket.Chat)
+        * Chat tools (e.g., Slack, Discord, Rocket.chat)
         * Developer forum (e.g., Discourse, Stack Overflow)
         * Social media
         * Newsletter
         * Source code repository files (e.g., README, CoC, Contributing)
         * Source code repository system (e.g., issues, PR discussion)
-        * Traditional media (newspapers, press releases, radio/tv, etc.)
+        * Traditional media (newspapers, press releases, radio/TV, etc.)
         * Blogs/videos
         * Scholarly activities (e.g., papers, talks)
     * Recommendations
         * Support asynchronous discussions to allow for diverse timezones and schedules
         * Support diverse channels to support the styles of different stakeholders
         * Use accessible channels and their features (e.g., alt text)
-        * Be sure to have a plan to remain engaged and monitor communications channels so that stakeholders are "heard"
+        * Be sure to have the plan to remain engaged and monitor communications channels so that stakeholders are "heard"
         * Develop guidelines for the project's use of channels, recognizing that community members have diverse schedules and needs that affect when and how they can use the channels (e.g., respond to messages)
         * Be certain that CoC is applied to all channels
-        * Develop a welcoming and inclusive culture for use of communications channels, such as using intentional language (e.g., avoiding slang, stereotypes, abbreviations, jargon)
+        * Develop a welcoming and inclusive culture for the use of communication channels, such as using intentional language (e.g., avoiding slang, stereotypes, abbreviations, and jargon)
         * Make communications public whenever possible, for inclusiveness
-* Release policies
+* Release Policies
     * Definition: The way new functionalities and product fixes are being released
     * Components:
         * Changelog
@@ -540,6 +532,12 @@ GenOSS: **Gen**eral Guidelines for an Inclusive **OSS** Project
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
+
+[^5]: [https://github.com/badging/project-diversity-and-inclusion](https://github.com/badging/project-diversity-and-inclusion)
+[^6]: [https://doctorow.medium.com/the-title-card-from-sumana-harihareswaras-github-talk-what-would-open-source-look-like-if-it-were-35b0360f8b89](https://doctorow.medium.com/the-title-card-from-sumana-harihareswaras-github-talk-what-would-open-source-look-like-if-it-were-35b0360f8b89)
+[^7]: [https://www.jmlr.org/mloss/mloss-info.html](https://www.jmlr.org/mloss/mloss-info.html)
+
+## References
 
 [^1]:
 
