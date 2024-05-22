@@ -22,16 +22,6 @@ The five co-authors commit to continuing the development of this resource and we
  - Demographic Data - Translated versions
  - Demographic Data - Recommendations for administering
 
-
-### Definitions
- - **Code contributor**: Once a person opens a pull request in a given project
- - **Non-code contributor**: A person who performs:
-   - Conference or event organization focused on open-source software
-   - Writing, editing and updating documentation
-   - UI/UX Design
-   - Operations activities that move forward the goals of a project, such as but not limited to: social media administration, communications administration, fundraising, governance
- - **Users**: A person who has downloaded software to complete a task in the past 12 months.
-
 ### Survey: Satisfaction Data
 
 #### Introduction
@@ -45,17 +35,15 @@ What can be done with results?
  - Compare year over the year NPS, create dashboard (pending - can we create a dashboard)
 
 #### Community: Targeted Respondents
-CONTRIBUTORS: People who contribute to an OS project. Contributions can be code, non code, or both. Contributors can also be users but for the purposes of this survey we’re asking them to evaluate their experience as Contributors. 
+CONTRIBUTORS: People who contribute to an OS project. CONTRIBUTIONS ARE NOT LIMITED TO CODE. Contributors can also be users but for the purposes of this survey we are asking them to evaluate their experience as Contributors.
  - Code contributor - a person who opens a pull request
- - Non-code contributor
-   - Organizers/speakers for events, meetings, conferences
-   - Writing, editing and updating documentation
-   - UI or UX Design
-   - Testing
-   - Operations activities that move forward the goals of a project, such as but not limited to: project management, social media administration, communications administration, fundraising, governance
- 
-USERS: People who use OS software but don’t contribute to it.
-Has used the software to perform a task in the past 12 months. 
+ - Organizers/speakers for events, meetings, conferences
+ - Writing, editing and updating documentation
+ - UI or UX Design
+ - Testing
+ - Operations activities that move forward the goals of a project, such as but not limited to: project management, social media administration, communications administration, fundraising, governance
+
+USERS: People who use software but do not contribute to it. Has used the software to perform a task in the past 12 months. 
 
 #### Documentation: How to conduct an NPS Survey
 
