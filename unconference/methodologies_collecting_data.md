@@ -22,6 +22,15 @@ The five co-authors commit to continuing the development of this resource and we
  - Demographic Data - Translated versions
  - Demographic Data - Recommendations for administering
 
+### Definitions
+ - **Code contributor**: Once a person opens a pull request in a given project
+ - **Non-code contributor**: A person who performs:
+   - Conference or event organization focused on open-source software
+   - Writing, editing and updating documentation
+   - UI/UX Design
+   - Operations activities that move forward the goals of a project, such as but not limited to: social media administration, communications administration, fundraising, governance
+ - **Users**: A person who has downloaded software to complete a task in the past 12 months.
+
 ### Survey: Satisfaction Data
 
 #### Introduction
