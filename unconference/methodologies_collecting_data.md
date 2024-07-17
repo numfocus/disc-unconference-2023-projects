@@ -22,7 +22,6 @@ The five co-authors commit to continuing the development of this resource and we
  - Demographic Data - Translated versions
  - Demographic Data - Recommendations for administering
 
-
 ### Definitions
  - **Code contributor**: Once a person opens a pull request in a given project
  - **Non-code contributor**: A person who performs:
@@ -35,7 +34,7 @@ The five co-authors commit to continuing the development of this resource and we
 ### Survey: Satisfaction Data
 
 #### Introduction
-Have you ever wondered how satisfied the contributors and users of your project are? Open Source communities do not have a standard mechanism for collecting feedback. We invite you to gather a new perspective and collect data with the goal of measuring satisfaction trends as a measure of the health of your project. 
+Have you ever wondered how satisfied the contributors and users of your project are? Open Source (OS) communities do not have a standard mechanism for collecting feedback. We invite you to gather a new perspective and collect data with the goal of measuring satisfaction trends as a measure of the health of your project. 
 
 The two surveys included here are designed for Open Source communities in mind. Gathering data is the best method to test assumptions and objectively measure how satisfied the community is. Satisfaction can be measured from two perspectives; the people who contribute and those who use the tool. 
 
@@ -45,16 +44,15 @@ What can be done with results?
  - Compare year over the year NPS, create dashboard (pending - can we create a dashboard)
 
 #### Community: Targeted Respondents
-CONTRIBUTORS: People who contribute to an OS project, this can be code, documentation or both. Contributors can also be users but for the purposes of this survey we’re asking them to evaluate their experience as Contributors. 
+CONTRIBUTORS: People who contribute to an OS project. CONTRIBUTIONS ARE NOT LIMITED TO CODE. Contributors can also be users but for the purposes of this survey we are asking them to evaluate their experience as Contributors.
  - Code contributor - a person who opens a pull request
- - Non-code contributor
-   - Organizers of events, meetings, conferences
-   - Writing, editing and updating documentation
-   - UI or UX Design
-   - Operations activities that move forward the goals of a project, such as but not limited to: social media administration, communications administration, fundraising, governance
- 
-USERS: People who use OS software but don’t contribute to it.
-Has downloaded software and completed a task in the past 12 months
+ - Organizers/speakers for events, meetings, conferences
+ - Writing, editing and updating documentation
+ - UI or UX Design
+ - Testing
+ - Operations activities that move forward the goals of a project, such as but not limited to: project management, social media administration, communications administration, fundraising, governance
+
+USERS: People who use software but do not contribute to it. Has used the software to perform a task in the past 12 months. 
 
 #### Documentation: How to conduct an NPS Survey
 
