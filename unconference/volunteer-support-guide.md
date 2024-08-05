@@ -26,7 +26,7 @@ The content of this guide can be adapted by individual organizations to help the
 management policies and procedures to reduce burnout and improve the experience of their volunteers.     
 
 ## Definitions
-*Volunteer* - someone who performs a service or work voluntarily, usually unpaid 
+*Volunteer* - those "who collaborate in libre software projects in their free time not profiting economically in a direct way from their effort." (Robles et al., 2005)
 *Burnout* - emotional or physical exhaustion, usually as a response to chronic emotional and interpersonal stressors on the job
 *Marginalized groups* - groups who historically have been underserved and undervalued, largely due to identity demographics
 (e.g. people who are BIPOC, women, gender minorities, etc.) 
