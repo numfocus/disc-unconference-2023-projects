@@ -27,7 +27,7 @@ msgstr ""
 
 #: ../../hidden-curriculum.md:3 a508369f782947708b0a56b1439b2e88
 msgid "Project description"
-msgstr "Projektbeschreibung"
+msgstr "Descripción del proyecto"
 
 #: ../../hidden-curriculum.md:4 a01496c3768b46409c6faf22c81f99ab
 msgid ""
@@ -187,7 +187,7 @@ msgstr ""
 
 #: ../../hidden-curriculum.md:49 d746053b6ec047fdae7513a97fe21b67
 msgid "The grant does not fit the remit of the call for proposals"
-msgstr "Der Zuschuss entspricht nicht dem Aufgabenbereich der Ausschreibung"
+msgstr "La subvención no se ajusta al ámbito de la convocatoria de propuestas"
 
 #: ../../hidden-curriculum.md:50 deb63f0a9d654732922cf610b2432e9e
 msgid "Writing and grammar skills"
@@ -400,7 +400,7 @@ msgstr "Entregables y métricas de éxito"
 
 #: ../../hidden-curriculum.md:108 444d4b86f8c14ca397d3ea6744658639
 msgid "Citation/references"
-msgstr "Citation/references"
+msgstr "Cita/referencias"
 
 #: ../../hidden-curriculum.md:109 47fac54848c44bc3a9ffd996d1d879ff
 msgid "Supporting materials"
@@ -710,7 +710,7 @@ msgstr ""
 
 #: ../../hidden-curriculum.md:192 b18bfcf6f793481d9a978b176e309cba
 msgid "Understand different ways of overcoming adversity while seeking funding"
-msgstr "Verstehen Sie verschiedene Möglichkeiten, Widrigkeiten bei der Suche nach Fördermitteln zu überwinden"
+msgstr "Comprender diferentes formas de superar la adversidad mientras se busca financiación"
 
 #: ../../hidden-curriculum.md:193 6f67e9ac039e47928908e87ad4c579d1
 msgid ""
@@ -726,7 +726,7 @@ msgstr ""
 
 #: ../../hidden-curriculum.md:197 b4471348929f4d09a30a9bc7c0fa5ece
 msgid "Further work"
-msgstr "Weitere Arbeiten"
+msgstr "Trabajo adicional"
 
 #: ../../hidden-curriculum.md:199 7781b12d3ecb40a8a322f595b9b28df3
 msgid ""
