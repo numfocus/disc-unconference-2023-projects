@@ -6,7 +6,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Python \n"
+"Project-Id-Version: Python\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-11 17:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -24,6 +24,8 @@ msgid ""
 "Knowhow: everything you wanted to know about applying for grants but "
 "didn't ask"
 msgstr ""
+"Knowhow: todo lo que querías saber sobre cómo solicitar subvenciones pero "
+"no pregunté"
 
 #: ../../hidden-curriculum.md:3 a508369f782947708b0a56b1439b2e88
 msgid "Project description"
@@ -36,18 +38,26 @@ msgid ""
 "funders and potential grantees from different income levels can engage "
 "fairly."
 msgstr ""
+"**Descripción**: Creación colaborativa de un plan de estudios y entrenamiento"
+"programa para garantizar que el \"currículum oculto\" esté menos oculto, de modo que "
+"Los financiadores y posibles beneficiarios de diferentes niveles de ingresos pueden participar "
+"equitativamente."
 
 #: ../../hidden-curriculum.md:6 64e012294a904456b3103626255bb748
 msgid ""
 "**Proposed outcome**: Project proposal to share with global north "
 "philanthropy looking to make a difference in the global south"
 msgstr ""
+"**Resultado propuesto**: Propuesta de proyecto para compartir con el norte global"
+"filantropía que busca marcar la diferencia en el sur global"
 
 #: ../../hidden-curriculum.md:8 1dcb310f60b34c8cad7fd1afcbacf512
 msgid ""
 "**Value added**: Levelling the playing field with regards to access to "
 "resources"
 msgstr ""
+"**Valor añadido**: Nivelar el campo de juego con respecto al acceso a "
+"recursos"
 
 #: ../../hidden-curriculum.md:11 6cc386c4f382424da3743e0c4ebaa977
 msgid "Dictionary"
@@ -55,16 +65,27 @@ msgstr "Diccionario"
 
 #: ../../hidden-curriculum.md:13 5fd9c5d1403b47dfbfca9ba1ecf10383
 msgid ""
-"**LMIC:** Low to medium income countries   **HIC:** High income countries"
-"   **ROI:** return on investment   **CC:** Creative Commons   **CC-BY:** "
-"Creative Commons, attribution   **CC BY-NC:** Creative Commons, "
-"attribution, non-commercial    **DOI:** Digital Object Identifier   "
-"**RFA:**  Request for application. Also known as CFP, Call for Proposal."
-"   **DEI:** Diversity, Equity, Inclusion. Also known as IDEA (A for "
-"accessibility), EDI, and JEDI (J for Justice).   **Whisper network:** "
-"similar to hidden curriculum, information shared by an ingroup or clique "
-"that is inaccessible to the general population"
+"**LMIC:** Low to medium income countries "
+"**HIC:** High income countries "
+"**ROI:** return on investment "
+"**CC:** Creative Commons " 
+"**CC-BY:** Creative Commons, attribution   
+"**CC BY-NC:** Creative Commons, attribution, non-commercial "  
+"**DOI:** Digital Object Identifier "
+"**RFA:**  Request for application. Also known as CFP, Call for Proposal. "
+"**DEI:** Diversity, Equity, Inclusion. Also known as IDEA (A for "accessibility), EDI, and JEDI (J for Justice). "   
+"**Whisper network:** similar to hidden curriculum, information shared by an ingroup or clique that is inaccessible to the general population."
 msgstr ""
+"**PIMB:** Países de ingresos bajos a medios "
+"**HIC:** Países de altos ingresos "
+"**ROI:** retorno de la inversión "
+"**CC:** Creative Commons" 
+"**CC-BY:** Creative Commons, atribución   
+"**CC BY-NC:** Creative Commons, atribución, no comercial"  
+"**DOI:** Identificador de objeto digital "
+"**RFA:** Solicitud de solicitud. También conocida como CFP, Convocatoria de propuestas. "
+"**DEI:** Diversidad, Equidad, Inclusión. También conocida como IDEA (A de "accesibilidad), EDI y JEDI (J de Justicia). "   
+"**Red de susurros:** similar al plan de estudios oculto, información compartida por un grupo o camarilla que es inaccesible a la población general".
 
 #: ../../hidden-curriculum.md:24 071fda64fa9b483d9ae4264eecf255f3
 msgid "Participants"
@@ -75,6 +96,8 @@ msgid ""
 "Yo Yehudi, Laura Ación, Barbara Wilk, Jesica Formoso, Jessica Greene, "
 "Kate Hertweck, Tania Allard, Mariana Meireles"
 msgstr ""
+"Yo Yehudi, Laura Ación, Barbara Wilk, Jesica Formoso, Jessica Greene, "
+"Kate Hertweck, Tania Allard, Mariana Meireles"
 
 #: ../../hidden-curriculum.md:27 ../../hidden-curriculum.md:47
 #: 9ec99e1b132b4edea558a85b9835e5f6 d52a7a1a8a7a485990303f771bf472a9
@@ -87,22 +110,35 @@ msgstr "María (ella/ella)"
 
 #: ../../hidden-curriculum.md:30 90841b79fba04b57b50e76ca43707616
 msgid ""
-"Maria is in her early 30s. She was born and raised in Bolivia but works "
-"and lives in Argentina. She obtained an undergraduate degree in "
-"psychology in Bolivia and PhD in psychology in Argentina. She currently "
-"works as a postdoctoral researcher. Maria's goals are to obtain research "
-"grants to perform research, although she can’t pay herself from a grant. "
-"In her line of work international grants are preferred, since local funds"
-" are more restrictive. Her professional interests are neuroscience, "
-"cognitive development and working memory, as well as open science (data "
-"sharing and aggregation/interoperability). Maria has received local "
-"grants before, but none from other countries. Personal challenges that "
-"Maria is facing include a high cost of living in her home city, which is "
-"even harder because she sends money home to her family. Her professional "
-"challenges: she doesn’t know how to get started applying to international"
-" grants, and is not supported by her host institution in applying "
-"internationally."
+"Maria is in her early 30s. She was born and raised in Bolivia but works and "
+"lives in Argentina. She obtained an undergraduate degree in "
+"psychology in Bolivia and a PhD in psychology in Argentina. She currently works as a "
+"postdoctoral researcher. Maria's goals are to obtain research grants to "
+"perform research, although she can’t pay herself from a grant. In her line "
+"of work, international grants are preferred, since local funds are more "
+"restrictive. Her professional interests are neuroscience, cognitive "
+"development and working memory, as well as open science (data sharing and "
+"aggregation/interoperability). Maria has received local grants before, but "
+"none from other countries. Personal challenges that Maria is facing include "
+"a high cost of living in her home city, which is because she "
+"sends money home to her family. Her professional challenges:  "
+"she doesn’t know how to get started applying to international grants, and"
+"is not supported by her host institution in applying interantionally. "
 msgstr ""
+"María tiene poco más de 30 años. Nació y creció en Bolivia pero trabaja y "
+"vive en Argentina. Obtuvo una licenciatura en "
+"psicología en Bolivia y un doctorado en psicología en Argentina. Actualmente se desempeña como "
+"investigadora postdoctoral. Los objetivos de María son obtener becas de investigación para "
+"realizar investigaciones, aunque no puede pagarse con una subvención. En su línea "
+"De trabajo, se prefieren las subvenciones internacionales, ya que los fondos locales son más "
+"restrictivo. Sus intereses profesionales son la neurociencia, cognitiva "
+"desarrollo y memoria de trabajo, así como ciencia abierta (intercambio de datos y "
+"agregación/interoperabilidad). María ha recibido subvenciones locales antes, pero "
+"Ninguno de otros países. Los desafíos personales que María enfrenta incluyen "
+"un alto costo de vida en su ciudad natal, que se debe a que ella "
+"envía dinero a su familia. Sus desafíos profesionales: "
+"no sabe cómo empezar a solicitar subvenciones internacionales y"
+"no cuenta con el apoyo de su institución anfitriona para solicitar subvenciones internacionales".
 
 #: ../../hidden-curriculum.md:32 5b4797ed48664b3d83ac02aa79289233
 msgid "Aleksey (they/them)"
@@ -132,6 +168,27 @@ msgid ""
 "home means grants are perceived as risky, and 2) Aleksey is still "
 "learning how to engage fully in open science practices."
 msgstr ""
+"Aleksey tiene poco más de 50 años, nació y creció en Ucrania, donde también "
+"Actualmente vive y trabaja. Es genetista de formación, trabaja con "
+"moscas de la fruta. Aleksey está a mitad de su carrera y trabaja como investigador asociado "
+"Científico (un puesto permanente y permanente) en Kiev/Kiev. Su objetivo es "
+"ampliarse hacia nuevos métodos experimentales dentro de una investigación de larga duración"
+"programar y recibir subvenciones para dedicarse a la investigación (no pueden recibir "
+"salario de subvenciones). La financiación pagaría un asistente de investigación de doctorado o "
+"posdoctorado, así como pagar recursos para realizar actividades de investigación".
+"Sus intereses profesionales incluyen la genética molecular y la biología celular",
+"Enfermedades raras, con modelado computacional (pero no con código abierto ".
+"software). Aleksey ha recibido subvenciones locales antes pero fracasó en "
+"obtener financiación de un financiador internacional, como era su propuesta"
+"mal calibrado para la solicitud). Aleksey es una persona con discapacidad ",
+"necesita tecnología de asistencia de voz y también es padre de dos hijos"
+"adolescentes. Los desafíos relacionados con la obtención de una beca internacional "
+"incluir idioma (la lengua nativa de Aleksey, el ucraniano, tiene cirílico"
+"alfabeto), que presenta una barrera para enviar en inglés y "
+"colaborar internacionalmente. Desafíos para postularse con éxito "
+"La financiación de subvenciones incluye: 1) la inestabilidad geopolítica actual en Aleksey"
+"En casa significa que las subvenciones se perciben como riesgosas, y 2) Aleksey todavía lo es "
+"aprender a participar plenamente en prácticas científicas abiertas".
 
 #: ../../hidden-curriculum.md:37 c40451579afd4e1f938c4612e582b6e9
 msgid "Mohamed (he/him)"
@@ -139,14 +196,14 @@ msgstr "Mohamed (él/él)"
 
 #: ../../hidden-curriculum.md:39 1c63def8ce624e20b84600d199fd5c01
 msgid ""
-"Mohamed (he/him) is in his mid twenties. He is from Mali where he lives "
+"Mohamed is in his mid twenties. He is from Mali where he lives "
 "with his parents and several siblings. He has sporadic ad-hoc income and "
-"is a freelancer. He is a native French speaker with basic English "
-"knowledge. He has completed some undergraduate courses at the university "
+"is a freelancer. He is a native French speaker with basic English knowledge. "
+"He has completed some undergraduate courses at the university "
 "and has engineering background. He leads a citizen-driven grassroots "
 "organization that performs investigative journalism, reporting on "
 "governmental policies around ecological issues like environmental "
-"sustainability and climate change, and social issues like femicides. "
+"sustainability, climate change, and social issues like femicides. "
 "Mohamed’s goals are to find a way to have the grassroots organisation "
 "become sustainable, including paying wages to staff and supporting "
 "infrastructure like cloud computing and computers. He would also like to "
@@ -154,10 +211,28 @@ msgid ""
 "Mohamed has never received any grant before (neither local or "
 "international). Mohamed doesn’t know where to find grants and lacks "
 "familiarity with the administrative process involved; moreover, he has no"
-" experience in designing large-scale research projects. Some of the "
+"experience in designing large-scale research projects. Some of the "
 "questions Mohamed has are: What are the requirements of a donor? How do I"
-" report to them? How can I use the money? How do I pay people?"
+"report to them? How can I use the money? How do I pay people?"
 msgstr ""
+"Mohamed tiene veintitantos años. Es de Mali, donde vive"
+"con sus padres y varios hermanos. Tiene ingresos esporádicos ad hoc y "
+"Es un profesional independiente. Es un hablante nativo de francés con conocimientos básicos de inglés. "
+"Ha completado algunos cursos de pregrado en la universidad"
+"y tiene experiencia en ingeniería. Dirige una organización de base impulsada por los ciudadanos "
+"organización que realiza periodismo de investigación, informando sobre"
+"políticas gubernamentales en torno a cuestiones ecológicas como el medio ambiente"
+"sostenibilidad, cambio climático y cuestiones sociales como los feminicidios".
+"El objetivo de Mohamed es encontrar la manera de tener organización de base"
+"volverse sostenible, incluido el pago de salarios al personal y el apoyo "
+"infraestructura como computación en la nube y computadoras. También le gustaría "
+"recibir becas de viaje para apoyar el periodismo de investigación adicional".
+"Mohamed nunca antes había recibido ninguna subvención (ni local ni "
+"internacional). Mohamed no sabe dónde encontrar subvenciones y le falta "
+"familiaridad con el proceso administrativo involucrado; además, no tiene"
+"experiencia en el diseño de proyectos de investigación a gran escala. Algunos de los "
+"Las preguntas que tiene Mohamed son: ¿Cuáles son los requisitos de un donante? ¿Cómo lo hago?"
+"¿Informarles? ¿Cómo puedo usar el dinero? ¿Cómo le pago a la gente?"
 
 #: ../../hidden-curriculum.md:41 e9bb509c2b284a238e381d4b4a2c1917
 msgid "Learning modules"
@@ -165,9 +240,9 @@ msgstr "Módulos de aprendizaje"
 
 #: ../../hidden-curriculum.md:43 51c1db66973e4efb800a2e5fdec292b8
 msgid ""
-"Module 1: Scope of the curriculum - who is this resource for and how to "
-"use it"
+"Module 1: Scope of the curriculum - who is this resource for and how to use it"
 msgstr ""
+"Módulo 1: Alcance del plan de estudios: para quién es este recurso y cómo utilizarlo"
 
 #: ../../hidden-curriculum.md:45 697a927c866a4e0f82078590cde1c3ea
 msgid "Why are we doing this (mission statement)"
@@ -175,15 +250,17 @@ msgstr "¿Por qué estamos haciendo esto (declaración de misión)?"
 
 #: ../../hidden-curriculum.md:46 2180a835e00f464094807a57c0fa7093
 msgid ""
-"How these materials can be used (teaching material), licensing (CC-BY-"
-"NC), attribution"
+"How these materials can be used (teaching material), licensing (CC-BY-NC), attribution"
 msgstr ""
+"Cómo se pueden utilizar estos materiales (material didáctico), licencia (CC-BY-NC), atribución"
 
 #: ../../hidden-curriculum.md:48 e16a796afc6b4ea585ebc621ab25bb32
 msgid ""
-"Overview of problems when applying for grants (challenges these materials"
-" will address)"
+"Overview of problems when applying for grants: "
+"(challenges these materials will address)"
 msgstr ""
+"Resumen de los problemas al solicitar subvenciones: "
+"(desafíos que abordarán estos materiales)"
 
 #: ../../hidden-curriculum.md:49 d746053b6ec047fdae7513a97fe21b67
 msgid "The grant does not fit the remit of the call for proposals"
@@ -214,6 +291,8 @@ msgid ""
 "Comprehensive overview of grant writing (there are other grant writing "
 "workshops, and this won’t cover discipline-specific considerations)"
 msgstr ""
+"Descripción general completa de la redacción de subvenciones (hay otras redacción de subvenciones"
+"talleres, y esto no cubrirá consideraciones específicas de la disciplina)"
 
 #: ../../hidden-curriculum.md:56 be8f4ec8f29f49209dc271ab42fa2bba
 msgid ""
@@ -221,12 +300,17 @@ msgid ""
 "(community management, managing personnel), and planning for "
 "organizational sustainability"
 msgstr ""
+"Información completa sobre gestión y liderazgo de programas/proyectos"
+"(gestión comunitaria, gestión de personal) y planificación de "
+"sostenibilidad organizacional"
 
 #: ../../hidden-curriculum.md:58 a7789d6c7f3344b3b682cdae72991101
 msgid ""
 "*Module 1 learning objectives:*  At the end of this module, learners "
 "should be able to:"
 msgstr ""
+"*Objetivos de aprendizaje del Módulo 1:* Al final de este módulo, los alumnos "
+"debería poder:"
 
 #: ../../hidden-curriculum.md:60 e8b9761fb218497aa811809786a10b43
 msgid "Understand the scope of this curriculum"
@@ -242,9 +326,11 @@ msgstr "Reconocer el público objetivo de este contenido"
 
 #: ../../hidden-curriculum.md:63 07d655b6720f4e7a99b92a5d0126cd70
 msgid ""
-"Identify common issues while seeking funding that this curriculum will "
-"address"
+"Identify common issues while seeking funding "
+"that this curriculum will address"
 msgstr ""
+"Identificar problemas comunes al buscar financiación"
+"que este plan de estudios abordará"
 
 #: ../../hidden-curriculum.md:66 46f23b7c10e645d5ae196dd186be9e6b
 msgid "Module 2: Preparing to apply for grants"
@@ -267,6 +353,8 @@ msgid ""
 "Meeting and getting to know funders (building trust, learning about "
 "program priorities)"
 msgstr ""
+"Reunirse y conocer a los financiadores (generar confianza, aprender sobre "
+"prioridades del programa)"
 
 #: ../../hidden-curriculum.md:72 804882a7b6c943ee91b9605474143d55
 msgid "Building a professional brand"
@@ -309,6 +397,8 @@ msgid ""
 "Finding or learning if you need to create an organization to support you "
 "(fiscal sponsorship)"
 msgstr ""
+"Encontrar o aprender si necesitas crear una organización que te apoye"
+"(patrocinio fiscal)"
 
 #: ../../hidden-curriculum.md:82 2e3f0b1519364ab391de2621644dbb58
 msgid "Finding supporters that will give you help/feedback for your proposal"
@@ -331,6 +421,8 @@ msgid ""
 "*Module 2 learning objectives:*  At the end of this module, learners "
 "should be able to:"
 msgstr ""
+"*Objetivos de aprendizaje del módulo 2:* Al final de este módulo, los alumnos "
+"deberían poder:"
 
 #: ../../hidden-curriculum.md:89 f06a44f96da340678e456e3652fcb2da
 msgid "Identify grant opportunities for which they are eligible"
@@ -346,9 +438,11 @@ msgstr "Comprenda los requisitos básicos que debe cumplir para una solicitud de
 
 #: ../../hidden-curriculum.md:92 3f2b382d201f476190899cede59e29a8
 msgid ""
-"Decypher the RFA specifics and translate them into actionable application"
-" tasks"
+"Decipher the RFA specifics and translate them into "
+"actionable application tasks"
 msgstr ""
+"Descifre los detalles de la RFA y tradúzcalos al "
+"tareas de aplicación procesables"
 
 #: ../../hidden-curriculum.md:95 eb89e67d75e9420ca8d4d79595a4617c
 msgid "Module 3: Preparing a proposal"
@@ -463,30 +557,40 @@ msgid ""
 "From folks within your field and beyond your field - until you are "
 "proficient enough to be your own reviewer"
 msgstr ""
+"De personas dentro y fuera de su campo, hasta que usted sea "
+"lo suficientemente competente como para ser su propio revisor"
 
 #: ../../hidden-curriculum.md:125 94651cc42c824cbeb2eb947aa1585a22
 msgid ""
 "*Module 3 learning objectives:*  At the end of this module, learners "
 "should be able to:"
 msgstr ""
+"*Objetivos de aprendizaje del Módulo 3:* Al final de este módulo, los alumnos "
+"debería poder:"
 
 #: ../../hidden-curriculum.md:127 d6dc49dcd0bb4887b434c4ce52e0298c
 msgid ""
-"Prepare a template to cover text-based grant proposal documents, tailored"
-" to the needs of a grant funder and/or grant call;"
+"Prepare a template to cover text-based grant proposal documents, "
+"tailored to the needs of a grant funder and/or grant call;"
 msgstr ""
+"Prepare una plantilla para cubrir los documentos de propuesta de subvención basados en texto, "
+"adaptada a las necesidades de un financiador de subvención y/o convocatoria de subvención;"
 
 #: ../../hidden-curriculum.md:128 ee21675dd3834b93b2c817f82bd63bcc
 msgid ""
 "Define a scope of work alongside collaborators, and incorporate it into a"
-" grant narrative;"
+"grant narrative;"
 msgstr ""
+"Definir un ámbito de trabajo junto a los colaboradores e incorporarlo en una "
+"narrativa de subvención;"
 
 #: ../../hidden-curriculum.md:129 7fde583079cc445c9a469d528258415a
 msgid ""
 "Identify and comply to the learner’s organizational requirements for "
 "grantmaking;"
 msgstr ""
+Identificar y cumplir con los requisitos organizacionales del alumno para la "
+"concesión de subvenciones;"
 
 #: ../../hidden-curriculum.md:130 488d49e617de43a19d8c43bb18d944a0
 msgid "Create detailed and realistic project timelines and staffing estimates"
@@ -501,12 +605,16 @@ msgid ""
 "Creating your own budget, using a provided template, or using an "
 "institutional template"
 msgstr ""
+"Crear su propio presupuesto, usar una plantilla proporcionada o usar un "
+"plantilla institucional"
 
 #: ../../hidden-curriculum.md:136 6264e48a329145489363e8ac9b3b196d
 msgid ""
 "How to charge for staff time (salary, contractors, fringe/benefits), "
 "adjust for inflation"
 msgstr ""
+"Cómo cobrar por el tiempo del personal (salario, contratistas, beneficios adicionales) "
+"ajustar por inflación"
 
 #: ../../hidden-curriculum.md:137 f1810f749ae144d2adf40e93e9fb59b1
 msgid "Overheads and indirect costs"
@@ -529,30 +637,40 @@ msgid ""
 "*Module 4 learning objectives:* At the end of this module, learners "
 "should be able to:"
 msgstr ""
+"*Objetivos de aprendizaje del Módulo 4:* Al final de este módulo, los alumnos "
+"debería poder:"
 
 #: ../../hidden-curriculum.md:144 43a447c283434098adae4b30e9286ea6
 msgid ""
 "Create a basic budget with categories and formatting suitable for "
 "submission to a funder"
 msgstr ""
+"Crea un presupuesto básico con categorías y formato adecuado para "
+"presentación a un financiador"
 
 #: ../../hidden-curriculum.md:145 aa23d4ec63e54f1dba8721f99bcb105a
 msgid ""
-"Avoid under-budgeting by proposing adequate budget for inflation and "
-"contingencies"
+"Avoid under-budgeting by proposing adequate budget for "
+"inflation and contingencies"
 msgstr ""
+"Evite la subpresupuestación proponiendo un presupuesto adecuado para "
+"inflación y contingencias"
 
 #: ../../hidden-curriculum.md:146 3aec1f00ac4e49b9b804a7b5015cf94b
 msgid ""
 "Describe current and pending support in a way that is meaningful for "
 "grant review"
 msgstr ""
+"Describe el soporte actual y pendiente de una manera que sea significativa para "
+"revisión de subvenciones"
 
 #: ../../hidden-curriculum.md:147 d6348f6a57ef47f191f096cdc8cc5f08
 msgid ""
 "Understand indirect costs, including what your organization requires and "
 "what a funder allows"
 msgstr ""
+"Comprenda los costos indirectos, incluido lo que su organización requiere y "
+"lo que permite un financiador"
 
 #: ../../hidden-curriculum.md:150 9002e1e729a3431a88c93716654bae9e
 msgid "Module 5: You got the grant - now what?"
@@ -587,12 +705,16 @@ msgid ""
 "*Module 5 learning objectives:*  At the end of this module, learners "
 "should be able to:"
 msgstr ""
+"*Objetivos de aprendizaje del Módulo 5:* Al final de este módulo, los alumnos "
+"debería poder:"
 
 #: ../../hidden-curriculum.md:160 bd94f5842bb54ace8238062d59c8d1e3
 msgid ""
-"Identify obligations for communicating with the funder after receiving a "
-"grant award notification"
+"Identify obligations for communicating with the funder after receiving "
+"a grant award notification"
 msgstr ""
+"Identificar obligaciones para comunicarse con el financiador después de recibir "
+"una notificación de concesión de subvención"
 
 #: ../../hidden-curriculum.md:161 d5b98d0991044a4580ee6f8b448afc46
 msgid "Approach funder for adjustments to grant budget, personnel, or timeline"
@@ -603,12 +725,16 @@ msgid ""
 "Track and prepare required materials for reporting grant outcomes to a "
 "funder"
 msgstr ""
+"Seguimiento y preparación de los materiales necesarios para informar los resultados de la subvención a un "
+"financiador"
 
 #: ../../hidden-curriculum.md:165 ba502e2a86a346d8bb31fff701de5762
 msgid ""
-"Module 6: Cross-institution collaboration (pre and post-award), advanced "
-"topics"
+"Module 6: Cross-institution collaboration (pre and post-award), 
+"advanced topics"
 msgstr ""
+"Módulo 6: Colaboración interinstitucional (pre y post-adjudicación), 
+"temas avanzados"
 
 #: ../../hidden-curriculum.md:166 8ea789d150964d15ac27938f9a89047f
 msgid "Building a consortium"
@@ -619,6 +745,8 @@ msgid ""
 "Governance in consortia (e.g., value alignment, publication policies, "
 "licencing, code of conduct)"
 msgstr ""
+"Gobernanza en consorcios (por ejemplo, alineación de valores, políticas de publicación",
+"licencias, código de conducta)"
 
 #: ../../hidden-curriculum.md:168 41b0953e75c14b4db2caf0af2dc6fb6b
 msgid "Subawards"
@@ -629,18 +757,24 @@ msgid ""
 "*Module 6 learning objectives:*  At the end of this module, learners "
 "should be able to:"
 msgstr ""
+"*Objetivos de aprendizaje del Módulo 6:* Al final de este módulo, los alumnos "
+"debería poder:"
 
 #: ../../hidden-curriculum.md:172 451f2af5d0f84040a2d73abbc449f7f7
 msgid ""
 "Negotiate relationships, obligations, and required documentation with "
 "collaborators at other institutions as a part of application preparation"
 msgstr ""
+"Negociar relaciones, obligaciones y documentación requerida con "
+"colaboradores de otras instituciones como parte de la preparación de la solicitud"
 
 #: ../../hidden-curriculum.md:173 95d5bf88478a4ab1aba9e68151c5b84e
 msgid ""
 "Coordinate decision-making and synchronization with grant partners while "
 "engaging in funded work"
 msgstr ""
+"Coordinar la toma de decisiones y la sincronización con los socios de la subvención mientras"
+"participar en un trabajo financiado"
 
 #: ../../hidden-curriculum.md:174 4a6eb33f2c454f14b70a6f8fe4a165d6
 msgid "Administer subawards for collaborative proposals"
@@ -661,14 +795,18 @@ msgstr "Manejo de reenvíos"
 #: ../../hidden-curriculum.md:181 8ebc8982d08f47298ec62ca19cef85a2
 msgid ""
 "Explaining to funders/reviewers limitations with your institution/country"
-" that they may not know about"
+"that they may not know about"
 msgstr ""
+"Explicar a los financiadores/revisores las limitaciones de su institución/país"
+"que tal vez no sepan"
 
 #: ../../hidden-curriculum.md:182 c6fb56fef2d549de99829dbb57fec783
 msgid ""
-"Knowing your reviewers/funders and writing at a level they can understand"
-" your message"
+"Knowing your reviewers/funders and writing at a level "
+"they can understandyour message"
 msgstr ""
+"Conozca a sus revisores/financiadores y escriba a un nivel "
+"ellos pueden entender su mensaje"
 
 #: ../../hidden-curriculum.md:183 0fc03896c4ba4dd9a8427f5ae402db29
 msgid "Copyright, plagiarism, ChatGPT"
@@ -687,6 +825,8 @@ msgid ""
 "Eligibility and restrictions on personnel and funding "
 "(solicitation/funder specific)"
 msgstr ""
+"Elegibilidad y restricciones de personal y financiación "
+"(solicitud/específico del financiador)"
 
 #: ../../hidden-curriculum.md:187 d3a2ede49c8a4c1d81a4cf48e8238f14
 msgid ""
@@ -695,18 +835,26 @@ msgid ""
 "philanthropic or governmental funding; however some knowledge can be "
 "transferable to VC and industry funding at your own discretion)"
 msgstr ""
+"Capital de riesgo (VC) y/o financiación industrial (el objetivo principal de este plan de estudios)
+"La intención es apoyar a los investigadores y organizaciones que soliciten "
+"financiación filantrópica o gubernamental; sin embargo, algunos conocimientos pueden ser "
+"transferible a capital de riesgo y financiación de la industria a su propia discreción)"
 
 #: ../../hidden-curriculum.md:188 643cee28e00d4a788aa54000e68e4b83
 msgid ""
 "Funding to an individual (instead of an  institution) such as some "
 "fellowships and contract-based awards"
 msgstr ""
+"Financiamiento a un individuo (en lugar de una institución) como algunos "
+"becas y premios por contrato"
 
 #: ../../hidden-curriculum.md:190 6899bf33d8e7421a9ed6aae65bc4b810
 msgid ""
 "*Module 7 learning objectives:* At the end of this module, learners "
 "should be able to:"
 msgstr ""
+"*Objetivos de aprendizaje del Módulo 7:* Al final de este módulo, los alumnos "
+"debería poder:"
 
 #: ../../hidden-curriculum.md:192 b18bfcf6f793481d9a978b176e309cba
 msgid "Understand different ways of overcoming adversity while seeking funding"
@@ -714,15 +862,17 @@ msgstr "Comprender diferentes formas de superar la adversidad mientras se busca 
 
 #: ../../hidden-curriculum.md:193 6f67e9ac039e47928908e87ad4c579d1
 msgid ""
-"Strengthen the ability to effectively communicate with reviewers and "
-"funders"
+"Strengthen the ability to effectively communicate with reviewers and funders"
 msgstr ""
+"Fortalecer la capacidad de comunicarse eficazmente con revisores y financiadores"
 
 #: ../../hidden-curriculum.md:194 a6c913f307084fcfb13453c64c270205
 msgid ""
 "Overcome some common limitations when applying for funding as a resident "
 "of an LMIC or marginalized group."
 msgstr ""
+"Supere algunas limitaciones habituales a la hora de solicitar financiación como residente"
+"de un PIBM o grupo marginado".
 
 #: ../../hidden-curriculum.md:197 b4471348929f4d09a30a9bc7c0fa5ece
 msgid "Further work"
@@ -730,13 +880,16 @@ msgstr "Trabajo adicional"
 
 #: ../../hidden-curriculum.md:199 7781b12d3ecb40a8a322f595b9b28df3
 msgid ""
-"These materials are available under a [CC-BY-"
-"NC](https://creativecommons.org/licenses/by-nc/2.0/) license."
+"These materials are available under a [CC-BY-NC]("
+"https://creativecommons.org/licenses/by-nc/2.0/) license."
 msgstr ""
+"Estos materiales están disponibles bajo [CC-BY-NC]("
+"https://creativecommons.org/licenses/by-nc/2.0/) licencia".
 
 #: ../../hidden-curriculum.md:201 4cd4054e064e4cbb82a0fa7cedbd5e59
 msgid ""
 "This project will be developed after the workshop by OLS in [this "
 "repository](https://github.com/open-life-science/knowhow)."
 msgstr ""
-
+"Este proyecto se desarrollará después del taller de OLS en [este "
+"repositorio](https://github.com/open-life-science/knowhow)".
