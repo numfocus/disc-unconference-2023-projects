@@ -1,5 +1,10 @@
 # DISC Unconference 2023 - Project outputs
+
 A collection of outputs from the projects created at the DISC Unconference 2023.
+
+## Contributing to this repository
+
+If you find typos, incomplete or misleading instructions, or have suggestions for improvements to this template, open an issue at the [numfocus/disc-unconference-2023-projects](https://github.com/numfocus/disc-unconference-2023-projects) repo.
 
 ## How to build and visualize these documents
 
@@ -63,7 +68,3 @@ needed with `gettext` as shown above. `-l` flag is what indicates what languages
 created/updated.
 
 The content can then be translated: locally with poedit or via transifex/crowdin?
-
-## Contributing to this repository
-
-If you find typos, incomplete or misleading instructions, or have suggestions for improvements to this template, open an issue at the [numfocus/disc-unconference-2023-projects](https://github.com/numfocus/disc-unconference-2023-projects) repo.
