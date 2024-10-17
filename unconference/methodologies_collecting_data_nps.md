@@ -14,6 +14,9 @@ subset of those gathered who were keen on metrics and data. We invite you to
 gather a new perspective and collect data with the goal of measuring
 satisfaction trends as a measure of the health of your project.
 
+**What is Net Promoter Score (NPS)? What is the goal of measuring NPS?**
+[needs additional context]
+
 **What can be done with results?**
 
 - Identify the reasons why your contributors and users are detractors of your
@@ -118,7 +121,7 @@ be conducted more than once in order to be valuable.
 
 - Anavelyz Perez (Open Science Lab) and Ana Ruvalcaba (Project Jupyter) lead on
   this work and plan to continue collaborating and sharing their experiences
-  with any pilot programs which may be hosted... Perez and Ruvalcaba will work
+  with any pilot programs which may be hosted. Perez and Ruvalcaba will work
   together to continue refining the documentation.
 - If you have conducted an NPS survey in any context or you would like to join
   us please open an issue.
