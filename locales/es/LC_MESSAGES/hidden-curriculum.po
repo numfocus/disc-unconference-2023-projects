@@ -196,7 +196,7 @@ msgstr "Mohamed (él)"
 
 #: ../../hidden-curriculum.md:39 1c63def8ce624e20b84600d199fd5c01
 msgid ""
-"Mohamed is in his mid twenties. He is from Mali where he lives "
+"Mohamed (he/him) is in his mid twenties. He is from Mali where he lives "
 "with his parents and several siblings. He has sporadic ad-hoc income and "
 "is a freelancer. He is a native French speaker with basic English knowledge. "
 "He has completed some undergraduate courses at the university "
