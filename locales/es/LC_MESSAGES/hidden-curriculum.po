@@ -24,8 +24,8 @@ msgid ""
 "Knowhow: everything you wanted to know about applying for grants but "
 "didn't ask"
 msgstr ""
-"Knowhow: todo lo que querías saber sobre cómo solicitar subvenciones pero "
-"no pregunté"
+"Knowhow: todo lo que querrías saber sobre cómo solicitar subvenciones pero "
+"no preguntaste"
 
 #: ../../hidden-curriculum.md:3 a508369f782947708b0a56b1439b2e88
 msgid "Project description"
