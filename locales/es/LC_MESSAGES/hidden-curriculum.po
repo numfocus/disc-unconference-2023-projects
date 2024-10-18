@@ -60,8 +60,8 @@ msgstr ""
 "recursos"
 
 #: ../../hidden-curriculum.md:11 6cc386c4f382424da3743e0c4ebaa977
-msgid "Dictionary"
-msgstr "Diccionario"
+msgid "Dictionary:"
+msgstr "Diccionario:"
 
 #: ../../hidden-curriculum.md:13 5fd9c5d1403b47dfbfca9ba1ecf10383
 msgid ""
