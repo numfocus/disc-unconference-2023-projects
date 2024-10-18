@@ -251,7 +251,8 @@ msgstr "¿Por qué estamos haciendo esto (declaración de misión)?"
 
 #: ../../hidden-curriculum.md:46 2180a835e00f464094807a57c0fa7093
 msgid ""
-"How these materials can be used (teaching material), licensing (CC-BY-NC), attribution"
+"How these materials can be used (teaching material), licensing (CC-BY-"
+"NC), attribution"
 msgstr ""
 "Cómo se pueden utilizar estos materiales (material didáctico), licencia (CC-BY-NC), atribución"
 
