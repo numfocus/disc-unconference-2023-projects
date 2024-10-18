@@ -142,7 +142,7 @@ msgstr ""
 
 #: ../../hidden-curriculum.md:32 5b4797ed48664b3d83ac02aa79289233
 msgid "Aleksey (they/them)"
-msgstr "Aleksey (ellos/ellas)"
+msgstr "Aleksey (elle)"
 
 #: ../../hidden-curriculum.md:34 9a734749978448b18ba59cd1e77addcc
 msgid ""
