@@ -258,8 +258,8 @@ msgstr ""
 
 #: ../../hidden-curriculum.md:48 e16a796afc6b4ea585ebc621ab25bb32
 msgid ""
-"Overview of problems when applying for grants: "
-"(challenges these materials will address)"
+"Overview of problems when applying for grants (challenges these materials"
+" will address)"
 msgstr ""
 "Resumen de los problemas al solicitar subvenciones: "
 "(desafíos que abordarán estos materiales)"
