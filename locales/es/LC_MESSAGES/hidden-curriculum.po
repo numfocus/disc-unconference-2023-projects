@@ -607,7 +607,7 @@ msgid ""
 "Creating your own budget, using a provided template, or using an "
 "institutional template"
 msgstr ""
-"Crear su propio presupuesto, usar una plantilla proporcionada o usar un "
+"Crear su propio presupuesto, usando una plantilla proporcionada o usando un "
 "plantilla institucional"
 
 #: ../../hidden-curriculum.md:136 6264e48a329145489363e8ac9b3b196d
