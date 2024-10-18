@@ -516,7 +516,7 @@ msgstr "¿Qué hace una buena propuesta?"
 
 #: ../../hidden-curriculum.md:113 50dde57fcffb45fe91f3fd103640447e
 msgid "Consistency"
-msgstr "consistencia"
+msgstr "Consistencia"
 
 #: ../../hidden-curriculum.md:114 211a40fd4f734fcb8b575e1dfeb62c29
 msgid "Concise but clear (not too specific or too general)"
