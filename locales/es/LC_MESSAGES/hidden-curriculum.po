@@ -293,8 +293,8 @@ msgid ""
 "Comprehensive overview of grant writing (there are other grant writing "
 "workshops, and this won’t cover discipline-specific considerations)"
 msgstr ""
-"Descripción general completa de la redacción de subvenciones (hay otras redacción de subvenciones"
-"talleres, y esto no cubrirá consideraciones específicas de la disciplina)"
+"Descripción general completa de la redacción de subvenciones (hay otros talleres de redacción de subvenciones "
+"y esto tampoco cubrirá consideraciones específicas de una disciplina)"
 
 #: ../../hidden-curriculum.md:56 be8f4ec8f29f49209dc271ab42fa2bba
 msgid ""
