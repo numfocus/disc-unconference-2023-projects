@@ -488,7 +488,7 @@ msgstr "Preguntas/hipótesis"
 
 #: ../../hidden-curriculum.md:106 571a11e23858461494486d04a9dc22a2
 msgid "Methods"
-msgstr "metodos"
+msgstr "Metodos"
 
 #: ../../hidden-curriculum.md:107 26ee67526b4947c0a752a0eaa75ae4bb
 msgid "Deliverables and success metrics"
