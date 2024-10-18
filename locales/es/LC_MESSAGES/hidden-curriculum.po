@@ -894,4 +894,4 @@ msgid ""
 "repository](https://github.com/open-life-science/knowhow)."
 msgstr ""
 "Este proyecto se desarrollará después del taller de OLS en [este "
-"repositorio](https://github.com/open-life-science/knowhow)".
+"repositorio](https://github.com/open-life-science/knowhow)."
