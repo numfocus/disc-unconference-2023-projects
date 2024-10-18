@@ -776,7 +776,7 @@ msgid ""
 "engaging in funded work"
 msgstr ""
 "Coordinar la toma de decisiones y la sincronización con los socios de la subvención mientras"
-"participar en un trabajo financiado"
+"se participa en un trabajo financiado"
 
 #: ../../hidden-curriculum.md:174 4a6eb33f2c454f14b70a6f8fe4a165d6
 msgid "Administer subawards for collaborative proposals"
