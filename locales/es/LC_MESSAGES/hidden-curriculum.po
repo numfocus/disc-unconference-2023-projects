@@ -48,8 +48,8 @@ msgid ""
 "**Proposed outcome**: Project proposal to share with global north "
 "philanthropy looking to make a difference in the global south"
 msgstr ""
-"**Resultado propuesto**: Propuesta de proyecto para compartir con el norte global"
-"filantropía que busca marcar la diferencia en el sur global"
+"**Resultado propuesto**: Propuesta de proyecto para compartir con la filantropía del norte global "
+"que busca marcar la diferencia en el sur global"
 
 #: ../../hidden-curriculum.md:8 1dcb310f60b34c8cad7fd1afcbacf512
 msgid ""
