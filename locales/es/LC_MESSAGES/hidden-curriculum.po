@@ -735,7 +735,7 @@ msgid ""
 "Module 6: Cross-institution collaboration (pre and post-award), 
 "advanced topics"
 msgstr ""
-"Módulo 6: Colaboración interinstitucional (pre y post-adjudicación), 
+"Módulo 6: Colaboración interinstitucional (pre y post-adjudicación), "
 "temas avanzados"
 
 #: ../../hidden-curriculum.md:166 8ea789d150964d15ac27938f9a89047f
