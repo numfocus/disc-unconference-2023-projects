@@ -640,7 +640,7 @@ msgid ""
 "should be able to:"
 msgstr ""
 "*Objetivos de aprendizaje del Módulo 4:* Al final de este módulo, los alumnos "
-"debería poder:"
+"deberían poder:"
 
 #: ../../hidden-curriculum.md:144 43a447c283434098adae4b30e9286ea6
 msgid ""
