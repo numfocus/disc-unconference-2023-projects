@@ -436,7 +436,7 @@ msgstr "Identificar colaboradores o partes interesadas clave que deben participa
 
 #: ../../hidden-curriculum.md:91 7495377b15804e64a7488b63b608fc58
 msgid "Understand the basic requirements you need to meet for a grant application"
-msgstr "Comprenda los requisitos básicos que debe cumplir para una solicitud de subvención"
+msgstr "Comprender los requisitos básicos que debes cumplir para una solicitud de subvención"
 
 #: ../../hidden-curriculum.md:92 3f2b382d201f476190899cede59e29a8
 msgid ""
