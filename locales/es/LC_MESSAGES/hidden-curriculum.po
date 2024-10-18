@@ -192,7 +192,7 @@ msgstr ""
 
 #: ../../hidden-curriculum.md:37 c40451579afd4e1f938c4612e582b6e9
 msgid "Mohamed (he/him)"
-msgstr "Mohamed (él/él)"
+msgstr "Mohamed (él)"
 
 #: ../../hidden-curriculum.md:39 1c63def8ce624e20b84600d199fd5c01
 msgid ""
