@@ -240,7 +240,8 @@ msgstr "Módulos de aprendizaje"
 
 #: ../../hidden-curriculum.md:43 51c1db66973e4efb800a2e5fdec292b8
 msgid ""
-"Module 1: Scope of the curriculum - who is this resource for and how to use it"
+"Module 1: Scope of the curriculum - who is this resource for and how to "
+"use it"
 msgstr ""
 "Módulo 1: Alcance del plan de estudios: para quién es este recurso y cómo utilizarlo"
 
