@@ -837,7 +837,7 @@ msgid ""
 "philanthropic or governmental funding; however some knowledge can be "
 "transferable to VC and industry funding at your own discretion)"
 msgstr ""
-"Capital de riesgo (VC) y/o financiación industrial (el objetivo principal de este plan de estudios)
+"Capital de riesgo (VC) y/o financiación industrial (el objetivo principal de este plan de estudios) "
 "La intención es apoyar a los investigadores y organizaciones que soliciten "
 "financiación filantrópica o gubernamental; sin embargo, algunos conocimientos pueden ser "
 "transferible a capital de riesgo y financiación de la industria a su propia discreción)"
