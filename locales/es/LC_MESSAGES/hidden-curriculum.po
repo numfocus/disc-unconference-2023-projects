@@ -885,8 +885,8 @@ msgid ""
 "These materials are available under a [CC-BY-NC]("
 "https://creativecommons.org/licenses/by-nc/2.0/) license."
 msgstr ""
-"Estos materiales están disponibles bajo [CC-BY-NC]("
-"https://creativecommons.org/licenses/by-nc/2.0/) licencia".
+"Estos materiales están disponibles bajo la licencia [CC-BY-NC]("
+"https://creativecommons.org/licenses/by-nc/2.0/)."
 
 #: ../../hidden-curriculum.md:201 4cd4054e064e4cbb82a0fa7cedbd5e59
 msgid ""
