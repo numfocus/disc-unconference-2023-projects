@@ -38,9 +38,9 @@ msgid ""
 "funders and potential grantees from different income levels can engage "
 "fairly."
 msgstr ""
-"**Descripción**: Creación colaborativa de un plan de estudios y entrenamiento"
-"programa para garantizar que el \"currículum oculto\" esté menos oculto, de modo que "
-"Los financiadores y posibles beneficiarios de diferentes niveles de ingresos pueden participar "
+"**Descripción**: Creación colaborativa de un plan de estudios "
+"para garantizar que el \"temario oculto\" sea menos oculto, de modo que "
+"los financiadores y posibles beneficiarios de distintos niveles socioeconomicos puedan participar "
 "equitativamente."
 
 #: ../../hidden-curriculum.md:6 64e012294a904456b3103626255bb748
