@@ -799,7 +799,7 @@ msgid ""
 "Explaining to funders/reviewers limitations with your institution/country"
 "that they may not know about"
 msgstr ""
-"Explicar a los financiadores/revisores las limitaciones de su institución/país"
+"Explicar a los financiadores/revisores las limitaciones de su institución/país "
 "que tal vez no sepan"
 
 #: ../../hidden-curriculum.md:182 c6fb56fef2d549de99829dbb57fec783
