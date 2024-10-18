@@ -747,7 +747,7 @@ msgid ""
 "Governance in consortia (e.g., value alignment, publication policies, "
 "licencing, code of conduct)"
 msgstr ""
-"Gobernanza en consorcios (por ejemplo, alineación de valores, políticas de publicación",
+"Gobernanza en consorcios (por ejemplo, alineación de valores, políticas de publicación, "
 "licencias, código de conducta)"
 
 #: ../../hidden-curriculum.md:168 41b0953e75c14b4db2caf0af2dc6fb6b
