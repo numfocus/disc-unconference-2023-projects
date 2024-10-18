@@ -105,7 +105,7 @@ msgstr "Personas de aprendizaje"
 
 #: ../../hidden-curriculum.md:29 2f1f298cf7a740658bd109fad3756f2d
 msgid "María (she/her)"
-msgstr "María (ella/ella)"
+msgstr "María (ella)"
 
 #: ../../hidden-curriculum.md:30 90841b79fba04b57b50e76ca43707616
 msgid ""
