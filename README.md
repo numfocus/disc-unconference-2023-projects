@@ -67,4 +67,4 @@ sphinx-intl update -p unconference/_build/gettext -l es
 needed with `gettext` as shown above. `-l` flag is what indicates what languages should be
 created/updated.
 
-The content can then be translated: locally with poedit or via transifex/crowdin?
+The content can then be translated locally with an editor compatible with `.po` files such as [poedit](https://poedit.net/).
